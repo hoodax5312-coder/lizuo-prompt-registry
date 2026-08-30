@@ -1,8 +1,10 @@
-# Image Prompt Registry
+# 栗作 LIZUO 提示词聚合仓库
 
 [English](README.md) | [提示词记录格式（英文）](docs/prompt-format.md) | [JSON Schema](schema/prompt.schema.json)
 
-集中抓取、解析和校验公开图片提示词来源，并发布统一格式的静态 JSON。Infinite Canvas、Codex Skills 或其他前端可以直接读取生成结果，不必各自维护来源解析器。
+集中抓取、解析和校验公开图片提示词来源，并发布统一格式的静态 JSON，供栗作 LIZUO 创作工作台和其他下游应用读取，不必在每个客户端中分别维护来源解析器。
+
+本仓库由栗作独立维护，基础实现来自 MIT 许可的 [yukkcat/image-prompts](https://github.com/yukkcat/image-prompts)。上游仓库继续作为参考实现与更新来源。
 
 ## 发布数据
 

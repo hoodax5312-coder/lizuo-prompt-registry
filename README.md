@@ -1,8 +1,10 @@
-# Image Prompt Registry
+# LIZUO Prompt Registry
 
 [Simplified Chinese](README.zh-CN.md) | [Prompt record specification](docs/prompt-format.md) | [JSON Schema](schema/prompt.schema.json)
 
-Image Prompt Registry collects public image-prompt sources, normalizes their records, validates them, and publishes static JSON for downstream applications. Consumers such as Infinite Canvas, Codex skills, websites, and local tools can read one stable format instead of maintaining a parser for every upstream source.
+LIZUO Prompt Registry collects public image-prompt sources, normalizes their records, validates them, and publishes static JSON for the 栗作 LIZUO creative workspace and other downstream applications. Consumers can read one stable format instead of maintaining a parser for every upstream source.
+
+This repository is independently maintained for LIZUO and is based on the MIT-licensed [yukkcat/image-prompts](https://github.com/yukkcat/image-prompts) registry. The upstream repository remains available as the reference implementation and update source.
 
 ## Published data
 

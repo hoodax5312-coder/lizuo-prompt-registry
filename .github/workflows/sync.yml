@@ -1,4 +1,4 @@
-name: Sync prompts
+name: Sync LIZUO prompt registry
 
 on:
   workflow_dispatch:

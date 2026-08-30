@@ -1,5 +1,9 @@
 # Data notice
 
+This repository is independently maintained for LIZUO and is derived from the
+MIT-licensed yukkcat/image-prompts project:
+https://github.com/yukkcat/image-prompts
+
 The MIT license covers the synchronization code and repository documentation.
 It does not relicense prompts, images, names, or other material obtained from
 upstream sources.

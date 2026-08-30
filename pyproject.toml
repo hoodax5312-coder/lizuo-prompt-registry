@@ -3,9 +3,9 @@ requires = ["setuptools>=75"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "image-prompt-registry"
+name = "lizuo-prompt-registry"
 version = "0.1.0"
-description = "Normalized static registry built from public image-prompt sources"
+description = "LIZUO registry of normalized public image-prompt sources"
 readme = "README.md"
 requires-python = ">=3.11"
 license = { file = "LICENSE" }
