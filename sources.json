@@ -1,5 +1,14 @@
 [
   {
+    "id": "youmind-seedance-2-prompts",
+    "name": "YouMind Seedance 2.0 Prompts",
+    "adapter": "seedance-markdown",
+    "url": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-seedance-2-prompts/main/README_zh.md",
+    "homepage": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+    "minimumItems": 100,
+    "model": "seedance-2"
+  },
+  {
     "id": "banana-prompt-quicker",
     "name": "Banana Prompt Quicker",
     "adapter": "banana-json",

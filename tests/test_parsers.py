@@ -7,6 +7,7 @@ from prompt_registry.parsers import (
     parse_banana_json,
     parse_freestylefly_json,
     parse_source,
+    parse_seedance,
     parse_youmind,
 )
 
@@ -236,3 +237,41 @@ Create the second image.
     items = parse_youmind(source("youmind-markdown", model="gpt-image-2"), payload)
     assert len(items) == 2
     assert items[0]["id"] != items[1]["id"]
+
+
+def test_seedance_markdown_reads_numbered_and_catalog_entries() -> None:
+    payload = """
+## ⭐ 精选提示词
+### No. 1: Featured film
+#### 📝 提示词
+```text
+Create a cinematic video.
+```
+<img src="media/featured.jpg">
+**作者:** [Alice](https://x.com/alice) | **来源:** [Post](https://x.com/post) | **发布时间:** March 15, 2026
+
+## 🎬 所有提示词
+### Unnumbered catalog entry
+> A short description.
+#### 📝 提示词
+```text
+Create a catalog video.
+```
+<img src="media/catalog.jpg">
+**作者:** [Bob](https://x.com/bob) | **来源:** [Link](https://x.com/link) | **发布时间:** Aug 30, 2026
+""".encode()
+    item_source = Source(
+        id="seedance",
+        name="Seedance",
+        adapter="seedance-markdown",
+        url="https://raw.githubusercontent.com/YouMind-OpenLab/awesome-seedance-2-prompts/main/README_zh.md",
+        homepage="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        minimum_items=1,
+        model="seedance-2",
+    )
+    items = parse_seedance(item_source, payload)
+    assert len(items) == 2
+    assert items[1]["title"] == "Unnumbered catalog entry"
+    assert items[1]["coverUrl"].endswith("/main/media/catalog.jpg")
+    assert items[1]["sourceUrl"] == "https://x.com/link"
+    assert items[1]["createdAt"] == "2026-08-30"

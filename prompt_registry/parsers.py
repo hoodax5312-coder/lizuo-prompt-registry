@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 from collections.abc import Callable, Iterable
+from datetime import datetime
 from typing import Any
 from urllib.parse import urlparse
 
@@ -188,6 +189,37 @@ def parse_youmind(source: Source, payload: bytes) -> list[dict[str, Any]]:
     return deduplicate(result)
 
 
+def parse_seedance(source: Source, payload: bytes) -> list[dict[str, Any]]:
+    """Parse YouMind's Seedance README, including the unnumbered full catalog."""
+    result = []
+    for raw_title, category, tokens in markdown_sections(decode(payload)):
+        if "更多提示词未在此显示" in raw_title:
+            continue
+        prompt = prompt_fence(tokens)
+        if not prompt:
+            continue
+        images = extract_images(source, tokens)
+        author, _author_url = labeled_link(tokens, "作者")
+        _source_name, item_url = labeled_link(tokens, "来源")
+        result.append(
+            make_prompt(
+                source,
+                raw_id=f"{raw_title}\n{prompt}",
+                title=raw_title,
+                prompt=prompt,
+                description=first_paragraph(tokens, exclude=("提示词", "作者", "来源", "发布时间")),
+                cover_url=images[0] if images else "",
+                reference_image_urls=images,
+                tags=[source.model, clean_category(category), author],
+                author=author,
+                source_url=item_url,
+                created_at=published_date_flexible(tokens),
+                image_model=source.model,
+            )
+        )
+    return deduplicate(result)
+
+
 def load_json_array(source: Source, payload: bytes) -> list[dict[str, Any]]:
     data = json.loads(payload.decode("utf-8-sig"))
     if not isinstance(data, list) or not all(isinstance(item, dict) for item in data):
@@ -302,8 +334,33 @@ def token_links(token: Token) -> list[tuple[str, str]]:
 
 def labeled_link(tokens: list[Token], label: str) -> tuple[str, str]:
     for token in tokens:
-        if token.type != "inline" or label not in token_text(token):
+        if token.type not in {"inline", "html_block"}:
             continue
+        value = token_text(token) if token.type == "inline" else token.content
+        if label not in value:
+            continue
+        if token.type == "html_block":
+            match = re.search(rf"{re.escape(label)}.*?\[([^\]]+)\]\(([^)]+)\)", token.content, re.S)
+            if match:
+                return inline(match.group(1)), match.group(2)
+            continue
+        seen_label = False
+        href = ""
+        text_parts: list[str] = []
+        for child in token.children or []:
+            if child.type == "text":
+                text_parts.append(child.content)
+                if label in child.content:
+                    seen_label = True
+            elif child.type == "link_open":
+                href = child.attrGet("href") or ""
+                text_parts = []
+            elif child.type == "link_close" and href:
+                if seen_label:
+                    return inline("".join(text_parts)), href
+                href = ""
+            elif href and child.type in {"code_inline", "image"}:
+                text_parts.append(child.content)
         links = token_links(token)
         if links:
             return links[0]
@@ -384,6 +441,27 @@ def published_date(tokens: list[Token]) -> str:
     return ""
 
 
+def published_date_flexible(tokens: list[Token]) -> str:
+    for token in tokens:
+        if token.type not in {"inline", "html_block"}:
+            continue
+        value = token_text(token) if token.type == "inline" else token.content
+        match = re.search(r"发布时间[:：]\s*[*_]*\s*(\d{4})年(\d{1,2})月(\d{1,2})日", value)
+        if match:
+            year, month, day = map(int, match.groups())
+            return f"{year:04d}-{month:02d}-{day:02d}"
+        match = re.search(r"发布时间[:：]\s*[*_]*\s*([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})", value)
+        if match:
+            month, day, year = match.groups()
+            for format_code in ("%B %d %Y", "%b %d %Y"):
+                try:
+                    return datetime.strptime(f"{month} {day} {year}", format_code).date().isoformat()
+                except ValueError:
+                    continue
+            return ""
+    return ""
+
+
 def clean_category(value: str) -> str:
     return re.sub(r"^[^\w]+", "", inline(value), flags=re.UNICODE)
 
@@ -395,4 +473,5 @@ PARSERS: dict[str, Callable[[Source, bytes], list[dict[str, Any]]]] = {
     "awesome-gpt-image-markdown": parse_awesome_gpt_image,
     "awesome-gpt4o-markdown": parse_awesome_gpt4o,
     "youmind-markdown": parse_youmind,
+    "seedance-markdown": parse_seedance,
 }
