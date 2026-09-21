@@ -126,6 +126,48 @@
     "imageModel": "seedance-2"
   },
   {
+    "id": "youmind-seedance-2-prompts:2f3564195084615d",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "电影级角色参考表提示词",
+    "prompt": "创建高端、超写实的电影级角色参考表 — 专业电影制作设计。\n\n参考锁定：\n将上传的参考图像作为主体身份的唯一来源。\n\n以最高精度保留确切的面部特征、脸型、眼睛、眉毛、鼻子、嘴唇、下颌线、肤色、发型、发色、身体比例、年龄及可识别的外观。\n\n自然适应任何人物，无论性别、年龄、发型、体型或个人外观如何。\n\n核心概念：\n根据主体的外观、个性和视觉存在感，将其转化为一个充分发展的电影角色。\n\n自动设计适合该主体的独特角色概念、服装、配饰、发型、配色方案和视觉身份。\n\n角色设计：\n创建一个视觉上强大且原创的角色，适用于高端好莱坞或 Netflix 风格的电影制作。\n\n角色可以是：战士、反派、英雄、女巫、皇室成员、科幻探索者、刺客、侦探、幸存者、奇幻角色或现代电影人物。\n\n根据上传的参考图像和预期的视觉风格，选择最合适的角色方向。\n\n角色表布局：\n\n1. 主肖像：\n创作一张大型、戏剧性、超写实的电影肖像，展示角色的面部、发型、服装和整体个性。\n\n2. 面部表情：\n创建专业的面部表情网格，包括：中性、严肃、强烈、柔和、微笑、愤怒、悲伤、神秘。\n在每个面板中保持一致的面部特征。\n\n3. 转身图 / 全身视图：\n展示角色的：正面视图、侧面视图、背面视图、四分之三侧面视图。\n在所有视图中保持服装、身体比例、配饰和发型的一致性。\n\n4. 肖像变体：\n包含不同角度的电影特写：正面肖像、四分之三侧面肖像、侧面肖像、戏剧性阴影肖像。\n\n5. 服装与细节特写：\n展示以下部分的高度详细特写：头饰或发型、服装细节、配饰、腰带或腰部细节、手套或手部细节、面料纹理、项链或标志性道具。\n\n6. 配色方案：\n展示与角色服装和电影主题相匹配的专业配色方案。\n\n7. 角色信息：\n包含一个简洁专业的部分，内容包括：角色名称、角色定位、别名、性格、风格、主题、标志性元素。\n\n8. 电影世界观构建：\n添加微妙的氛围背景或环境插图，以补充角色的世界。\n\n视觉风格：\n高端好莱坞概念艺术。超写实摄影。高端服装设计。电影级布光。自然皮肤质感。逼真的面料和材质细节。专业电影制作参考表。优雅的编辑排版。微妙的电影氛围。清晰的面部细节。照片级真实渲染。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "M. Asif"
+    ],
+    "author": "M. Asif",
+    "sourceUrl": "https://x.com/meAsifAi/status/2101515191158542788",
+    "createdAt": "2026-09-20",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:8f0e9660c7c0c053",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "雪崩列车巨龙救援动画训练",
+    "prompt": "15 秒电影感动画短片。\n一列客运火车在雪山峡谷中疾驰。\n前方，一场巨大的雪崩突然爆发，开始向铁轨轰然崩塌。\n火车紧急刹车。\n乘客们透过车窗，看着冰雪和岩石从山上滚滚而下。\n突然，一条巨龙从森林中冲出。\n它降落在铁轨旁，展开巨大的双翼。\n雪崩袭来。\n巨龙稳住身形，为火车抵挡最猛烈的坠落物。\n雪花在它周围炸裂开来。\n火车停在被堵塞的铁轨前几英寸处。\n在前节车厢内，一个小女孩把手贴在窗户上。\n疲惫的巨龙回头看着她。\n她笑了。\n巨龙轻轻放下一只翅膀，随后消失在白雪覆盖的森林中。\n\n风格化电影动画，精致的生物设计，绘画质感纹理，写实环境，戏剧性的物理动作，动态镜头运动，强烈的空间尺度感，温暖的情感结局，自然色彩，电影级布光，无对白，无魔法能力，无恐怖元素，无暴力内容。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "Alexandra Aisling"
+    ],
+    "author": "Alexandra Aisling",
+    "sourceUrl": "https://x.com/AllaAisling/status/2101429374755262628",
+    "createdAt": "2026-09-19",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
     "id": "youmind-seedance-2-prompts:bf2595d0ebc262c7",
     "sourceId": "youmind-seedance-2-prompts",
     "title": "黑暗战士风暴屋顶视频提示词",
@@ -2179,48 +2221,6 @@
     ],
     "author": "Elaine Wright",
     "sourceUrl": "https://x.com/ElaineWrigari1/status/2096821611240538456",
-    "createdAt": "2026-09-07",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:fd8c87eb25953561",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "21 世纪初 MiniDV 家庭录像美学风格",
-    "prompt": "15 秒 Seedance 提示词 — 5 个镜头\n\n风格：21 世纪初真实的 MiniDV 家庭录像。年轻韩国女性，24 岁，自然美，深色长发，淡妆，白色 T 恤外搭米色开衫，宽松蓝色牛仔裤，白色运动鞋。舒适的公寓客厅，温暖的午后阳光。4:3 画幅，手持抖动，自动对焦搜索，磁带颗粒感/压缩感，自然曝光。保持人物、服装、发型和环境的一致性。\n\n镜头 1 — 0:00–0:03\n近距离手持镜头，她将 MiniDV 摄像机放在小桌子上，调整构图，按下录制键，然后迅速走出画面。\n镜头 2 — 0:03–0:06\n广角摄像机 POV。她匆忙跑进画面站好位置，停在中心并快速整理头发。\n\n镜头 3 — 0:06–0:09\n她摆出可爱的自然微笑，歪着头，一只手靠近脸部。在重心转移时，她的脚稍微绊到了地毯。\n镜头 4 — 0:09–0:12\n她向前踉跄了一下，稳住身体，僵住片刻，然后立即恢复到完全相同的姿势，假装什么都没发生。\n\n镜头 5 — 0:12–0:15\n她保持姿势，试图保持严肃，但忍不住轻笑出来。她带着尴尬的笑容看向镜头。\n结尾：自然地定格在她大笑的表情上，伴随轻微的 MiniDV 抖动。细微且真实的踉跄，没有夸张的摔倒，没有电影级的润色，没有慢动作。",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "Ahmad Faraz"
-    ],
-    "author": "Ahmad Faraz",
-    "sourceUrl": "https://x.com/iamahmedfaraz66/status/2096808174556954911",
-    "createdAt": "2026-09-07",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:5a15b87f07341e60",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "水粉画风格动画",
-    "prompt": "电影级 2.5D 动画，采用完全手绘渲染风格，角色与环境呈现出动态水粉概念画的质感，皮肤、衣物及建筑上可见笔触纹理，采用具有硬边缘光影的扁平化色块设计",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "PixieVerse"
-    ],
-    "author": "PixieVerse",
-    "sourceUrl": "https://x.com/itsPixieVerse/status/2096801780697030939",
     "createdAt": "2026-09-07",
     "imageMode": "",
     "imageModel": "seedance-2"
