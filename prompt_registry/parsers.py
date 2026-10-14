@@ -220,6 +220,136 @@ def parse_seedance(source: Source, payload: bytes) -> list[dict[str, Any]]:
     return deduplicate(result)
 
 
+def parse_zerolu_nanobanana(source: Source, payload: bytes) -> list[dict[str, Any]]:
+    """Parse ZeroLu's English README: "### 1.1. Title", **Prompt:** fence, *Source: [@x](url)*."""
+    result = []
+    for raw_title, category, tokens in markdown_sections(decode(payload)):
+        match = re.match(r"\d+(?:\.\d+)*\.?\s+(.+)", raw_title)
+        if not match:
+            continue
+        prompt = prompt_fence(tokens, "Prompt")
+        if not prompt:
+            continue
+        images = extract_images(source, tokens)
+        author, item_url = labeled_link(tokens, "Source")
+        # The caption shares a paragraph with an inline <img>, which first_paragraph would skip.
+        description = next(
+            (
+                text
+                for token in tokens
+                if token.type == "inline"
+                and (text := token_text(token))
+                and "Prompt" not in text
+                and "Source" not in text
+            ),
+            "",
+        )
+        result.append(
+            make_prompt(
+                source,
+                title=match.group(1),
+                prompt=prompt,
+                description=description,
+                cover_url=images[0] if images else "",
+                reference_image_urls=images,
+                tags=[source.model, re.sub(r"^[\d.\s]+", "", clean_category(category)), author],
+                author=author,
+                source_url=item_url,
+                image_model=source.model,
+            )
+        )
+    return deduplicate(result)
+
+
+def parse_picotrex(source: Source, payload: bytes) -> list[dict[str, Any]]:
+    """Parse PicoTrex's README: "### 例 N: [标题](链接)（by [@作者](链接)）" and a **提示词:** fence."""
+    result = []
+    for raw_title, _category, tokens in markdown_sections(decode(payload)):
+        match = re.match(r"例\s*(\d+)\s*[:：]\s*(.+)", raw_title)
+        if not match:
+            continue
+        prompt = prompt_fence(tokens)
+        if not prompt:
+            continue
+        item_number, heading = match.groups()
+        by = re.search(r"[（(]\s*by\s+([^）)]+)[）)]\s*$", heading, re.I)
+        title = heading[: by.start()].strip() if by else heading
+        author = inline(by.group(1)) if by else ""
+        images = extract_images(source, tokens)
+        result.append(
+            make_prompt(
+                source,
+                raw_id=f"{item_number}\n{title}\n{prompt}",
+                title=title,
+                prompt=prompt,
+                cover_url=images[0] if images else "",
+                reference_image_urls=images,
+                tags=[source.model, author],
+                author=author,
+                image_model=source.model,
+            )
+        )
+    return deduplicate(result)
+
+
+# Parameters only Midjourney accepts. A bare --ar is excluded because other models' prompts borrow it.
+MIDJOURNEY_PARAMETER = re.compile(
+    r"(?<![\w-])--(?:v|version|niji|sref|cref|oref|style|stylize|s|chaos|c|weird|w|personalize|p"
+    r"|iw|sw|cw|ow|q|quality|no|tile|raw)\b",
+    re.I,
+)
+
+
+def youmind_skill_files(source: Source, payload: bytes) -> list[tuple[str, str]]:
+    """List (category title, file URL) pairs from the skill's references/manifest.json."""
+    manifest = json.loads(decode(payload))
+    categories = manifest.get("categories") if isinstance(manifest, dict) else None
+    if not isinstance(categories, list) or not categories:
+        raise ValueError(f"{source.id} manifest must contain a categories array")
+    result = []
+    for category in categories:
+        url = absolute_url(source.url, category.get("file")) if isinstance(category, dict) else ""
+        if not url:
+            raise ValueError(f"{source.id} manifest lists a category without a file")
+        result.append((inline(category.get("title")), url))
+    return result
+
+
+def parse_youmind_skill_midjourney(source: Source, payload: bytes) -> list[dict[str, Any]]:
+    """Keep YouMind skill prompts written in Midjourney syntax; the upstream data has no model field."""
+    data = json.loads(decode(payload))
+    categories = data.get("categories") if isinstance(data, dict) else None
+    if not isinstance(categories, list):
+        raise ValueError(f"{source.id} bundle must contain a categories array")
+    result = []
+    for category in categories:
+        items = category.get("items") if isinstance(category, dict) else None
+        if not isinstance(items, list) or not all(isinstance(item, dict) for item in items):
+            raise ValueError(f"{source.id} category files must be JSON arrays of objects")
+        for item in items:
+            prompt = item.get("content")
+            if not MIDJOURNEY_PARAMETER.search(str(prompt or "")):
+                continue
+            images = array(item.get("sourceMedia"))
+            tags = [source.model, category.get("title")]
+            if item.get("needReferenceImages") is True:
+                tags.append("需要参考图")
+            result.append(
+                make_prompt(
+                    source,
+                    raw_id=item.get("id"),
+                    title=item.get("title"),
+                    prompt=prompt,
+                    description=item.get("description"),
+                    cover_url=images[0] if images else "",
+                    reference_image_urls=images,
+                    tags=tags,
+                    image_model=source.model,
+                )
+            )
+    return deduplicate(result)
+
+
 def load_json_array(source: Source, payload: bytes) -> list[dict[str, Any]]:
     data = json.loads(payload.decode("utf-8-sig"))
     if not isinstance(data, list) or not all(isinstance(item, dict) for item in data):
@@ -277,16 +407,16 @@ def token_text(token: Token) -> str:
     return inline("".join(parts))
 
 
-def prompt_fence(tokens: list[Token]) -> str:
+def prompt_fence(tokens: list[Token], marker: str = "提示词") -> str:
     marker_seen = False
     index = 0
     while index < len(tokens):
         token = tokens[index]
         if token.type == "heading_open" and token.tag == "h4":
-            marker_seen = "提示词" in heading_text(tokens, index)
+            marker_seen = marker in heading_text(tokens, index)
             index += 3
             continue
-        if token.type == "inline" and "提示词" in token_text(token):
+        if token.type == "inline" and marker in token_text(token):
             marker_seen = True
         elif marker_seen and token.type == "fence":
             return token.content.strip()
@@ -474,4 +604,13 @@ PARSERS: dict[str, Callable[[Source, bytes], list[dict[str, Any]]]] = {
     "awesome-gpt4o-markdown": parse_awesome_gpt4o,
     "youmind-markdown": parse_youmind,
     "seedance-markdown": parse_seedance,
+    "zerolu-nanobanana-markdown": parse_zerolu_nanobanana,
+    "picotrex-markdown": parse_picotrex,
+    "youmind-skill-midjourney": parse_youmind_skill_midjourney,
+}
+
+# Adapters whose source URL is a manifest; sync fetches the listed files and joins them
+# into {"categories": [{"title": ..., "items": [...]}]} before parsing.
+BUNDLES: dict[str, Callable[[Source, bytes], list[tuple[str, str]]]] = {
+    "youmind-skill-midjourney": youmind_skill_files,
 }

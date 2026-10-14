@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T10:46:08+00:00",
-  "registryHash": "3314187b838c2428b25ad36d0509e78be9e29dd294259b1d42d8caf76482e966",
-  "total": 1848,
+  "generatedAt": "2026-10-13T16:05:45+00:00",
+  "registryHash": "fb87f2bccb546f406abac2fb03430eb6bb2b1219f19e31769444716948a574d2",
+  "total": 1856,
   "promptsPath": "prompts.json",
   "sources": [
     {
@@ -12,7 +12,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-seedance-2-prompts/main/README_zh.md",
       "count": 106,
       "path": "sources/youmind-seedance-2-prompts.json",
-      "sha256": "e96086aa8fa0162ac1ce83af6cbe059f516f83c7038258aaec3c3edf9c5aabd4"
+      "sha256": "c9afbabdb7131765be9ca89b0250ffd6d76d13c6ca6c306de0dfa012aff2df46"
     },
     {
       "id": "banana-prompt-quicker",
@@ -22,15 +22,6 @@
       "count": 323,
       "path": "sources/banana-prompt-quicker.json",
       "sha256": "0ae590d56820d1d9716691e96410ee6869dec28a7261de397f74ad2f6cbedda5"
-    },
-    {
-      "id": "davidwu-gpt-image2-prompts",
-      "name": "DavidWu GPT Image 2 Prompts",
-      "homepage": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
-      "upstreamUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/prompts.json",
-      "count": 494,
-      "path": "sources/davidwu-gpt-image2-prompts.json",
-      "sha256": "bc61473b87e53acd514d14e1936f3490fe7d9db3cf004d5730dda9f28cda1dbf"
     },
     {
       "id": "freestylefly-gpt-image-2",
@@ -51,15 +42,6 @@
       "sha256": "e5508cad635279cd2c9ddda70d422ad9de8700e7e349e463f2fe433e562a99ec"
     },
     {
-      "id": "awesome-gpt4o-image-prompts",
-      "name": "Awesome GPT-4o Image Prompts",
-      "homepage": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
-      "upstreamUrl": "https://raw.githubusercontent.com/ImgEdify/Awesome-GPT4o-Image-Prompts/main/README.zh-CN.md",
-      "count": 76,
-      "path": "sources/awesome-gpt4o-image-prompts.json",
-      "sha256": "ece926584179496d426bd9703c0ea30a13b89a9ce0101bb340056d049e58979d"
-    },
-    {
       "id": "youmind-gpt-image-2",
       "name": "YouMind GPT Image 2",
       "homepage": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
@@ -76,6 +58,51 @@
       "count": 129,
       "path": "sources/youmind-nano-banana-pro.json",
       "sha256": "5e5dae419845deaaf419d4646fca1000bb29caae3e06ec60cdd71d18f0c807e0"
+    },
+    {
+      "id": "zerolu-nanobanana-pro",
+      "name": "Awesome Nano Banana Pro",
+      "homepage": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/main/README.md",
+      "count": 70,
+      "path": "sources/zerolu-nanobanana-pro.json",
+      "sha256": "35750334171d50e513b5cc059ec6707b85ca8bfac993cfe3397f8684ff94528c"
+    },
+    {
+      "id": "picotrex-nano-banana-images",
+      "name": "PicoTrex Nano Banana Images",
+      "homepage": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+      "upstreamUrl": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/README.md",
+      "count": 161,
+      "path": "sources/picotrex-nano-banana-images.json",
+      "sha256": "a6f99a25161731142a43f1772315b4b2ebbf8dc1159b3713a3136a085e9b847b"
+    },
+    {
+      "id": "youmind-gemini-3-prompts",
+      "name": "YouMind Gemini 3 Prompts",
+      "homepage": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
+      "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-gemini-3-prompts/main/README_zh.md",
+      "count": 49,
+      "path": "sources/youmind-gemini-3-prompts.json",
+      "sha256": "603247279023b893291deb8f9413afd48389690b486d6841d4cc8283c8099f0b"
+    },
+    {
+      "id": "youmind-grok-imagine-prompts",
+      "name": "YouMind Grok Imagine Prompts",
+      "homepage": "https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts",
+      "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-grok-imagine-prompts/main/README_zh.md",
+      "count": 103,
+      "path": "sources/youmind-grok-imagine-prompts.json",
+      "sha256": "bad2c54b5ef1a27bd0766d730161a502a67b68371216940cab622818b7d3bac1"
+    },
+    {
+      "id": "youmind-midjourney-syntax",
+      "name": "YouMind Midjourney Syntax Prompts",
+      "homepage": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
+      "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/ai-image-prompts-skill/main/references/manifest.json",
+      "count": 195,
+      "path": "sources/youmind-midjourney-syntax.json",
+      "sha256": "efc834d0dfe55bbc63743867de355d49706c971548ac13434535b7ab1b0149a7"
     }
   ]
 }

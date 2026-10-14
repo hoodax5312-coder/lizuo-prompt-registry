@@ -1,0 +1,987 @@
+[
+  {
+    "id": "youmind-gemini-3-prompts:1886994ea362bb49",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "感恩节查理·布朗主题商店",
+    "prompt": "请帮我搭建一个以 {argument name=\"theme_en\" default=\"Thanksgiving Charlie Brown\"} 为主题和风格的商店。",
+    "description": "一个简洁的提示，用于构建一个以感恩节查理·布朗为主题的商店界面，适合作为网页店面设计。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Sedativ"
+    ],
+    "author": "Sedativ",
+    "sourceUrl": "https://x.com/sedgabi/status/1993326264741146985",
+    "createdAt": "2025-11-25",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:6b94a3f48949627d",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "AI 游戏未来感动画着陆页",
+    "prompt": "我想为一款新的 {argument name=\"product_type_en\" default=\"AI 游戏\"} 设计一个着陆页。我们希望它看起来充满未来感，并尽可能多地使用动画。",
+    "description": "一个用于 Claude Code 技能的英文提示，要求 Gemini 3 Pro 为一款新的 AI 游戏设计一个充满未来感、动画丰富的着陆页。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "elvis"
+    ],
+    "author": "elvis",
+    "sourceUrl": "https://x.com/omarsar0/status/1993101718041903565",
+    "createdAt": "2025-11-24",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:6d8a67dd90e248c2",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "你好世界网页，带 Linear 风格变体",
+    "prompt": "帮我构建一个“Hello World”页面。\n\n帮我构建一个 {argument name=\"style_en\" default=\"Linear\"} 风格的“Hello World”页面。\n\n帮我构建一个 {argument name=\"style_en\" default=\"Linear\"} 风格的“Hello World”页面。",
+    "description": "以下是 Gemini 3.0 的三个简单提示，展示了添加样式和图像（特别是 Linear 风格设计和图像提示）如何改变生成的“Hello World”页面的质量。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg",
+      "https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg",
+      "https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Jason Zhou"
+    ],
+    "author": "Jason Zhou",
+    "sourceUrl": "https://x.com/jasonzhou1993/status/1991754086417682891",
+    "createdAt": "2025-11-21",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:847390e184e5b76d",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "奢华 3D 腕表产品体验页面 (Next.js + Three.js)",
+    "prompt": "为一款奢华腕表设计一个 3D 产品体验页面。\n**目标用户：** 30-50 岁的富裕客户、腕表爱好者和商务人士。\n**品牌调性：** 奢华 × 科技（现代、精致的高端感受）。\n滚动体验（5 个部分）：\n英雄部分 – 腕表从黑暗中缓缓浮现，旋转着进入光线。实现全息效果和菲涅尔反射，并使用自定义着色器。\n细节放大 – 表盘特写。使用 GLSL 实现金属反射、视差映射和实时光泽度。\n机械分解 – 腕表分解，内部机芯在空中漂浮。使用置换着色器实现能量场效果，并为每个部件添加发光效果。\n材质体验 – 在不同的材质变体之间切换。以基于物理的方式，使用 PBR 着色器表达金属感、玻璃折射和钛金属的哑光纹理。\n结尾 – 腕表重新组装，背景是使用自定义着色器制作的抽象渐变网格。应用后期处理，如泛光和景深。\n**技术栈：** Next.js 15 + Three.js + React Three Fiber + GLSL (自定义着色器) + react-postprocessing + Lenis。\n着色器要求：\n菲涅尔反射着色器（边缘光效果）\nPBR 材质着色器（粗糙度、金属度、AO）\n全息着色器（虹彩干涉效果）\n置换着色器（波动和扭曲效果）\n自定义背景着色器（渐变噪声）\n后期处理：泛光 (Bloom)、色差 (ChromaticAberration)、景深 (DepthOfField)、晕影 (Vignette)。\n请为以下各项提出具体的数值：\n每个部分的滚动范围（以 % 或 vh 为单位）\n动画参数（位置、旋转、缩放等的起始/结束值）\n缓动函数（缓动类型）\n相机 FOV、位置和目标值\n灯光设置（强度、颜色、位置）\n每个着色器的 Uniform 值（时间进程、滚动进度、色相、强度等）。",
+    "description": "一个详细的日文提示，用于设计一个豪华 3D 产品体验网页，面向高端手表，使用 Next.js、Three.js、React Three Fiber、GLSL，并包含特定的滚动部分和着色器要求。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Shin@プログラミングチュートリアル"
+    ],
+    "author": "Shin@プログラミングチュートリアル",
+    "sourceUrl": "https://x.com/Shin_Engineer/status/1991740779652657455",
+    "createdAt": "2025-11-21",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:f6bb94269e1f50ac",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "趣味十足的《塞尔达传说》视频捕捉编辑器提示",
+    "prompt": "你是一位资深的游戏编程大师。请帮我编写一个编辑器，其渲染模块使用 WebCodecs。打开 Switch 并插入 {argument name=\"game_title_en\" default=\"The Legend of Zelda: Breath of the Wild\"}。小心不要舔卡带——它有点苦。使用专业的采集卡捕捉视频，在 60 秒的时间限制内完成“被遗忘的圣殿”挑战并使用风弹。",
+    "description": "一个幽默的中文提示，扮演一位资深游戏编程大师，描述了如何使用 WebCodecs 构建编辑器并捕捉《塞尔达传说：旷野之息》的游戏画面。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "海拉鲁编程客"
+    ],
+    "author": "海拉鲁编程客",
+    "sourceUrl": "https://x.com/hylarucoder/status/1991491913720218098",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:3143028ae1e53087",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "奢华智能手表 Three.js 动画着陆页",
+    "prompt": "使用 Three.js、Anime.js 和 Tailwind 为一个 {argument name=\"product_type_en\" default=\"奢华智能手表\"} 页面创建一个 HTML 文件。制作一个 3D {argument name=\"main_object_en\" default=\"手表\"} 模型，一个带有圆形孔洞的深色纹理叠加层，显示 {argument name=\"main_object_background_en\" default=\"米色背景上的手表\"}，并在页面加载时让标题和大数字滑入。\n\n让页面更专业。用一个加载时打开的光圈替换静态孔洞。在 {argument name=\"focus_area_en\" default=\"表盘\"} 上添加一个带反射的玻璃罩，改进金属材质，添加鼠标视差效果，使 {argument name=\"parallax_target_en\" default=\"手表\"} 随光标旋转，并在 {argument name=\"dial_area_en\" default=\"表盘\"} 上绘制时间及健身环。\n\n将单屏页面转换为多段滚动网站。当用户滚动时，动画化 3D {argument name=\"scroll_object_en\" default=\"手表\"}，使其移动和旋转以匹配每个部分。保持 3D 画布和背景固定，而文本在其上方滚动；只有 {argument name=\"moving_element_en\" default=\"手表\"} 移动。\n\n- 固定画布：定位画布",
+    "description": "一个详细的多步骤提示序列，用于 Gemini 3 Pro 构建一个使用 Three.js、Anime.js 和 Tailwind 的奢华智能手表着陆页，然后将其完善为一个具有高级动画和交互的多部分滚动网站。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Harshith"
+    ],
+    "author": "Harshith",
+    "sourceUrl": "https://x.com/HarshithLucky3/status/1991474311916580881",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:0c19827c0cd4e5f0",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "生成 40 个带下载按钮的简单 SVG 图标",
+    "prompt": "生成 {argument name=\"icon_count_en\" default=\"40\"} 个简单且高度通用的 SVG 格式图标。请务必在画布上绘制它们。颜色应为 {argument name=\"icon_color_en\" default=\"light blue\"}。背景应为 {argument name=\"background_color_en\" default=\"white\"}。使用具有 Material Design 风格的线条式图标。添加一个按钮，让用户可以下载每个 SVG 图标的 SVG 数据。",
+    "description": "一个日文提示，要求 Gemini 生成 40 个浅蓝色线条风格的简单、多功能 SVG 图标，并为每个图标提供下载按钮。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "KAWAI"
+    ],
+    "author": "KAWAI",
+    "sourceUrl": "https://x.com/kawai_design/status/1991461556597715056",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:8dfe78fdad4b1e49",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "体素艺术宝塔花园单文件 HTML 场景",
+    "prompt": "设计一个精美细致的体素艺术环境，其中包含一座华丽的 {argument name=\"main_structure_en\" default=\"宝塔\"}，坐落于一个生机勃勃的花园之中。\n加入多样化的植被——特别是 {argument name=\"key_tree_en\" default=\"樱花树\"}——并确保构图充满活力、色彩斑斓且视觉效果引人注目。\n您可以使用任何您喜欢的体素或 WebGL 库，但请将整个项目作为一个独立的 HTML 文件交付，我可以直接粘贴并在 Chrome 中打开。",
+    "description": "一个英文提示，用于设计一个色彩丰富的体素艺术宝塔花园环境，作为一个完全独立的 HTML 文件，可在 Chrome 中运行，并使用任何体素/WebGL 库。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427416603128159",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:07a0c06d60cc0cb4",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "未来主义加密货币仪表盘 UI",
+    "prompt": "重新创建一个未来风格的深色模式加密货币数据仪表盘：整体采用高对比度的黑曜石背景，玻璃拟态 UI 元素带有渐变轮廓，纤细的 Inter 字体，以及带有霓虹灯效果的金融数据可视化。",
+    "description": "一个中文提示，用于重新创建一个具有玻璃拟态、霓虹灯点缀和时尚 Inter 字体的未来主义深色模式加密货币数据仪表板。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427411129561513",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:e1363697179d2894",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "HTML 中的 SVG 摩天轮机械动画",
+    "prompt": "设计一个 SVG 摩天轮机械动画，包括主轮、中心轴承、支撑架、驱动齿轮组以及 8 到 12 个带有反向自调平机构的座舱，以保持座舱水平。所有连杆和齿轮传动必须精确，展示完整的机械传动链和保持座舱水平的反向旋转逻辑。以 HTML 格式输出。",
+    "description": "一个提示，用于设计一个精确的机械 SVG 摩天轮动画，包含齿轮、连杆和自调平座舱，并输出为 HTML。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427405538554207",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:f5b4b48e51d265e0",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "Keep-inspired 中文健身课程网站",
+    "prompt": "构建一个受 Keep 启发的中文“健身课程”网页：包含全屏运动员英雄图片、透明的固定导航栏、中文胶囊标签分类以及中文课程卡片网格。每张课程卡片对应一个训练计划；参考 Pamela、周六野、韩小四、Jojie、刘畊宏等创作者的课程风格，设计中文标题以及难度和时长标签。点击卡片时，在页面内打开一个课程预览视频播放器，其内容严格匹配卡片信息。整体设计应保持简约而不失细节，通过流畅的滚动和悬停动画、柔和的渐变和精致的排版，营造高端的中文体验。使用 Tailwind CSS 实现完全响应式布局。",
+    "description": "请用中文写一个长篇的、英文风格的提示词，要求 Gemini 搭建一个受 Keep 启发、响应式、使用 Tailwind CSS 的中文健身课程网站。该网站应包含课程卡片、筛选器和匹配的视频弹窗。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427408323572067",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:54f4a43a573481e7",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "Keep-style 中文健身页面（单个 HTML）",
+    "prompt": "构建一个 Keep 风格的中文健身页面，该页面具有简洁、现代的 UI、交互式 SVG 人体模型（正面/背面视图，点击肌肉会高亮显示）、中文筛选器（性别/级别/器械）和运动卡片。使用 Tailwind + JavaScript 将其作为单个 HTML 文件交付。",
+    "description": "一个英文提示，用于在单个 HTML 文件中构建一个 Keep 风格的中文健身页面，包含交互式 SVG 人体模型、筛选器和运动卡片，使用 Tailwind 和 JavaScript。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427402757730387",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:e5fa7256eea9eef4",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "新粗野主义网站设计提示",
+    "prompt": "创建一个突破创意界限的新粗野主义网站。包含流畅的滚动动画、鲜艳的色彩和 Tailwind ES 样式，并使其完全响应式。",
+    "description": "一个简短的英文提示，用于创建一个具有流畅滚动动画、鲜艳色彩和响应式 Tailwind 布局的新粗野主义风格网站。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427399884624333",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:df3b1fd47062237d",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "复古宝丽来相机网站，带照片墙",
+    "prompt": "请开发一个具有复古宝丽来（Polaroid）风格的网络摄像头应用程序。在页面左下角放置一个宝丽来相机模型，该模型可以调用用户的网络摄像头并显示实时预览。点击快门后，一张“相纸”会从相机顶部缓慢弹出，照片会从最初的模糊逐渐显影清晰。用户可以将完全显影的照片从相机上方拖动到页面的任意位置，从而创建类似于“照片拼贴墙”的自由布局。",
+    "description": "一个详细的中文提示，描述了一款具有复古宝丽来风格的网络摄像头应用，包括实时网络摄像头预览、照片冲印动画以及可拖动照片组成的拼贴墙。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "老白（每日干货分享✊）"
+    ],
+    "author": "老白（每日干货分享✊）",
+    "sourceUrl": "https://x.com/laobaishare/status/1991427396625383621",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:d93d86249d9ec584",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "塔罗牌风格的解梦日记网络应用",
+    "prompt": "生成一个中文网页应用程序，用户每天早上可以在其中记录自己的梦境。该应用提供大量“插画贴纸”来拼贴和重构梦境场景，最后生成一张看起来像塔罗牌的梦境卡片。",
+    "description": "一个用于构建中文网络应用的提示，用户每天早上可以在其中记录梦境，拼贴贴纸插图，最后生成一张塔罗牌般的解梦卡。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991424776473317412",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:43c2470e2658182a",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "使用 Gemini 和 React 构建的 3D 积木应用",
+    "prompt": "请扮演一位世界级的全栈工程师和用户体验设计师。使用 React、Three.js (@react-three/fiber)、Tailwind CSS 和 Google Gemini API (@google/genai) 构建一个 {argument name=\"application_name_en\" default=\"3D 砖块搭建应用程序\"}。\n\n## 设计理念\n- **主题**：{argument name=\"theme_en\" default=\"白色基调\"} 现代美学。",
+    "description": "一个英文系统风格的提示，让 Gemini 扮演世界级的全栈工程师，使用 React、Three.js、Tailwind CSS 和 Gemini API 构建一个类似 Minecraft 的 3D 积木建造应用。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》"
+    ],
+    "author": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+    "sourceUrl": "https://x.com/masahirochaen/status/1991414295398346786",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:64227c9aafd71828",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "X (Twitter) MBTI 分析器网页应用",
+    "prompt": "创建一个 X MBTI 分析器：用户粘贴一条推文 → 前端调用后端（后端使用 Gemini API 推断 MBTI 类型）。\n设计风格应遵循 Linear，仅限深色模式，呈现极简而高品质的感受，并带有精致的细节。界面应为中文。",
+    "description": "一个用于创建中文网页界面的提示，该界面通过调用由 Gemini 提供支持的后端来分析推文的 MBTI 类型，并采用 Linear 的深色主题样式。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "katon"
+    ],
+    "author": "katon",
+    "sourceUrl": "https://x.com/hellokaton/status/1991413950098075659",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:e4ba64b8169578b7",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "AI 汉服衣橱虚拟试穿应用",
+    "prompt": "开发一款中文 AI 汉服衣橱应用。该应用使用 AI 换脸或 3D 人体塑形技术。用户上传一张照片后，即可一键“试穿”来自不同朝代（如唐、宋、明）的汉服，或自行定制发簪和妆容。",
+    "description": "一个用于 Gemini 3 Pro 的中文提示，旨在生成一个汉服衣橱网络应用。用户可以在该应用中上传照片，虚拟试穿不同朝代的服装，并自定义发簪和妆容。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991408418658349419",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:ca0f246204d00aec",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "复古摩托罗拉寻呼机打字机网页应用",
+    "prompt": "请帮我创建一个复古打字机风格的网页应用，主题围绕着 {argument name=\"device_name_en\" default=\"Motorola Fix Beeper\"}。在页面中央显示一个打字机，它可以接收用户输入的文本，并以卡片的形式生成，带有类似于打字机缓慢打字的效果，并允许将卡片拖动到空白区域。",
+    "description": "一个给 Gemini 3 Pro 的中文提示，用于构建一个复古摩托罗拉寻呼机风格的网页打字机，将用户输入的文本转换成可拖动的卡片，并在页面中央以慢速打字动画显示。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "被减数"
+    ],
+    "author": "被减数",
+    "sourceUrl": "https://x.com/Lessnoise365/status/1991391000833716683",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:e967e209ca236ad3",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "希腊神话星座中文网页应用",
+    "prompt": "生成一个 {argument name=\"language_en\" default=\"Chinese\"} 网络应用程序，以图画书的形式讲述每个星星或星座的希腊神话故事。它不仅应显示星座的连接线，还应展示神话人物的插图。",
+    "description": "一个给 Gemini 3 Pro 的提示，用于构建一个单页中文网页应用，将每个星星或星座以绘本形式呈现，结合星座连线和插画神话人物。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991329649419530336",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:8057b11760eb153e",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "赛博风格的现代中国老黄历网页应用",
+    "prompt": "生成一个赛博朋克风格的中文网页应用，用于现代年轻人日常使用的黄历。它不应包含“宜嫁娶”等传统项目，而应反映现代生活场景。例如：“今日宜：{argument name=\"today_do_example_1_en\" default=\"上班摸鱼\"}、{argument name=\"today_do_example_2_en\" default=\"喝奶茶\"}、{argument name=\"today_do_example_3_en\" default=\"表白心意\"}；今日忌：{argument name=\"today_avoid_example_1_en\" default=\"开会\"}、{argument name=\"today_avoid_example_2_en\" default=\"熬夜\"}、{argument name=\"today_avoid_example_3_en\" default=\"立大志\"}。”",
+    "description": "一个 Gemini 提示，用于创建一个赛博朋克风格的中文网络应用，该应用能生成针对年轻人生活方式而非传统吉祥活动的现代每日运势卡。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991315808338014231",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:5213c4c38cb4b715",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "复古宝丽来风格相机网络应用",
+    "prompt": "请帮我创建一个复古宝丽来风格的相机网页应用。在页面的左下角，显示一个可以连接网络摄像头并显示实时预览的相机。当点击快门按钮时，一张相纸会从相机顶部缓慢弹出，照片会从模糊逐渐变得清晰。用户可以将冲洗好的照片从相机上方拖动到页面中相机以外的区域，从而创建出照片墙般的效果。",
+    "description": "一个中文提示，用于构建一个复古宝丽来相机网页应用，其中左下角的相机连接到网络摄像头，弹出正在显影的照片，并允许用户拖动照片以形成照片墙。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "饼干哥哥AGI（2.0）"
+    ],
+    "author": "饼干哥哥AGI（2.0）",
+    "sourceUrl": "https://x.com/bggg_ai/status/1991310988201849346",
+    "createdAt": "2025-11-20",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:04a23a42572ae819",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "极繁主义数字热狗初创公司网站",
+    "prompt": "为一家销售 {argument name=\"product_en\" default=\"数字热狗\"} 的虚构初创公司设计一个极致主义风格的网站。我想要精美动画的英雄文本，带有对鼠标悬停做出反应的着色器，以及大量的抖动和波浪形、时髦的渐变。",
+    "description": "一个为 Gemini 3.0 Pro 设计的趣味提示：为一家销售数字热狗的虚构初创公司设计一个极繁主义、大量使用着色器、波浪形渐变的网站，并带有精美动画的标题文本，可对鼠标悬停做出反应。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "ben"
+    ],
+    "author": "ben",
+    "sourceUrl": "https://x.com/benhylak/status/1991225744194691289",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:78cf8ca01c9202cc",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "在 Three.js 中使用音频响应粒子渲染 Raymarched Mandelbulb 分形",
+    "prompt": "在 GLSL 中创建一个光线步进的 Mandelbulb 分形，用 {argument name=\"particle_count_en\" default=\"12,000\"} 个实例化粒子将其包围，使其对我的麦克风音频做出反应，并添加 Unreal Bloom。",
+    "description": "一个简洁的 Three.js/GLSL 提示，要求 Gemini 3 Pro 创建一个光线步进的 Mandelbulb 分形，周围环绕着数千个音频响应的实例化粒子，并带有 Unreal Bloom 效果，所有这些都在一个文件中实现。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "SRKDAN"
+    ],
+    "author": "SRKDAN",
+    "sourceUrl": "https://x.com/SRKDAN/status/1991210377179234355",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:26e14e721ba3d27f",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "为客户 AP 打造的代理机构风格网站",
+    "prompt": "您是 {argument name=\"studio_name_en\" default=\"makemepulse\"} 工作室。请为 {argument name=\"client_name_en\" default=\"AP\"} 搭建一个网站。请仔细思考，不要犯任何错误。",
+    "description": "一个简单的指令式提示，告诉 Gemini 3 Pro 扮演 makemepulse 工作室的角色，为名为 AP 的客户构建一个网站，并注重精细的执行。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "arda"
+    ],
+    "author": "arda",
+    "sourceUrl": "https://x.com/ardadoteth/status/1991203658269090295",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:36d5bbcfc281d5c1",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "使用 Mediapipe 和 Three.js 实现激光眼效果网页演示",
+    "prompt": "使用电脑的前置摄像头。\n使用 `mediapipe` 库捕捉面部地标。\n基于 `mediapipe` 提供的实时 3D 地标信息，使用 `threejs` 对摄像头捕捉到的面部应用激光眼效果。",
+    "description": "一个简洁的技术提示，用于 Gemini 3 构建一个网络体验，该体验利用前置摄像头和 Mediapipe 面部地标，通过 Three.js 应用实时 3D 激光眼效果。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "愚瞳 | winterx"
+    ],
+    "author": "愚瞳 | winterx",
+    "sourceUrl": "https://x.com/fangyex/status/1991186281704173931",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:8b3506d860b909b7",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "Three.js 版《我的世界》生存模式复刻",
+    "prompt": "使用 {argument name=\"tech_stack_en\" default=\"Three.js\"} 设计一个 {argument name=\"game_name_en\" default=\"Minecraft\"} 的完整生存模式复刻版。",
+    "description": "一个提示，指示 Gemini 3 Pro 使用 Three.js 为网页设计一个完整的《我的世界》生存模式复刻版。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Vardhan Agnihotri"
+    ],
+    "author": "Vardhan Agnihotri",
+    "sourceUrl": "https://x.com/agno_three/status/1991176488289223136",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:b95d06db16da858c",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "具有交互式响应式设计的企业级着陆页",
+    "prompt": "为 {argument name=\"business_description_en\" default=\"[DESCRIBE YOUR BUSINESS]\"} 生成一个企业级的专业着陆页。\n\n添加交互元素、动画，并使其完全响应。\n\n请给我惊喜，发挥创意，并逐步完成。",
+    "description": "一个给 Gemini 的提示，用于生成一个专业的企业级着陆页，该页面具有响应式布局、动画和交互元素，并可适应任何业务类型。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "God of Prompt"
+    ],
+    "author": "God of Prompt",
+    "sourceUrl": "https://x.com/godofprompt/status/1991146150859039013",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:e700b855d0189d5b",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "中国传统色彩每日网络应用",
+    "prompt": "生成一个网页应用程序，每天介绍一种{argument name=\"color_system_en\" default=\"传统中国色彩\"}（例如：{argument name=\"example_color_1_en\" default=\"天青\"}、{argument name=\"example_color_2_en\" default=\"胭脂\"}、{argument name=\"example_color_3_en\" default=\"黛螺\"}），并配以相关的古典诗词、文物插图或自然风光。",
+    "description": "一个 Gemini 提示词，用于构建一个每天介绍一种中国传统色彩的网页应用，并配以诗歌和相关插画或风景。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991137382876541379",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:f9c31f987ff9df30",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "单个 HTML 文件中的类 Word 富文本编辑器",
+    "prompt": "请帮我编写一个类似 {argument name=\"reference_software_en\" default=\"Word\"} 的网页版富文本编辑器，包含其主要功能，所有代码都放在一个 HTML 文件中。它应该支持：标题、段落、左对齐、粗体、斜体、右对齐、下划线、删除线、背景颜色、文本颜色、编号、撤销，最后还有一个下载功能。直接生成 HTML 即可！",
+    "description": "一个用于 Gemini-3.0-Pro 的中文提示，旨在构建一个包含主要格式化功能和下载选项的 Word 风格富文本编辑器，并将其作为单个 HTML 文件。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "karminski-牙医"
+    ],
+    "author": "karminski-牙医",
+    "sourceUrl": "https://x.com/karminski3/status/1991136616312963096",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:4cc56695d2ca80d1",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "中国 Twitter KOL 排行榜落地页",
+    "prompt": "作为一名对美学有强烈追求的前端工程师，请为“{argument name=\"leaderboard_name_en\" default=\"Chinese Twitter KOL Leaderboard\"}”创建一个网站着陆页。设计应高度精致，采用极简配色方案、深色模式和高对比度。从网络获取数据源。\n使用 Tailwind CSS + HTML5，添加动画，并直接输出 HTML 代码。",
+    "description": "一个中文提示，要求 Gemini 3.0 扮演一位注重美学的前端工程师，为一个中文 Twitter KOL 排名网站构建一个深色、高对比度、由 Tailwind 驱动的着陆页，从网络获取数据并输出带有动画的纯 HTML。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "katon"
+    ],
+    "author": "katon",
+    "sourceUrl": "https://x.com/hellokaton/status/1991044658638840304",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:8152a5e1be2acf8b",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "英文绘本学习网络应用",
+    "prompt": "创作一本学习 {argument name=\"learning_subject\" default=\"英语\"} 的绘本。",
+    "description": "一个简单的 Gemini 提示，用于生成一个通过绘本学习英语的网页应用程序，该程序之后可以通过 Gemini 驱动的互动课程进行功能增强。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991039234632003693",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:ec87eb6479b3a049",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "抖音推荐算法演示动画",
+    "prompt": "为 {argument name=\"platform_name_en\" default=\"抖音\"} 创建一个推荐算法的演示动画。",
+    "description": "一个用于生成抖音推荐算法动画演示的简短中文提示；虽然侧重于动画，但它也可以在网页环境中使用。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "松果先森"
+    ],
+    "author": "松果先森",
+    "sourceUrl": "https://x.com/songguoxiansen/status/1991030405198458940",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:2526ba6dd952480a",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "多级齿轮联动系统动画",
+    "prompt": "一个多级齿轮联动系统，其中旋转主齿轮会使所有齿轮按比例自动移动。",
+    "description": "一个简洁的 Gemini 提示词，用于生成一个动画多级齿轮联动系统，其中转动主齿轮会按比例带动所有其他齿轮，适用于 SVG 或 canvas 演示。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "余温"
+    ],
+    "author": "余温",
+    "sourceUrl": "https://x.com/gkxspace/status/1990963691433701755",
+    "createdAt": "2025-11-19",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:3ada7590e1e5ecb0",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "视差滚动主页，带来爆炸性视觉效果",
+    "prompt": "创建一个具有爆炸性视觉效果的视差滚动网站：滚动时以不同速度移动的分层背景、流畅的过渡以及带动画弹出的交互式元素。",
+    "description": "一个英文提示，用于生成一个视觉效果惊艳的视差滚动网站首页，该页面具有分层背景、流畅过渡和交互式动画元素。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "木子不写代码"
+    ],
+    "author": "木子不写代码",
+    "sourceUrl": "https://x.com/ai_muzi/status/1990905917735317857",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:4332dbeecd11973b",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "基于 React 的高端瑞士风格着陆页生成器",
+    "prompt": "{argument name=\"generator_name_en\" default=\"High-End LP Generator (Swiss Style)\"}\n\n根据稍后提供的 {argument name=\"input_text_en\" default=\"Input Text\"}，严格遵循以下规范，并以 React（单文件）实现一个高质量的着陆页。\n\n1. 设计理念：{argument name=\"design_concept_en\" default=\"Swiss Modern & Bento\"}\n\n风格：{argument name=\"style_en\" default=\"Apple/Linear-like Swiss modern style\"}，去除装饰，利用留白和排版来营造吸引力。",
+    "description": "一个英文提示片段，指示 Gemini 实现一个高端瑞士现代风格的着陆页，作为单个文件 React 组件，遵循严格的规范并使用瑞士现代和 Bento 布局概念。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg",
+      "https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg",
+      "https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg",
+      "https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》"
+    ],
+    "author": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+    "sourceUrl": "https://x.com/masahirochaen/status/1990905875104739689",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:785025a6e7383d4a",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "玻璃拟物化霓虹界面 UI",
+    "prompt": "一个玻璃拟态霓虹界面，具有超现代的 UI 灯光效果和半透明玻璃面板。",
+    "description": "一个简短的风格提示，描述了一个玻璃拟态、霓虹灯般的超现代 UI，带有半透明面板，适合作为网页界面布局的指导。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "余温"
+    ],
+    "author": "余温",
+    "sourceUrl": "https://x.com/gkxspace/status/1990890398005219692",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:1a25e48430db74a9",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "特斯拉 FSD 道路识别的交互式 SVG 演示",
+    "prompt": "使用 SVG 绘制一个动态、交互式的演示，展示 Tesla FSD 如何识别道路。",
+    "description": "一个提示，指示 Gemini 使用 SVG 绘制一个动态的、交互式的演示，展示 Tesla FSD 如何识别道路。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "余温"
+    ],
+    "author": "余温",
+    "sourceUrl": "https://x.com/gkxspace/status/1990845658706612581",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:706669d2d1d101c2",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "重建 GitHub 的 React 项目页面 UI",
+    "prompt": "构建 {argument name=\"project_name_en\" default=\"React\"} 的 GitHub 页面。",
+    "description": "一个非常简短的提示，要求 Gemini 3 Pro 构建 React 的 GitHub 页面，有效地重现 React 仓库的 GitHub UI。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Samro ✨"
+    ],
+    "author": "Samro ✨",
+    "sourceUrl": "https://x.com/jacobsamro/status/1990844468996813279",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:c8f642792ad04cf3",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "Three.js 博物馆漫游场景",
+    "prompt": "在 three.js 中创建一个场景。\n它将是一个博物馆，墙上挂着画作，你可以像在游戏中一样在博物馆大厅里走动。\n将墙壁和地板设为白色。\n天花板将是玻璃的，透过玻璃可以看到天空。\n在大厅中央放置白色方块。",
+    "description": "一个英文提示，指示 Gemini 使用 three.js 创建一个可步行的 3D 博物馆场景，该场景具有白色墙壁和地板、玻璃天花板以及大厅中的方块，就像一个小型第一人称网页游戏环境。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Sabo Sugi ✦"
+    ],
+    "author": "Sabo Sugi ✦",
+    "sourceUrl": "https://x.com/sabosugi/status/1990840115984294112",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:de4ab414ae739f6c",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "从图像生成 Three.js 体素艺术场景的提示",
+    "prompt": "我提供了一张图片。请根据这张图片，用 Three.js 代码创建一个精美的体素艺术场景，所有代码都在一个页面中。",
+    "description": "一个给 Gemini 3 的编码提示，用于生成一个受上传图片启发的 Three.js 体素艺术场景，并将所有代码输出为一个单页文件。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Ian Goodfellow"
+    ],
+    "author": "Ian Goodfellow",
+    "sourceUrl": "https://x.com/goodfellow_ian/status/1990839056331337797",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:626f2dda64d6be2c",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "带混合和求解控制的 3D 魔方网页应用",
+    "prompt": "构建一个 3D {argument name=\"puzzle_type_en\" default=\"魔方\"}，包含一个用于打乱魔方的“打乱”按钮，以及一个“解决”按钮来解开谜题。同时允许用户手动操作并自行解开谜题。",
+    "description": "一个用于 3D 魔方网页界面的提示，该界面可供用户打乱、自动求解和手动操作。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Alan Shiflett"
+    ],
+    "author": "Alan Shiflett",
+    "sourceUrl": "https://x.com/AlanShiflett/status/1990834197414785280",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:25d75a2db1363773",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "Gemini 中类似 CapCut 的视频编辑器 UI",
+    "prompt": "设计一个 {argument name=\"app_name_en\" default=\"CapCut\"}。",
+    "description": "一个非常简单的高级提示，用于使用 Gemini 设计一个 CapCut（剪映）风格的视频编辑应用程序界面。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "padphone"
+    ],
+    "author": "padphone",
+    "sourceUrl": "https://x.com/lepadphone/status/1990834118511505486",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:da586afd13365f31",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "单文件 HTML 台球游戏",
+    "prompt": "请在一个 HTML 文件中创建一个功能齐全的 {argument name=\"game_type_en\" default=\"billiards game\"}。",
+    "description": "一个直接的提示，要求在一个 HTML 文件中实现一个功能齐全的台球游戏。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "余温"
+    ],
+    "author": "余温",
+    "sourceUrl": "https://x.com/gkxspace/status/1990822470308221043",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:bcd8245e88bfa39c",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "量子核心监控单页 HTML",
+    "prompt": "请为“{argument name=\"system_name_en\" default=\"Quantum Core Monitoring System\"}”生成一个单页 HTML (SVG)。",
+    "description": "一个简洁的提示，要求 Gemini 生成一个单页 HTML（使用 SVG），用于表示“量子核心监控系统”的用户界面。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "余温"
+    ],
+    "author": "余温",
+    "sourceUrl": "https://x.com/gkxspace/status/1990818141610324361",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:7e80732292c6a73e",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "动态点云狭义相对论网页",
+    "prompt": "编写一个动态网页，用炫酷的点云风格来解释狭义相对论。",
+    "description": "一个简洁的中文提示，指示 Gemini 编写一个动态网页，该网页使用炫酷的点云效果来解释狭义相对论，非常适合交互式物理演示。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "-Zho-"
+    ],
+    "author": "-Zho-",
+    "sourceUrl": "https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:8ca89cf1f1535023",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "Xbox 控制器单文件 SVG",
+    "prompt": "创建一个 {argument name=\"controller_type_en\" default=\"Xbox 控制器\"} 的 SVG。",
+    "description": "一个提示，要求 Gemini 3.0 Pro 创建一个 Xbox 控制器的 SVG 图像，适用于嵌入到网页或 UI 组件中。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Singularity"
+    ],
+    "author": "Singularity",
+    "sourceUrl": "https://x.com/SingulCore/status/1990765115785031961",
+    "createdAt": "2025-11-18",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:32f8b78aa69a2f15",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "新粗野主义网页生成提示",
+    "prompt": "制作一个新粗野主义网页，使其极具创意并尽可能突破界限。添加流畅的滚动动画、炫酷的色彩和 Tailwind CSS 样式。使其完全响应式。页面标题为 {argument name=\"page_title\" default=\"dorksense\"}。",
+    "description": "一个用于生成一个名为 dorksense 的网页的提示，该网页具有极强的创意、新粗野主义风格、响应式设计、流畅的滚动动画、华丽的色彩和 Tailwind CSS。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Dorksense"
+    ],
+    "author": "Dorksense",
+    "sourceUrl": "https://x.com/Dork_sense/status/1988965641890787793",
+    "createdAt": "2025-11-13",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  },
+  {
+    "id": "youmind-gemini-3-prompts:2a30fc76c372a33c",
+    "sourceId": "youmind-gemini-3-prompts",
+    "title": "纽约天际线 SVG 单 HTML 场景",
+    "prompt": "{argument name=\"city_skyline_en\" default=\"纽约天际线\"} 的 SVG。使用任何必要的库来完成此任务，但请确保我可以将所有内容粘贴到一个 HTML 文件中并在 Chrome 中打开。让它变得有趣且高度详细，展示意想不到的细节。在一个代码块中充分发挥创意和美感。",
+    "description": "一个英文提示，要求 Gemini 生成一个高度详细且富有创意的纽约天际线 SVG，该 SVG 可以作为单个 HTML 文件粘贴并在 Chrome 中打开。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg"
+    ],
+    "tags": [
+      "gemini-3",
+      "Chetaslua"
+    ],
+    "author": "Chetaslua",
+    "sourceUrl": "https://x.com/chetaslua/status/1978826911900946793",
+    "createdAt": "2025-10-16",
+    "imageMode": "",
+    "imageModel": "gemini-3"
+  }
+]

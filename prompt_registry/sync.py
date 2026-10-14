@@ -14,13 +14,14 @@ import httpx
 from jsonschema import Draft202012Validator, FormatChecker
 
 from .models import Source
-from .parsers import parse_source
+from .parsers import BUNDLES, parse_source
 
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = ROOT / "dist"
 USER_AGENT = "image-prompt-registry/0.1 (+https://github.com/)"
 MAX_SOURCE_BYTES = 8 * 1024 * 1024
+MAX_BUNDLE_FILE_BYTES = 64 * 1024 * 1024
 
 
 def main() -> int:
@@ -83,12 +84,33 @@ def fetch_all(sources: list[Source]) -> dict[str, list[dict[str, Any]]]:
 
 
 def fetch_one(client: httpx.Client, source: Source) -> list[dict[str, Any]]:
-    response = client.get(source.url)
+    payload = fetch_bytes(client, source.url, MAX_SOURCE_BYTES)
+    list_files = BUNDLES.get(source.adapter)
+    if list_files:
+        payload = fetch_bundle(client, list_files(source, payload))
+    return parse_source(source, payload)
+
+
+def fetch_bytes(client: httpx.Client, url: str, limit: int) -> bytes:
+    response = client.get(url)
     response.raise_for_status()
     payload = response.content
-    if len(payload) > MAX_SOURCE_BYTES:
-        raise ValueError(f"response exceeds {MAX_SOURCE_BYTES // 1024 // 1024} MiB")
-    return parse_source(source, payload)
+    if len(payload) > limit:
+        raise ValueError(f"response exceeds {limit // 1024 // 1024} MiB: {url}")
+    return payload
+
+
+def fetch_bundle(client: httpx.Client, files: list[tuple[str, str]]) -> bytes:
+    # Splice the raw JSON arrays in rather than decoding and re-encoding tens of megabytes.
+    categories = [
+        b'{"title":'
+        + json.dumps(title).encode()
+        + b',"items":'
+        + fetch_bytes(client, url, MAX_BUNDLE_FILE_BYTES).removeprefix(b"\xef\xbb\xbf")
+        + b"}"
+        for title, url in files
+    ]
+    return b'{"categories":[' + b",".join(categories) + b"]}"
 
 
 def write_registry(

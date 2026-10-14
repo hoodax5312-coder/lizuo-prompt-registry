@@ -1,3 +1,4 @@
+import httpx
 import pytest
 
 from prompt_registry.models import Source
@@ -6,10 +7,15 @@ from prompt_registry.parsers import (
     parse_awesome_gpt_image,
     parse_banana_json,
     parse_freestylefly_json,
+    parse_picotrex,
     parse_source,
     parse_seedance,
     parse_youmind,
+    parse_youmind_skill_midjourney,
+    parse_zerolu_nanobanana,
+    youmind_skill_files,
 )
+from prompt_registry.sync import fetch_one
 
 
 def source(adapter: str, *, model: str = "") -> Source:
@@ -275,3 +281,139 @@ Create a catalog video.
     assert items[1]["coverUrl"].endswith("/main/media/catalog.jpg")
     assert items[1]["sourceUrl"] == "https://x.com/link"
     assert items[1]["createdAt"] == "2026-08-30"
+
+
+def test_zerolu_markdown_reads_numbered_english_entries() -> None:
+    payload = """
+### Sponsor1
+Not a prompt.
+
+## 1. Photorealism & Aesthetics
+### 1.1. Hyper-Realistic Crowd
+*Handling complex compositions.*
+<img width="400" alt="Crowd" src="https://github.com/user-attachments/assets/crowd.png" />
+
+**Prompt:**
+```text
+Create a hyper-realistic crowd.
+```
+*Source: [@Seb](https://x.com/Seb/status/1)*
+""".encode()
+    items = parse_zerolu_nanobanana(source("zerolu-nanobanana-markdown", model="nano-banana-pro"), payload)
+    assert len(items) == 1
+    assert items[0]["title"] == "Hyper-Realistic Crowd"
+    assert items[0]["prompt"] == "Create a hyper-realistic crowd."
+    assert items[0]["description"] == "Handling complex compositions."
+    assert items[0]["coverUrl"] == "https://github.com/user-attachments/assets/crowd.png"
+    assert items[0]["author"] == "@Seb"
+    assert items[0]["sourceUrl"] == "https://x.com/Seb/status/1"
+    assert items[0]["imageModel"] == "nano-banana-pro"
+    assert "Photorealism & Aesthetics" in items[0]["tags"]
+
+
+def test_picotrex_markdown_reads_title_author_and_relative_image() -> None:
+    payload = """
+## 案例
+### 例 1: [浮世绘闪卡](https://x.com/a/status/1)（by [@MANISH](https://x.com/MANISH)）
+
+| 输出 |
+| :--: |
+| <img src="images/pro_case1/output.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+一张日式浮世绘风格的卡牌。
+```
+
+> [!NOTE]
+> **需要在提示词中 {} 输入需要的信息**
+
+### 不是案例的小节
+正文。
+""".encode()
+    items = parse_picotrex(source("picotrex-markdown", model="nano-banana"), payload)
+    assert len(items) == 1
+    assert items[0]["title"] == "浮世绘闪卡"
+    assert items[0]["author"] == "@MANISH"
+    assert items[0]["prompt"] == "一张日式浮世绘风格的卡牌。"
+    assert items[0]["coverUrl"] == "https://raw.githubusercontent.com/example/repo/main/images/pro_case1/output.jpg"
+    assert items[0]["imageModel"] == "nano-banana"
+
+
+def test_youmind_skill_files_resolve_relative_to_manifest() -> None:
+    manifest_source = Source(
+        id="test-source",
+        name="Test",
+        adapter="youmind-skill-midjourney",
+        url="https://raw.githubusercontent.com/example/repo/main/references/manifest.json",
+        homepage="https://github.com/example/repo",
+        minimum_items=1,
+        model="midjourney",
+    )
+    payload = b'{"categories": [{"title": "Poster / Flyer", "file": "poster-flyer.json"}]}'
+    assert youmind_skill_files(manifest_source, payload) == [
+        ("Poster / Flyer", "https://raw.githubusercontent.com/example/repo/main/references/poster-flyer.json")
+    ]
+    with pytest.raises(ValueError, match="categories array"):
+        youmind_skill_files(manifest_source, b'{"categories": []}')
+
+
+def test_youmind_skill_midjourney_keeps_only_midjourney_parameters() -> None:
+    payload = b'''{"categories": [
+      {"title": "Poster / Flyer", "items": [
+        {"id": 1, "title": "Zine", "content": "Ink zine poster --ar 9:16 --stylize 750",
+         "description": "Bold zine.", "sourceMedia": ["https://example.com/zine.png"], "needReferenceImages": false},
+        {"id": 2, "title": "Ratio only", "content": "A portrait --ar 3:4", "sourceMedia": []},
+        {"id": 3, "title": "Prose", "content": "Made in Midjourney, then upscaled", "sourceMedia": []}
+      ]},
+      {"title": "Others", "items": [
+        {"id": 1, "title": "Zine", "content": "Ink zine poster --ar 9:16 --stylize 750",
+         "sourceMedia": ["https://example.com/zine.png"]},
+        {"id": 4, "title": "Anime", "content": "Anime girl --niji 6", "sourceMedia": [], "needReferenceImages": true}
+      ]}
+    ]}'''
+    items = parse_youmind_skill_midjourney(source("youmind-skill-midjourney", model="midjourney"), payload)
+    assert [item["title"] for item in items] == ["Zine", "Anime"]
+    assert items[0]["coverUrl"] == "https://example.com/zine.png"
+    assert items[0]["description"] == "Bold zine."
+    assert items[0]["imageModel"] == "midjourney"
+    assert items[0]["tags"] == ["midjourney", "Poster / Flyer"]
+    assert items[1]["tags"] == ["midjourney", "Others", "需要参考图"]
+
+
+def test_youmind_skill_midjourney_rejects_non_array_category() -> None:
+    payload = b'{"categories": [{"title": "Broken", "items": {"id": 1}}]}'
+    with pytest.raises(ValueError, match="JSON arrays of objects"):
+        parse_youmind_skill_midjourney(source("youmind-skill-midjourney", model="midjourney"), payload)
+
+
+def test_fetch_one_joins_bundle_files_listed_in_manifest() -> None:
+    base = "https://raw.githubusercontent.com/example/repo/main/references/"
+    responses = {
+        base + "manifest.json": b'{"categories": [{"title": "A", "file": "a.json"}, {"title": "B", "file": "b.json"}]}',
+        base + "a.json": '﻿[{"id": 1, "title": "One", "content": "x --v 6"}]'.encode(),
+        base + "b.json": b'[{"id": 2, "title": "Two", "content": "y --sref 123"}]',
+    }
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        body = responses.get(str(request.url))
+        return httpx.Response(200, content=body) if body is not None else httpx.Response(404)
+
+    bundle_source = Source(
+        id="test-source",
+        name="Test",
+        adapter="youmind-skill-midjourney",
+        url=base + "manifest.json",
+        homepage="https://github.com/example/repo",
+        minimum_items=2,
+        model="midjourney",
+    )
+    with httpx.Client(transport=httpx.MockTransport(handler)) as client:
+        items = fetch_one(client, bundle_source)
+    assert [item["title"] for item in items] == ["One", "Two"]
+
+    del responses[base + "b.json"]
+    with httpx.Client(transport=httpx.MockTransport(handler)) as client:
+        with pytest.raises(httpx.HTTPStatusError):
+            fetch_one(client, bundle_source)

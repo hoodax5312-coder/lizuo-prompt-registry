@@ -48,13 +48,19 @@ Source definitions live in `sources.json`.
 
 | Source ID | Source | Default model |
 | --- | --- | --- |
+| `youmind-seedance-2-prompts` | YouMind Seedance 2.0 Prompts | `seedance-2` |
 | `banana-prompt-quicker` | Banana Prompt Quicker | Unspecified |
-| `davidwu-gpt-image2-prompts` | DavidWu GPT Image 2 Prompts | Set by the adapter |
 | `freestylefly-gpt-image-2` | Freestylefly GPT Image 2 | `gpt-image-2` |
 | `awesome-gpt-image` | Awesome GPT Image | Set by the adapter |
-| `awesome-gpt4o-image-prompts` | Awesome GPT-4o Image Prompts | Set by the adapter |
 | `youmind-gpt-image-2` | YouMind GPT Image 2 | `gpt-image-2` |
 | `youmind-nano-banana-pro` | YouMind Nano Banana Pro | `nano-banana-pro` |
+| `zerolu-nanobanana-pro` | Awesome Nano Banana Pro | `nano-banana-pro` |
+| `picotrex-nano-banana-images` | PicoTrex Nano Banana Images | `nano-banana` |
+| `youmind-gemini-3-prompts` | YouMind Gemini 3 Prompts | `gemini-3` |
+| `youmind-grok-imagine-prompts` | YouMind Grok Imagine Prompts | `grok-imagine` |
+| `youmind-midjourney-syntax` | YouMind Midjourney Syntax Prompts | `midjourney` |
+
+`youmind-midjourney-syntax` reads the manifest of [YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill), fetches every category file it lists, and keeps only prompts that use Midjourney-only parameters such as `--v`, `--niji`, `--sref` or `--stylize`. The upstream data has no model field, so these records are prompts written in Midjourney syntax; their example images are not verified Midjourney output.
 
 Each source declares a minimum expected item count. A failed request, parse error, schema violation, or unexpectedly small result fails the complete sync and preserves the last valid `dist` output.
 

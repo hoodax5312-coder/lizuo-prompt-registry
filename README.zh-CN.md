@@ -20,13 +20,19 @@
 
 ## 内置来源
 
+- YouMind Seedance 2.0 Prompts
 - Banana Prompt Quicker
-- DavidWu GPT Image 2 Prompts
 - Freestylefly GPT Image 2
 - Awesome GPT Image
-- Awesome GPT-4o Image Prompts
 - YouMind GPT Image 2
 - YouMind Nano Banana Pro
+- Awesome Nano Banana Pro
+- PicoTrex Nano Banana Images
+- YouMind Gemini 3 Prompts
+- YouMind Grok Imagine Prompts
+- YouMind Midjourney Syntax Prompts
+
+`youmind-midjourney-syntax` 读取 [YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill) 的清单，抓取其中列出的全部分类文件，只保留使用了 Midjourney 专用参数（如 `--v`、`--niji`、`--sref`、`--stylize`）的提示词；只带 `--ar` 的不算。上游数据没有模型字段，因此这些记录是“按 Midjourney 语法写的提示词”，示例图不保证由 Midjourney 生成。
 
 来源配置位于 `sources.json`。每个来源都有最低条目数要求；任一来源抓取失败、解析失败、格式校验失败或条目数异常时，整个同步会失败，并保留上一版有效的 `dist` 数据。
 

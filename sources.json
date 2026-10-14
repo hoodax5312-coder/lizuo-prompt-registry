@@ -17,14 +17,6 @@
     "minimumItems": 250
   },
   {
-    "id": "davidwu-gpt-image2-prompts",
-    "name": "DavidWu GPT Image 2 Prompts",
-    "adapter": "davidwu-json",
-    "url": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/prompts.json",
-    "homepage": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
-    "minimumItems": 400
-  },
-  {
     "id": "freestylefly-gpt-image-2",
     "name": "Freestylefly GPT Image 2",
     "adapter": "freestylefly-json",
@@ -40,14 +32,6 @@
     "url": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/README.zh-CN.md",
     "homepage": "https://github.com/ZeroLu/awesome-gpt-image",
     "minimumItems": 40
-  },
-  {
-    "id": "awesome-gpt4o-image-prompts",
-    "name": "Awesome GPT-4o Image Prompts",
-    "adapter": "awesome-gpt4o-markdown",
-    "url": "https://raw.githubusercontent.com/ImgEdify/Awesome-GPT4o-Image-Prompts/main/README.zh-CN.md",
-    "homepage": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
-    "minimumItems": 60
   },
   {
     "id": "youmind-gpt-image-2",
@@ -66,5 +50,50 @@
     "homepage": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "minimumItems": 100,
     "model": "nano-banana-pro"
+  },
+  {
+    "id": "zerolu-nanobanana-pro",
+    "name": "Awesome Nano Banana Pro",
+    "adapter": "zerolu-nanobanana-markdown",
+    "url": "https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/main/README.md",
+    "homepage": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+    "minimumItems": 50,
+    "model": "nano-banana-pro"
+  },
+  {
+    "id": "picotrex-nano-banana-images",
+    "name": "PicoTrex Nano Banana Images",
+    "adapter": "picotrex-markdown",
+    "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/main/README.md",
+    "homepage": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "minimumItems": 120,
+    "model": "nano-banana"
+  },
+  {
+    "id": "youmind-gemini-3-prompts",
+    "name": "YouMind Gemini 3 Prompts",
+    "adapter": "youmind-markdown",
+    "url": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-gemini-3-prompts/main/README_zh.md",
+    "homepage": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
+    "minimumItems": 40,
+    "model": "gemini-3"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts",
+    "name": "YouMind Grok Imagine Prompts",
+    "adapter": "seedance-markdown",
+    "url": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-grok-imagine-prompts/main/README_zh.md",
+    "homepage": "https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts",
+    "minimumItems": 80,
+    "model": "grok-imagine"
+  },
+  {
+    "id": "youmind-midjourney-syntax",
+    "name": "YouMind Midjourney Syntax Prompts",
+    "adapter": "youmind-skill-midjourney",
+    "url": "https://raw.githubusercontent.com/YouMind-OpenLab/ai-image-prompts-skill/main/references/manifest.json",
+    "homepage": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
+    "minimumItems": 120,
+    "model": "midjourney"
   }
 ]
