@@ -63,6 +63,132 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:869c1c3e7cd9d549",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "鹰捕鱼第一人称视角视频序列",
+    "prompt": "鹰俯冲入清澈见底的水中抓取一条鱼，保持第一人称视角（POV），随后切换至俯视拉远镜头，最终淡出融入云层",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Louie Dog"
+    ],
+    "author": "Louie Dog",
+    "sourceUrl": "https://x.com/sumwearoutthere/status/2111635762487648641",
+    "createdAt": "2026-10-18",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:ddd1a6996bc817ed",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "情侣照片 T 恤样机视频",
+    "prompt": "将其转化为一款时尚黑色棉质 T 恤的高品质逼真产品样机。将那张确切的情侣照片（手臂有纹身、面带微笑的女士与留着黑发、佩戴珍珠项链并拥抱她的男士）大幅居中印在 fro...",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Maggie Juang 🦢"
+    ],
+    "author": "Maggie Juang 🦢",
+    "sourceUrl": "https://x.com/maggiejuang1/status/2111597167521534410",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:46b251e63694d018",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "意大利餐厅场景提示词",
+    "prompt": "我身处一家意大利餐厅。桌上放着一瓶红酒和两个酒杯。还有两盘海鲜。女服务员正在为桌上的蜡烛点火。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Jarosław Justka"
+    ],
+    "author": "Jarosław Justka",
+    "sourceUrl": "https://x.com/jaras70berlin/status/2111562048945410556",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:d16c6540b69279f8",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "南瓜田万圣节之夜",
+    "prompt": "45 秒视频，包含这三个角色，背景为恐怖的南瓜田万圣节之夜，伴有蓝色月亮",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "BlueMoon Operations"
+    ],
+    "author": "BlueMoon Operations",
+    "sourceUrl": "https://x.com/CRinkleib/status/2111548067057209497",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:5d78f118e67dfd52",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "鹿饮溪水视频",
+    "prompt": "穿过森林的较宽溪流上方水汽升腾，一只母鹿和一只公鹿正在溪边饮水，请移除第二只母鹿",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Lindy Hawkinson"
+    ],
+    "author": "Lindy Hawkinson",
+    "sourceUrl": "https://x.com/HawkinsonLindy/status/2111523923150205138",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:11c32a7e1e0f8fea",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "照片亭条带拼贴",
+    "prompt": "在竖版画布上创建经典的照片亭条带拼贴。将四张附加照片排列成一条垂直的照片亭条带：四个高度相等的矩形单元格上下堆叠，填满整个高度和宽度……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Christian Thormann Andersen"
+    ],
+    "author": "Christian Thormann Andersen",
+    "sourceUrl": "https://x.com/cleancane/status/2111388492794065184",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:d890efd1a26effcd",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "螺旋光芒至星辰视频",
@@ -79,6 +205,69 @@
     ],
     "author": "Lindy Hawkinson",
     "sourceUrl": "https://x.com/HawkinsonLindy/status/2111340335054135657",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:83a8c745d68ad934",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "超验阈限音乐视频",
+    "prompt": "[生成目标]\n生成一个连续的超验阈限音乐视频序列，将一个失控的自恋型阈限时主可视化为过去与不应存在的未来的增强型超验时间线架构师。主要视觉...",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "AscensionToNull"
+    ],
+    "author": "AscensionToNull",
+    "sourceUrl": "https://x.com/adeptusnull/status/2111293107408957641",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:d6299c60cec3d743",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "特斯拉 Roadster 对决 F1 摩纳哥",
+    "prompt": "想象 @Image1 驾驶全新的 Tesla Roadster 火箭车，在摩纳哥 🇲🇨 与一级方程式赛车竞速，并套圈所有其他车辆赢得比赛",
+    "description": "使用图像引用提示，将主体置于特斯拉 Roadster 中，在摩纳哥与一级方程式赛车竞速。",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "SuperGeekCRC"
+    ],
+    "author": "SuperGeekCRC",
+    "sourceUrl": "https://x.com/SuperGeekCRC/status/2111282777387843851",
+    "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:6fb19b2c096ac473",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "盖·加德纳超级英雄视频",
+    "prompt": "创建一个 6 秒的真人风格视频，主角为写实风格的盖·加德纳（Guy Gardner），结合《蝙蝠侠：英勇无畏》中大胆、壮硕的超级英雄形象与《少年正义联盟》中更锐利、更具运动感的造型。他留着红色短发……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ligma Ballz"
+    ],
+    "author": "Ligma Ballz",
+    "sourceUrl": "https://x.com/LBallz77283/status/2111278984818544775",
     "createdAt": "2026-10-17",
     "imageMode": "",
     "imageModel": "grok-imagine"
@@ -101,6 +290,48 @@
     "author": "T͜͡i͜͡m͜͡e͜͡",
     "sourceUrl": "https://x.com/TIME2064/status/2111271416792224030",
     "createdAt": "2026-10-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:011a6068610c229d",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 视频提示词 - 金发女子特写",
+    "prompt": "视频从附件中的首帧图像开始：一位留着金色长卷发、蓝眼睛、有雀斑的女子特写，她穿着黑色吊带背心，佩戴银色圆形吊坠项链，背景为柔和模糊的绿色与白色……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "SkyCipher (Sky)"
+    ],
+    "author": "SkyCipher (Sky)",
+    "sourceUrl": "https://x.com/skycipher/status/2111227074375561452",
+    "createdAt": "2026-10-16",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:1b915113afc276dd",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Kawaii Twitch 表情视频提示词",
+    "prompt": "基于照片中人物的 Kawaii 风格 Twitch 聊天表情，呈现为可爱的动漫风格面孔。表情：pepe-no - 强烈的否定与不满，皱眉、嘴角下撇，浓眉紧锁，双眼半闭流露拒绝之意，深棕色瞳孔，头部轻微...",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "もっしぃ（野原 生好）"
+    ],
+    "author": "もっしぃ（野原 生好）",
+    "sourceUrl": "https://x.com/Mosshy/status/2111209020271026684",
+    "createdAt": "2026-10-16",
     "imageMode": "",
     "imageModel": "grok-imagine"
   },
@@ -693,27 +924,6 @@
     "imageModel": "grok-imagine"
   },
   {
-    "id": "youmind-grok-imagine-prompts:a4cbfd75b7bf5ef9",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Seedance 2.0 逼真小猫视频提示词",
-    "prompt": "严格参照上传的小猫角色三视图 [Kitten Character Image]。视频中必须始终出现同一只约 2 个月大的阿比西尼亚小猫。保持头身比例、体型、脸型、大而直立的耳朵、灰绿色杏仁眼、深色眼线、砖粉棕色鼻头、暖棕色细纹毛发、较深的头顶和背部颜色、浅暖杏色的下巴和胸部、小四肢、微小的猫爪以及深色尾尖等特征与三视图完全一致。不要改变年龄，不要让猫长大，不要改变毛色或面部特征。\n\n真实的家庭卧室，清晨，柔和的自然窗光，床上铺着略显凌乱的米白色棉质床品。场景是主人刚起床后用手机随手拍摄的真实生活记录。\n\n0-2 秒：小猫刚刚醒来，躺在柔软的毯子上，慢慢抬起头看向镜头，眼神依然困倦，耳朵轻轻转动。它先伸展两只前爪，微微抬起臀部，做出非常自然的猫咪伸懒腰动作。\n\n2-4 秒：伸展之后，小猫走向镜头，抬头看着主人，嘴巴微张，发出短促、奶声奶气的喵喵叫。表情好奇且略带亲昵，不能像人类一样说话。\n\n4-7 秒：主人的手自然地进入画面。小猫主动走过去，用额头和脸颊蹭主人的手指和手掌，眼睛舒适地眯起，耳朵放松。主人轻轻挠它的下巴和脸颊，小猫明显很享受。\n\n7-10 秒：小猫突然变得有点顽皮，用两只小小的前爪轻轻抱住主人的一根手指，在毯子上侧身翻滚，后腿轻轻踢动，但不是攻击或咬人。最后，它松开手指，躺在毯子上抬头看镜头，耳朵竖起，形成一个非常自然可爱的结尾镜头。\n\n总体而言，必须是“一只真实的小猫在做这些动作”，而不是将人类动作强加于猫。轻微的拟人化仅体现在情感和互动感上；所有身体动作必须遵循真实 2 个月大小猫的骨骼结构、关节活动范围、重心和平衡方式。\n\n写实摄影风格，真实的毛发细节，真实的小猫运动惯性，轻微的手持摄像机感，机位接近床的高度，近距离跟拍，偶尔有非常轻微的自然焦点变化。没有商业广告感，没有影棚拍摄感，没有过度的电影质感。温暖但不过分橙黄的室内晨光，浅景深，真实的生活快照质感。\n\n没有成年猫，不要拉长身体，没有长腿，没有肥胖，没有圆脸的英国短毛猫类型，不要改变头身比例，不要缩小耳朵，不要把眼睛做成纯圆的卡通样式，没有白色胸毛，没有明显的虎斑条纹，没有蓬松的长毛，不要改变毛色，没有额外的图案，不要改变眼睛颜色，没有粗尾巴。\n\n没有站立行走，没有双足站立，没有像人类一样挥手，没有人类表情，不说人类语言，不穿衣服，不卡通化，无动漫风格，无 3D 玩具感，无夸张表演。\n\n没有多余的猫，没有身体重复，没有多余的肢体，没有多爪或多尾，没有变形的脚，没有人手变形，没有猫爪与人手的融合。\n\n没有频繁的剪辑切换，没有突然的焦距变化，没有动作断裂，没有不同镜头间的大小突变。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Cara"
-    ],
-    "author": "Cara",
-    "sourceUrl": "https://x.com/Cara_Mosquito/status/2110760296302477583",
-    "createdAt": "2026-10-15",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
     "id": "youmind-grok-imagine-prompts:97309836f7df99f7",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "未来感多地形敞篷跑车",
@@ -1276,6 +1486,27 @@
     ],
     "author": "Diane Thomas Joy",
     "sourceUrl": "https://x.com/Thoma31928Joy/status/2110151441222606940",
+    "createdAt": "2026-10-13",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:acd3705a93a698c7",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "复古 1985 AI 机器人视觉",
+    "prompt": "机器人。服务器。会做梦的机器。\n全部使用铭记着 1985 年的胶片拍摄。\n像昨天一样拍摄的明天。\n\n如果 AI 早在 1985 年就被拍摄下来会怎样？",
+    "description": "由 Grok Imagine 生成的创意视觉概念描述，采用 1985 年胶片风格拍摄。",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Déborah"
+    ],
+    "author": "Déborah",
+    "sourceUrl": "https://x.com/dvorahfr/status/2110062762218926204",
     "createdAt": "2026-10-13",
     "imageMode": "",
     "imageModel": "grok-imagine"
@@ -1928,237 +2159,6 @@
     "author": "🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=",
     "sourceUrl": "https://x.com/b_irmina/status/2108717629229891884",
     "createdAt": "2026-10-10",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:49aea22d09b9322f",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 女超级英雄变身",
-    "prompt": "将图片中的角色转变为一位极其独特且非凡的女超级英雄。提升她的气场，使其显得真正神圣而特别：将发光的蓝色能量触须强化为璀璨、空灵的等离子流，这些能量流在周围旋转……",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Cyperpienso"
-    ],
-    "author": "Cyperpienso",
-    "sourceUrl": "https://x.com/cyperpienso/status/2108682160584728848",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:c9b22981a426e658",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "星光灵性讯息",
-    "prompt": "我们注定属于星辰\n…~…~… ✨🙏✨在出生之前，我们便已被选中，为此刻而受护佑。\n让光芒闪耀吧，同袍们，它就在你心中 ✨✨✨🙏📖 分享这份美丽的光",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Cathy has this"
-    ],
-    "author": "Cathy has this",
-    "sourceUrl": "https://x.com/lighthouse42f/status/2108636771244474393",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:72f7a24acad93c7d",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 视频提示词：乌鸦梳理羽毛",
-    "prompt": "白乌鸦和黑乌鸦在清晨阳光下梳理羽毛，背景为柔和的吉他音乐",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Lindy Hawkinson"
-    ],
-    "author": "Lindy Hawkinson",
-    "sourceUrl": "https://x.com/HawkinsonLindy/status/2108617464716427403",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:35e5b577efa787d4",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "红蓝眼部发光编辑",
-    "prompt": "仅更改戴黑色头盔人物的眼睛：使左眼（从观察者视角看）发出明亮强烈的红光，右眼发出明亮强烈的蓝光。保持完全相同的姿势、头盔、西装、领带、CRT 扫描线、圆形构图，l...",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Cyperpienso"
-    ],
-    "author": "Cyperpienso",
-    "sourceUrl": "https://x.com/cyperpienso/status/2108600388387762445",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:3981991cab61b589",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Elon Musk 火星登陆场景",
-    "prompt": "火星铺开了红地毯。Elon 着陆，国王提出条件，而火箭不会等待。",
-    "description": "一个由 Grok 和 Grok Imagine 制作的叙事场景，讲述 Elon Musk 登陆火星并会见一位国王的故事。",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "The SI Maximalist"
-    ],
-    "author": "The SI Maximalist",
-    "sourceUrl": "https://x.com/thesimaximalist/status/2108582054388732296",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:611c7b2bfa3e0561",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "SpaceX Starship 轨道视角",
-    "prompt": "以 3D 效果飞入场景。围绕 SpaceX Starship 火箭进行轨道环绕拍摄，呈现史诗般的镜头视角……",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Gorka Cesium"
-    ],
-    "author": "Gorka Cesium",
-    "sourceUrl": "https://x.com/GorkaCesium/status/2108524067737485511",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:00d5a9b3ba221a99",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "JSON 相机控制提示词",
-    "prompt": "{\"shot\": {\"motion_level\": \"medium\", \"camera_depth\": \"long shot\", \"camera_angle\": \"low angle\", \"lighting\": \"dramatic\", \"subject\": \"a lone figure walking through a neon-lit alley\", \"background\": \"rain-slicked streets reflecting city lights\"}}",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Barbara Molen"
-    ],
-    "author": "Barbara Molen",
-    "sourceUrl": "https://x.com/MolenBarba62710/status/2108418467158225372",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:bd700318db884c94",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "孵化器人类老化视频",
-    "prompt": "展示由孵化器库创造的人类，以及他们在不同出生年龄阶段走出时的样貌",
-    "description": "一个科幻视频提示，描绘人类在不同年龄阶段从孵化器中走出的场景。",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "SuperGeekCRC"
-    ],
-    "author": "SuperGeekCRC",
-    "sourceUrl": "https://x.com/SuperGeekCRC/status/2108356350736785611",
-    "createdAt": "2026-10-09",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:f57205a5a136de05",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine Video Prompt：锁定新闻摄像机场景",
-    "prompt": "锁定新闻摄像机，轻微数字变焦。他眨眼稍晚，嘴部几乎不动。滚动字幕向左移动。扁平的紫色心形沿右边缘向上漂移，与他的面部动作不同步。微弱的提词器哔声，低沉的房间底噪，无音乐。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Igor Nesvitt"
-    ],
-    "author": "Igor Nesvitt",
-    "sourceUrl": "https://x.com/IgorNesvitt/status/2108343692826214799",
-    "createdAt": "2026-10-08",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:940bf5b8af33db54",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 提示词：变身宇航员",
-    "prompt": "将其转换为一段视频，展示我变成宇航员并乘坐火箭起飞的过程",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Mario"
-    ],
-    "author": "Mario",
-    "sourceUrl": "https://x.com/marioklok14/status/2108338102020518342",
-    "createdAt": "2026-10-08",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:a79d0274abb91465",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "土星与海王星合相之舞",
-    "prompt": "可视化土星与海王星的合相：\n1. 包含太阳系\n2. 它们的合相产生等离子能量\n3. 地球上的人们同步跳舞（源自 16 世纪的舞蹈瘟疫）",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Zaleska Rockabay"
-    ],
-    "author": "Zaleska Rockabay",
-    "sourceUrl": "https://x.com/zaleskha/status/2108327337733529948",
-    "createdAt": "2026-10-08",
     "imageMode": "",
     "imageModel": "grok-imagine"
   }
