@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T08:41:19+00:00",
-  "registryHash": "a1897036f18ccd0964a03d72dc96ab1ce374e5debd3f29d10cdc6990c8569bb8",
+  "generatedAt": "2026-10-21T08:42:20+00:00",
+  "registryHash": "6c4dbd4d7f2143b72a6808ebbb4522a303ce1194706bc11d2e8f4ff20ac4702d",
   "total": 1856,
   "promptsPath": "prompts.json",
   "sources": [
@@ -12,7 +12,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-seedance-2-prompts/main/README_zh.md",
       "count": 106,
       "path": "sources/youmind-seedance-2-prompts.json",
-      "sha256": "7bedd1df86a831f4811fd24e406663adf5516319daed3aa807bbee2b963be5eb"
+      "sha256": "ee6296ba66a76068415bcd308db34bc19b7f01231d7f9334df5658d29429c52d"
     },
     {
       "id": "banana-prompt-quicker",
@@ -48,7 +48,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-gpt-image-2/main/README_zh.md",
       "count": 126,
       "path": "sources/youmind-gpt-image-2.json",
-      "sha256": "5b91e6a5b9861152cee11a06382f4da38863eed8d0df3ea229f109f16336ed16"
+      "sha256": "be4adceb7eba87ad30cd47d05f4e0ad8e343e3457a824c04f5dcde1b9a9562ea"
     },
     {
       "id": "youmind-nano-banana-pro",
@@ -57,7 +57,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/main/README_zh.md",
       "count": 129,
       "path": "sources/youmind-nano-banana-pro.json",
-      "sha256": "5ae9c4e064d322fb6c13028166a16f781b4b20f5076649b08aec8affd8a98637"
+      "sha256": "ed9e6f0a0396725cb2134759a1b912961f48abd876c4eb54b5eecff625361355"
     },
     {
       "id": "zerolu-nanobanana-pro",
@@ -93,7 +93,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-grok-imagine-prompts/main/README_zh.md",
       "count": 103,
       "path": "sources/youmind-grok-imagine-prompts.json",
-      "sha256": "50be920e3f27040e1c4f0120785a1166c85a060c9a2fe71a86d96d5efde5a5e8"
+      "sha256": "9a4ba5b6f8bd0b2766f188695dafb93424cf39f02d5c0e79207cc33879e75023"
     },
     {
       "id": "youmind-midjourney-syntax",
