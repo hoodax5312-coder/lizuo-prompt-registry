@@ -3,3 +3,11 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 *.py[cod]
+
+# Generated files and local packages
+node_modules/
+venv/
+dist/
+build/
+.next/
+*.zip
