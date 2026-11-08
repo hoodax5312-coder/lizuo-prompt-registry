@@ -63,6 +63,48 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:94c3bdd969359610",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "风吹黄丝带视频",
+    "prompt": "湛蓝的天空，绿草繁花，一条黄丝带缠绕在草丛中随风飘扬",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Lindy Hawkinson"
+    ],
+    "author": "Lindy Hawkinson",
+    "sourceUrl": "https://x.com/HawkinsonLindy/status/2118934426633785350",
+    "createdAt": "2026-11-07",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:0495b4eafcaf9a0e",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "女性擎天柱赛博朋克雨景",
+    "prompt": "女性版 Optimus 缓步穿行于被雨水浸透的未来都市。霓虹光影在她的装甲上流转，数百辆机器人车辆纷纷停下，注视着它们的领袖。\n\n画面呈现出电影感十足的高对比度赛博朋克风格：湿漉漉的柏油路面、闪烁的霓虹招牌，以及连绵不断的雨丝。\n\n镜头采用低角度跟拍，从她身后缓缓跟随，随后平移并抬升为中远景，展现出沿街停驻的机器人车队。\n\n声音方面，包括大雨敲击金属的声响、她脚步中低沉的机械嗡鸣、远处车流声逐渐归于寂静，以及深沉浑厚的环境配乐。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2118658346840416611",
+    "createdAt": "2026-11-06",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:ab895d09d33fd346",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "卡车变身巨型机器人",
@@ -2117,48 +2159,6 @@
     "author": "Ai Mini Thoughts Creator",
     "sourceUrl": "https://x.com/Aiminithoughts/status/2115630912725790872",
     "createdAt": "2026-10-29",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:7ee8799894e4b978",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "狗狗幽灵服装万圣节讨糖",
-    "prompt": "让图片里的这只狗狗站起来，亲手做一套自己的万圣节幽灵服装，然后穿上它去“不给糖就捣蛋”",
-    "description": "生成一段视频，展示狗狗起身制作幽灵服装并出门进行万圣节讨糖活动。",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Rawrsteel"
-    ],
-    "author": "Rawrsteel",
-    "sourceUrl": "https://x.com/rawrsteel88/status/2115577963358110032",
-    "createdAt": "2026-10-28",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:aa34c9618a0b5291",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "克里姆特风格吸血鬼女伯爵艺术",
-    "prompt": "古斯塔夫·克里姆特（Gustav Klimt）金箔画风，面色苍白的吸血鬼女伯爵身着螺旋马赛克长裙，身披深红色 [蝙蝠翼斗篷]，月光下的红玫瑰花园，银色",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Lid Cracker"
-    ],
-    "author": "Lid Cracker",
-    "sourceUrl": "https://x.com/LidCracker/status/2115493850647003475",
-    "createdAt": "2026-10-28",
     "imageMode": "",
     "imageModel": "grok-imagine"
   }
