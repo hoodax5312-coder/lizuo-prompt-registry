@@ -26820,7 +26820,30 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:6681a2bfa3a68a78",
+    "id": "youmind-nano-banana-pro:d9b7412792c2af01",
+    "sourceId": "youmind-nano-banana-pro",
+    "title": "漫画 / 故事板 - Raven 和 Tiffany 背景研究",
+    "prompt": "{argument name=\"character names\" default=\"Raven 和 Tiffany\"} 第二个故事的背景设定研究，故事发生在一个虚构的美国郊区，带有 {argument name=\"era\" default=\"80、90 年代\"} 的时代气息。场景力求真实写实。",
+    "description": "用于生成带有 80/90 年代元素的虚构美国郊区逼真背景研究的提示词，适用于叙事艺术项目。",
+    "coverUrl": "https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg",
+      "https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg",
+      "https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg"
+    ],
+    "tags": [
+      "nano-banana-pro",
+      "漫画 / 故事板",
+      "The Image Gardener"
+    ],
+    "author": "The Image Gardener",
+    "sourceUrl": "https://x.com/ImageGardener/status/2120879285892178164",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "nano-banana-pro"
+  },
+  {
+    "id": "youmind-nano-banana-pro:54d5a120c23f99a3",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 动漫定格粉彩艺术",
     "prompt": "1980 年代动漫定格画面，粉笔蜡笔画风，拳击手出拳瞬间，汗水飞溅，粗糙纸张纹理",
@@ -26841,7 +26864,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:a98fb15ab3a2d5e1",
+    "id": "youmind-nano-banana-pro:133be3489e7ab9e2",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 带音频和图片轮播的溪边梦境场景",
     "prompt": "场景：我在溪边工作。鸟儿在歌唱。我的妻子加入我，我们一起走到水边，游到一个小岛上休息。对我来说，这种项目工作、科技与日常生活的融合就是梦想。\n\n创建一个图像序列，展示：在溪边工作、行走、水面、小岛和休息的画面。确保画面中的人物保持一致（像用户本人）。在所有镜头中保持自然的光线和透视效果。",
@@ -26862,7 +26885,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:68cc9db55d831218",
+    "id": "youmind-nano-banana-pro:29a3aad71950ff56",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词",
     "prompt": "为魔法少女动漫创建主视觉。将其完善为包含标题 Logo 的精美海报设计。",
@@ -26886,7 +26909,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:a02749784222e811",
+    "id": "youmind-nano-banana-pro:0876e5d2ca56b480",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 现代漫画插画风格提示词",
     "prompt": "采用半写实手法的现代漫画插画风格，结合粗犷的墨线勾勒与干净锐利的边缘，高对比度的动态赛璐璐光影效果，在保持图形化漫画美感的同时对皮肤进行微妙的绘画式融合处理，色彩鲜艳且略带颗粒感，强烈的轮廓光与戏剧性高光，具有英雄比例的风格化解剖结构，细节丰富的头发呈现流动的发丝与锐利的高光，纹理笔触飞溅与墨点装饰以增强动态效果，极简浅色背景以突出主体，电影级构图，超精细细节，高分辨率，图像小说品质。ar 9:16!",
@@ -26910,7 +26933,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:f639da6b2b2b9151",
+    "id": "youmind-nano-banana-pro:810876f31dbdcb97",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 赛博朋克侦探电影剧照",
     "prompt": "{\n  \"title\": \"{argument name=\"title\" default=\"赛博朋克侦探\"}\",\n\n  \"image_description\": \"{argument name=\"description\" default=\"透过被雨水浸湿的车窗看到的电影级赛博朋克场景。霓虹灯的倒影在玻璃上跳动，一位英俊的未来侦探穿着厚重的深色外套坐在驾驶座上。一名身穿发光半透明黄色夹克的女性正看向他。背景中，飞行载具穿梭在雾气弥漫的未来城市里。\"}\",\n\n  \"characters\": [\n    {\n      \"role\": \"未来侦探\",\n      \"position\": \"驾驶座\",\n      \"appearance\": \"英俊，表情严肃，身穿厚重深色外套\",\n      \"focus\": \"清晰对焦\"\n    },\n    {\n      \"role\": \"神秘女性\",\n      \"position\": \"副驾驶座\",\n      \"appearance\": \"深色头发，身穿发光半透明黄色夹克\",\n      \"expression\": \"静静地观察着侦探\",\n      \"focus\": \"略微柔和的对焦\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"未来载具内部\",\n    \"cityscape\": \"雾气弥漫的赛博朋克大都市\",\n    \"background_elements\": [\n      \"飞行载具\",\n      \"霓虹灯广告牌\",\n      \"雨水覆盖的玻璃\",\n      \"全息灯光\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"中近景\",\n    \"camera_angle\": \"平视角度\",\n    \"lens\": \"50mm 变形镜头\",\n    \"depth_of_field\": \"浅景深\",\n    \"composition\": \"电影剧照\"\n  },\n\n  \"lighting\": {\n    \"type\": \"电影级布光\",\n    \"effects\": [\n      \"霓虹倒影\",\n      \"体积光\",\n      \"雨水折射\",\n      \"柔和环境光\"\n    ]\n  },\n\n  \"mood\": [\n    \"忧郁\",\n    \"神秘\",\n    \"未来感\",\n    \"情感丰富\"\n  ],\n\n  \"color_palette\": [\n    \"蓝色\",\n    \"青色\",\n    \"黄色\"\n  ],\n\n  \"quality\": {\n    \"style\": \"好莱坞大片\",\n    \"realism\": \"超写实\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"完美倒影\",\n      \"照片级真实人脸\",\n      \"胶片颗粒感\",\n      \"体积雾\",\n      \"逼真的景深效果\",\n      \"获奖级摄影\",\n      \"IMAX 品质\",\n      \"电影叙事感\",\n      \"杰作\"\n    ]\n  }\n}",
@@ -26931,7 +26954,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:90e59c37dd18949a",
+    "id": "youmind-nano-banana-pro:17b4eceea2add723",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 单色圆珠笔手绘风格杂志海报",
     "prompt": "将超细节的蓝色圆珠笔插画转换为单色黑色墨水风格，采用密集的交叉排线和精细的阴影处理，呈现复杂的圆珠笔素描质感、极致的线条刻画、雕刻般的轮廓渲染、手绘笔触美学、富有表现力的有机线条、超现实主义编辑构图、高细节面部渲染、分层的速写本构图线条，以及纯白色的复古技术涂鸦和手写笔记，置于 {argument name=\"background color\" default=\"bold red background\"} 之上，白色排版注释融入背景，地下杂志海报美学，原始且不完美的墨迹，鲜艳红色背景下高对比度的黑色墨水主体，实验性平面设计，先锋杂志封面风格 --ar 9:16 --stylize 750。",
@@ -26953,7 +26976,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:e865f4e7743717e9",
+    "id": "youmind-nano-banana-pro:2d5205c206955afe",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 80 岁哈利·波特的冬日场景",
     "prompt": "{\n\"title\": \"{argument name=\\\"title\\\" default=\\\"80 岁的哈利·波特\\\"}\",\n\n\"scene\": \"乡村小屋内一个宁静的冬夜。窗外大雪纷飞，霜花覆盖在窗棂上，温暖的壁炉柔和地照亮了整个房间。\",\n\n\"subject\": \"80 岁的哈利·波特独自坐在破旧的皮椅上，阅读着他一生中收集的一叠褪色的信件。他的脸上写满了智慧、沧桑与历经冒险后的平静。\",\n\n\"detail\": \"他那根著名的魔杖挂在壁炉上方，无人触碰，落满了灰尘。罗恩、赫敏、海格以及霍格沃茨时期的旧照片装饰着房间。一副圆框眼镜放在茶杯旁。旁边的架子上放着一本写着“霍格沃茨”字样的陈旧相册。\",\n\n\"atmosphere\": \"深沉的怀旧感，情感丰富，苦乐参半，宁静，反思\",\n\n\"lighting\": \"温暖的炉火，柔和的阴影，金色光辉，电影般的冬日氛围\",\n\n\"composition\": \"亲密的电影镜头，哈利坐在壁炉旁，背景可见覆盖着积雪的窗户\",\n\n\"style\": \"照片级真实感，电影杰作，好莱坞电影结尾场景，超高细节，胶片颗粒感，浅景深，8K\",\n\n\"mood\": \"大难不死的男孩，终成了铭记往事的老人。\",\n\"image_text\": \"有些魔法永不消逝。\"\n}",
@@ -26974,7 +26997,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:95d1114680b3cd34",
+    "id": "youmind-nano-banana-pro:ba2a7f03804ebb35",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 卡通怪物 Rat Rod 直线竞速赛",
     "prompt": "一幅充满活力的卡通插画，描绘了 {argument name=\"creature\" default=\"一只瞪着大眼、长着尖牙的绿色怪物\"} 正在驾驶一辆经过改装的 {argument name=\"car type\" default=\"粉色大众甲壳虫\"}。车身上装饰着火焰图案，并写有“BEETLE BOMBER”和“RAT ROD”字样。怪物戴着赛车头盔，车身处于腾空状态，后轮胎和排气管喷涌出浓烟与火焰。背景中，一群同样怪异的角色在“DRAG STRIP”标志后欢呼。写有“BEETLE JUICE”、“COLD BEER”和“NITRO”的霓虹灯招牌，为这场直线竞速赛增添了混乱且高能的氛围。艺术风格融合了漫画与涂鸦元素，线条粗犷，色彩饱和。",
@@ -26995,7 +27018,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:bccb76ce63ab4319",
+    "id": "youmind-nano-banana-pro:25433a76c3d78ee3",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 错综复杂的龙之奇幻诗篇",
     "prompt": "双岸记忆之翼\n\n龙不选择世纪。\n是世纪在选择自身，\n穿过由拖延与余晖构成的躯体。\n一翼拖曳着图书馆最后一页未被焚毁的纸张，\n那是在纸张学会自己的名字之前就已陨落的文明。\n另一翼梳理着全息雨幕，\n来自那些尚未决定\n是屹立不倒还是化为传闻的高塔。\n在双翼之间，空气保留着两份历法，\n却忘记了哪一份正在运行。\n它的鳞片比“鳞”这个词本身更为古老。\n它们记得那些尚未点燃的\n熔炉的炽热，\n以及在某种叙述中\n早已熄灭的\n星辰的寒冷。\n符文如同一座城市尚未获得思考资格的念头，\n浮现又沉没。\n每一次光脉冲既是遗迹也是原型。\n下方，街道湿润，承载着已然发生之事\n以及仍在协商抵达之事。\n霓虹灯在曾是冰川耐心的水面上书写，\n而后来，那只会成为关于干渴的传闻。\n地基坐落在森林的静谧之上，\n森林仍梦见自己依然挺立。\n广告牌宣传着明天，\n却已对尚未到来的黄昏感到思乡。\n这生物的双眼承载着唯一诚实的天气：\n一只眼是记忆的翠绿，\n尚不知晓自己已然终结；\n另一只眼是疑问的湛蓝，\n尚未找到将要问出它的那张嘴。\n它们注视我们，如同时间在无人窥视时\n注视着自身——\n没有怜悯，没有判决，\n只有长久的、礼貌的凝视。\n我们生活在它掠过时短暂的气流中，\n那奇特而仁慈的间隙，\n过去尚未与我们了结，\n而未来已开始\n怀念我们尚未失去的一切。\n除了转动，别无承诺：\n那缓慢而明亮的翅膀铰链，\n同时属于每一个时刻，\n却又不完全属于其中任何一个。\n它留下的薄雾既非终结，也非开端。\n那是它们在下一个不确定性\n张开安静而必要的手掌之前，\n短暂相认的地方。",
@@ -27019,7 +27042,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:996b85019530b381",
+    "id": "youmind-nano-banana-pro:4a45346d5809ae1d",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 风格化武术动漫少女",
     "prompt": "一幅风格化的数字动漫插画，描绘了一位神情严肃、目光坚定的东亚少女，双臂交叉抱在胸前。她留着凌乱的黑色短发，部分扎成松散的丸子头，几缕发丝垂在脸颊两侧；她有着深邃传神的双眸和白皙的皮肤。她身穿一件宽松的深森林绿武术和服，内衬为浅鼠尾草绿，袖口宽大且有折叠设计，腰间系着黑色腰带（obi），胸前饰有醒目的金黄色闪电图案。背景采用大胆的黑色、白色和鲜艳的暖黄橙色调，呈现动态的墨迹飞溅效果。作品融合了矢量艺术与漫画插画风格，采用赛璐珞阴影、锐利的轮廓线、写意的笔触、戏剧性的光影以及高对比度，竖构图肖像 --ar 1:2 --v 6.0",
@@ -27040,7 +27063,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:4408c70b33e76271",
+    "id": "youmind-nano-banana-pro:cd29933cbc06a9dd",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 枫糖浆商业广告项目",
     "prompt": "标题：\n高端枫糖浆产品商业广告项目\n\n格式：\n• 单页高端项目\n• 3:4 竖屏比例\n• 高端食品广告\n• 8 个电影级产品特写镜头\n• 产品始终作为核心主角\n• 高端广告代理商演示风格\n\n页眉：\n• 优雅的衬线字体\n• 信息卡片：\n  - 时长：{argument name=\"duration\" default=\"20 秒\"}\n  - 风格：电影级美食商业广告\n  - 产品：{argument name=\"product name\" default=\"纯枫糖浆\"}\n  - 音频：缓慢倾倒声 + 轻柔食物 ASMR\n• “为何这种风格有效”板块\n• {argument name=\"color aesthetic\" default=\"温暖琥珀色、奶油色和深棕色\"} 美学\n• 极简枫叶装饰元素\n\n项目：\n1. 高端枫糖浆瓶矗立在抛光的深色木桌上\n2. 瓶盖开启的极致微距镜头\n3. 金色糖浆从瓶中缓慢流出\n4. 糖浆在半空中形成光亮的丝带状\n5. 糖浆倾泻在松软的煎饼上\n6. 展示浓郁糖浆质感与微小反光的极致微距\n7. 煎饼塔与主角瓶身及枫叶环绕\n8. 伴随戏剧性糖浆倾倒的最终高端产品定格画面\n\n每个分镜：\n• 场景编号\n• 时长标签\n• 运镜方向\n• 视觉画面\n• 动作描述\n• 产品细节\n\n摄影：\n极致微距、慢动作液体摄影、俯拍美食视角、受控推拉镜头、浅景深、电影级主角构图。\n\n风格：\n超写实食品广告、逼真的糖浆粘稠度、光泽金色质感、温暖影棚灯光、高端玻璃包装、精致美食呈现、8K 分辨率。",
@@ -27061,7 +27084,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:29a6cec03ce4d91c",
+    "id": "youmind-nano-banana-pro:5f7768d67b282e80",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 黏土动画风格的变色龙森林",
     "prompt": "这是一个充满活力且奇思妙想的黏土动画场景，描绘了一只色彩斑斓的 {argument name=\"subject\" default=\"chameleon\"} 栖息在茂密梦幻森林中长满苔藓的树枝上。这只变色龙拥有绿色、蓝色、橙色和黄色交织的复杂鳞片，正专注地凝视着左侧。它周围环绕着各种同样由黏土塑造的奇幻动植物，包括发光的蘑菇、花心如眼球般的奇特花朵、带有活动眼珠的怪趣昆虫，以及形状古怪的球状果实。背景是树木和枝叶形成的柔和虚化效果，营造出一种深邃而迷人的氛围。整体呈现出一个栩栩如生的魔法微缩世界。",
@@ -27082,7 +27105,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:c8da6fe3fdf5a7ba",
+    "id": "youmind-nano-banana-pro:2c8c8d55b169057f",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 草莓芝士蛋糕冰淇淋项目",
     "prompt": "标题：\n高端草莓芝士蛋糕冰淇淋产品广告项目\n\n格式：\n• 单页高端项目\n• 3:4 竖屏比例\n• 电影级冷冻甜点广告宣传片\n• 8 个完全不同的产品聚焦场景\n• 产品始终作为核心视觉主体\n• 高端广告代理商演示风格\n\n页眉：\n• 粗体编辑排版\n• 信息卡片：\n\n* 时长：{argument name=\"duration\" default=\"10 秒\"}\n* 风格：电影级甜点广告\n* 产品：{argument name=\"product\" default=\"草莓芝士蛋糕冰淇淋\"}\n* 音频：勺子刮擦声 + 奶油甜点 ASMR\n  • “为何这种风格有效”部分\n  • {argument name=\"color palette\" default=\"柔粉色、草莓红、奶油色和香草色\"} 美学\n  • 极简草莓与甜点主题装饰细节\n\n项目内容：\n\n1. 高端草莓芝士蛋糕冰淇淋桶戏剧性地矗立在冰镇大理石台面上，产品包装正面清晰可见\n2. 打开冰淇淋桶，特写镜头展示盖子被掀开，露出下方奶油质感的冰淇淋\n3. 冰淇淋勺压入表面，展现出丰富的草莓芝士蛋糕层次和逼真的奶油质感\n4. 草莓果肉和芝士蛋糕碎屑嵌入冰淇淋中的极致微距镜头\n5. 新鲜草莓酱缓慢流过完美成型的冰淇淋球，形成光泽感十足的红色丝带\n6. 冰淇淋球被盛入玻璃甜点杯中，细小的芝士蛋糕碎屑自然散落周围\n7. 勺子切开奶油冰淇淋球的特写，露出内部的草莓馅料和柔软的芝士蛋糕块\n8. 最终产品定格镜头，原装冰淇淋桶放置在优雅的甜点杯旁，新鲜草莓、碎屑和草莓酱围绕在产品周围\n\n每个面板：\n• 场景编号\n• 时长标签\n• 运镜方向\n• 视觉画面\n• 动作描述\n• 产品细节\n\n摄像机：\n极致微距美食摄影、平滑的挖勺动作、慢动作草莓酱浇淋、细腻的质感特写、受控的推拉镜头、浅景深、优雅的俯拍构图、电影级最终包装定格。\n\n风格：\n超写实高端冷冻甜点广告、浓郁的奶油冰淇淋质感、逼真的草莓果肉、细腻的芝士蛋糕碎屑、光泽感草莓酱、真实的冷凝水珠、清晰的包装细节、柔和的电影级灯光、奢华的美食造型、专业甜点广告、8K 分辨率。",
@@ -27103,7 +27126,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:f191e44c0fb52ee3",
+    "id": "youmind-nano-banana-pro:43c1ea90f907c202",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 希腊酸奶商业广告项目",
     "prompt": "标题：高端希腊酸奶产品商业广告项目 格式：• 单页高端项目 • 3:4 竖屏比例 • 高端乳制品营销活动 • 8 个以产品为中心的电影级场景 • 产品始终是视觉核心 • 高端广告代理商演示文稿 页眉：• 优雅简洁的排版 • 信息卡片：- 时长：{argument name=\"duration\" default=\"20 秒\"} - 风格：新鲜美食商业广告 - 产品：{argument name=\"product\" default=\"希腊水果酸奶\"} - 音频：勺子 + 奶油质感 ASMR • “为何选择此风格”部分 • 白色、柔粉色和浆果红美学 • 极简水果风装饰元素 项目：1. 高端酸奶杯放置在冰镇大理石上，配以新鲜浆果 2. 酸奶盖被揭开的极致微距镜头 3. 勺子进入浓郁奶油状酸奶中 4. 勺子舀起光滑细腻的部分 5. 新鲜草莓块落入酸奶中 6. 浆果泥在奶油状酸奶中旋转 7. 展示浓郁酸奶质地和水果块的极致微距镜头 8. 最终产品展示，包含酸奶杯、浆果和优雅的勺子构图 每个面板：• 场景编号 • 时长标签 • 摄像机方向 • 视觉效果 • 动作 • 产品细节 摄像机：极致微距、慢动作水果掉落、奶油质地特写、俯视构图、平滑的勺子移动、浅景深、电影级核心构图。风格：超写实乳制品摄影、浓郁奶油质地、逼真的水果块、光泽浆果漩涡、冰镇凝露、柔和的高端光影、简洁包装、高端食品广告、8K。",
@@ -27124,7 +27147,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:2a14ece723556752",
+    "id": "youmind-nano-banana-pro:5c034190adb9976a",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 电影感 2D 动漫插画",
     "prompt": "电影感 2D 数字插画，{argument name=\"style aesthetic\" default=\"精致的半写实动漫美学\"}，干净利落的粗线条，平滑的赛璐珞阴影与柔和的绘画感渐变融合，富有表现力的精细面部渲染，略微夸张的比例，明亮的双眼，自然的皮肤纹理，具有立体感且发丝分明的头发，{argument name=\"lighting\" default=\"温暖的轮廓光，忧郁的青橙色调分级\"}，柔和的复古色调，柔和的环境阴影，轻微的颗粒感，{argument name=\"mood\" default=\"怀旧的 1990 年代/2000 年代杂志海报氛围\"}，大气室内光，高度精致的角色艺术，清晰的细节，深度与电影感构图，竖屏 9:16。",
@@ -27147,7 +27170,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:0cf07fb6dcdd5b36",
+    "id": "youmind-nano-banana-pro:001eb0aa995d6253",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 电影感雨夜车内人像",
     "prompt": "{ \"title\": \"电影感雨夜人像\", \"description\": \"一张充满情感的电影感人像，透过雨夜霓虹城市中起雾且布满雨水的车窗拍摄。一位美丽的年轻女性独自坐在后座，神情忧郁而遥远地望着窗外。她轻轻地在起雾的玻璃上画了一个小爱心，窗外色彩斑斓的城市灯光在雨滴后变得模糊，营造出一种孤独、怀旧与静谧沉思的氛围。\", \"prompt\": \"一张电影感雨夜人像，透过起雾且布满雨水的车窗拍摄。一位美丽的年轻女性在暴雨中独自坐在车后座，神情忧郁而遥远地望着窗外。她用手指轻轻在起雾的玻璃上画了一个小爱心。雨滴顺着窗户流下，使背景中色彩斑斓的城市灯光和霓虹灯招牌变得扭曲。柔和的蓝色与温暖的橙色霓虹灯反射照亮了她的脸庞和湿润的玻璃。情感孤独，静谧哀伤，电影叙事感，真实的皮肤纹理，可见的毛孔，自然妆容，微乱的头发，富有表现力的眼睛，浅景深，梦幻虚化，柔焦效果，逼真的反射，氛围照明，模拟胶片颗粒，电影级调色，照片级真实感，摄影杰作，超细节，85mm 镜头，f/1.4，获奖人像，情感视觉诗，8k。\", \"style\": [ \"电影摄影\", \"照片级真实感\", \"模拟胶片美学\", \"情感视觉叙事\", \"新黑色电影氛围\" ], \"negative_prompt\": \"动漫，卡通，CGI，3D 渲染，低质量，面部模糊，多余的手指，糟糕的解剖结构，不真实的皮肤，色彩过饱和，水印，文字，Logo，人物重复，手部扭曲，塑料感皮肤\" }",
@@ -27168,7 +27191,7 @@
     "imageModel": "nano-banana-pro"
   },
   {
-    "id": "youmind-nano-banana-pro:a2ce985f168ccc73",
+    "id": "youmind-nano-banana-pro:eebdc42642f9b4f4",
     "sourceId": "youmind-nano-banana-pro",
     "title": "漫画 / 故事板 - 高端酸奶商业广告项目",
     "prompt": "标题：\n高端希腊酸奶产品商业广告项目\n\n格式：\n• 单页高端项目\n• 3:4 竖屏比例\n• 高端乳制品营销活动\n• 8 个电影级产品特写场景\n• 产品始终作为视觉核心\n• 豪华广告代理商演示风格\n\n页眉：\n• 优雅简洁的排版\n• 信息卡片：\n  - 时长：{argument name=\"duration\" default=\"20 秒\"}\n  - 风格：新鲜美食商业广告\n  - 产品：{argument name=\"product name\" default=\"希腊水果酸奶\"}\n  - 音频：勺子 + 奶油质感 ASMR\n• 为什么这种风格有效部分\n• {argument name=\"color aesthetic\" default=\"白色、柔粉色和浆果红美学\"}\n• 简约的水果灵感装饰元素\n\n项目：\n1. 高端酸奶杯放置在冰镇大理石上，配以新鲜浆果\n2. 极致微距拍摄酸奶盖被揭开的过程\n3. 勺子进入浓郁的奶油酸奶中\n4. 勺子舀起顺滑有光泽的酸奶\n5. 新鲜草莓块掉入酸奶中\n6. 浆果泥在奶油酸奶中旋转\n7. 极致微距展示浓稠的酸奶质地和水果块\n8. 最终产品定格画面，包含酸奶杯、浆果和优雅的勺子构图\n\n每个面板：\n• 场景编号\n• 时长标签\n• 镜头方向\n• 视觉效果\n• 动作\n• 产品细节\n\n镜头：\n极致微距、慢动作水果掉落、奶油质地特写、俯视构图、平滑的勺子移动、浅景深、电影级主角构图。\n\n风格：\n超写实乳制品美食摄影、浓郁奶油质感、逼真的水果块、光泽浆果漩涡、冰镇冷凝水珠、柔和的高端光影、简洁包装、豪华食品广告、8K 分辨率。",
@@ -27184,27 +27207,6 @@
     ],
     "author": "𝐌",
     "sourceUrl": "https://x.com/Strength04_X/status/2096204332895261103",
-    "createdAt": "2026-09-05",
-    "imageMode": "",
-    "imageModel": "nano-banana-pro"
-  },
-  {
-    "id": "youmind-nano-banana-pro:cae7995e633aebeb",
-    "sourceId": "youmind-nano-banana-pro",
-    "title": "漫画 / 故事板 - 家庭晚餐电影感联络表",
-    "prompt": "{\n  \"title\": \"温馨家庭晚餐电影感联络表\",\n  \"format\": \"3x3 联络表拼贴\",\n  \"subject\": \"{argument name=\"subject\" default=\"一位留着自然波浪卷深色头发的年轻女性，身穿宽松的棕色亚麻衬衫，坐在温馨家庭晚餐的木制餐桌旁\"}\",\n  \"environment\": \"{argument name=\"environment\" default=\"传统的家庭餐厅，复古壁纸，摆满盘子和玻璃器皿的木制中式餐柜，温暖的钨丝灯照明，真实的居家氛围\"}\",\n  \"composition\": {\n    \"grid\": \"3x3 分镜画面\",\n    \"shots\": [\n      \"中景：用富有表现力的手势交谈\",\n      \"特写：自然地大笑\",\n      \"侧面：从砂锅中盛取千层面\",\n      \"特写：托腮倾听\",\n      \"中景：低头吃晚餐\",\n      \"特写：带着俏皮的表情品尝食物\",\n      \"中景：讲述生动的故事\",\n      \"特写：拿着叉子温柔地微笑\",\n      \"远景：交谈后独自坐在餐桌旁\"\n    ]\n  },\n  \"camera\": {\n    \"lens\": \"50mm 和 85mm 定焦镜头\",\n    \"depth_of_field\": \"浅景深\",\n    \"focus\": \"主体清晰对焦，背景呈现奶油般虚化\",\n    \"framing\": \"多角度电影感覆盖\"\n  },\n  \"lighting\": {\n    \"type\": \"温暖的实用居家照明\",\n    \"color_temperature\": \"3200K\",\n    \"mood\": \"温馨、亲密、怀旧\",\n    \"shadows\": \"柔和的自然阴影\"\n  },\n  \"style\": {\n    \"photorealistic\": true,\n    \"cinematic\": true,\n    \"natural_expressions\": true,\n    \"slice_of_life\": true,\n    \"authentic_human_moments\": true,\n    \"award_winning_film_still\": true\n  },\n  \"color_grading\": {\n    \"palette\": \"{argument name=\"palette\" default=\"暖琥珀色、棕色、奶油色、米色\"}\",\n    \"contrast\": \"柔和的电影感对比度\",\n    \"look\": \"Kodak Vision3 胶片模拟\"\n  },\n  \"details\": [\n    \"真诚的笑声\",\n    \"自然的眼神交流\",\n    \"细微的面部表情\",\n    \"真实的皮肤纹理\",\n    \"木制餐具家具\",\n    \"家常菜肴\",\n    \"纪实摄影风格\",\n    \"家庭聚会氛围\"\n  ],\n  \"quality\": {\n    \"resolution\": \"8K\",\n    \"detail\": \"超精细\",\n    \"realism\": \"超写实\"\n  },\n  \"negative_prompt\": [\n    \"动漫\",\n    \"卡通\",\n    \"CGI\",\n    \"塑料感皮肤\",\n    \"过度处理的面部\",\n    \"低分辨率\",\n    \"多余的手指\",\n    \"扭曲的解剖结构\",\n    \"文字\",\n    \"水印\",\n    \"标志\"\n  ]\n}",
-    "description": "一个结构化的 JSON 提示词，用于生成具有 Kodak 胶片模拟效果的 3x3 家庭晚餐场景写实电影感拼贴图。",
-    "coverUrl": "https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg",
-    "referenceImageUrls": [
-      "https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg"
-    ],
-    "tags": [
-      "nano-banana-pro",
-      "漫画 / 故事板",
-      "Compound Learning - Tech | Science"
-    ],
-    "author": "Compound Learning - Tech | Science",
-    "sourceUrl": "https://x.com/SheBuildsAI_/status/2096191621838864712",
     "createdAt": "2026-09-05",
     "imageMode": "",
     "imageModel": "nano-banana-pro"
@@ -33870,6 +33872,237 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:11c239311bf96e5f",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "金发刺猬角色",
+    "prompt": "以 1995 年动画电影《Wind in the Willows》为原型，创作一个金发雌性刺猬角色",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120723818004074496/img/NIA4TyLqPm98IuwO.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120723818004074496/img/NIA4TyLqPm98IuwO.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Mary Burton"
+    ],
+    "author": "Mary Burton",
+    "sourceUrl": "https://x.com/MaryBurtonPCVB/status/2120723829920084054",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:27e15f63af6462cc",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 视频提示词：金鼹鼠角色",
+    "prompt": "创作一个 1995 年版《柳林风声》（The Wind in the Willows）中金色鼹鼠动画女性角色",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120719276994662400/img/dq5gb2oQsEBS2cA5.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120719276994662400/img/dq5gb2oQsEBS2cA5.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Mary Burton"
+    ],
+    "author": "Mary Burton",
+    "sourceUrl": "https://x.com/MaryBurtonPCVB/status/2120719289405894861",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:cdc6d6bae4a5810d",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine Chibi 北极守护者变身视频",
+    "prompt": "北极冰卫\n一个可爱的 Q 版小男孩，留着银色短发，戴着破旧的白色狼耳兜帽，围着围巾，提着一盏小灯笼，正穿行在冰封的森林里。蓝色的冰晶开始在他身边漂浮升腾。机械装甲部件从雪地中浮现，自动吸附到他的身上。他的装束随之变形成白蓝相间的极地战斗装甲，双臂上显现出巨大的机械冰盾。\n\n超写实皮克斯风格 3D Q 版角色，萌系比例，超大灵动双眼，细腻的面料纹理，照片级真实的机械部件，电影感科幻变身特效，HDR，体积光，8K，戏剧性氛围，竖版 9:16。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120708786948018176/img/ofMbER7M7O9LogFn.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120708786948018176/img/ofMbER7M7O9LogFn.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2120708844758130702",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:9d2902c34b816395",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "维京女神湖中潜水",
+    "prompt": "然后让她跳进湖里，就像从湖面上方起跳那样，水里要有开着花的睡莲，最后让她看向镜头。整体风格偏北欧风，像一位女武神，整段视频必须始终是同一个女人，对，但是 m...",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120690395109625856/img/xDReOJwExrqE4_xd.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120690395109625856/img/xDReOJwExrqE4_xd.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Joshua Ott"
+    ],
+    "author": "Joshua Ott",
+    "sourceUrl": "https://x.com/freddy_slicklow/status/2120690412897911008",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:7ff81afe0fbf7251",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 坦克黑洞物理模拟",
+    "prompt": "Maus 坦克疯狂加速旋转，直至达到光速并坍缩成黑洞，瞬间摧毁整座城市",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120688756705357825/img/OK_tdXkwIwZQswKi.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120688756705357825/img/OK_tdXkwIwZQswKi.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "August Littell"
+    ],
+    "author": "August Littell",
+    "sourceUrl": "https://x.com/AugustLittell/status/2120688807154458980",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:a181d54417f0d6f6",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "二战八号坦克“鼠式”序列",
+    "prompt": "电影级超写实 15 秒镜头：一辆庞大的二战 Panzer VIII Maus 超重型坦克（重达 188 吨，方正车体，配备长身管 128 mm 火炮，灰绿色涂装斑驳陈旧，履带与舱盖细节清晰可见）静静停驻在荒凉尘土飞扬的平原上……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120688702535974912/img/D4KfgvnnUKV3IX_e.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120688702535974912/img/D4KfgvnnUKV3IX_e.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "August Littell"
+    ],
+    "author": "August Littell",
+    "sourceUrl": "https://x.com/AugustLittell/status/2120688754209833384",
+    "createdAt": "2026-11-12",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:96bcfd85fcfdb23f",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "紫色暗影刺客 Q 版女孩",
+    "prompt": "一位神秘的 Q 版少女，头戴深紫色兜帽，长着长长的狐狸耳朵，背着小背包穿行在雨中的赛博朋克街道上。紫色的电流环绕在她的脚边。微型机械蜘蛛从她的背包中爬出，附着在她的衣服上。她全身的装束瞬间幻化为一套流线型的紫色潜行战甲。两把闪耀的等离子匕首出现在她手中。\n\n视频免责声明：\n本视频中的科幻角色与未来感战甲变身均为 AI 生成的虚构内容，仅供娱乐。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120548874716884993/img/9R2wfIil1EoS6xrU.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120548874716884993/img/9R2wfIil1EoS6xrU.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2120551010137444804",
+    "createdAt": "2026-11-11",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:13cde2c7d8ce12bb",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 烟花约会视频提示词",
+    "prompt": "全局设置：\n保持女性角色（@Image1 和 @Image2）的完全一致性（相同的面部特征、扎着红色发饰的黑色马尾辫、白花纹藏青色浴衣）以及场景设定（夜晚海岸，背景烟花）。6 秒视频（2 秒 × 3 个镜头）。\nBGM：温暖的木吉他与柔和宁静的原声钢琴合奏。\n[0-2s / 镜头 1（中景）]\n背景中，巨大的烟花照亮了夜空与水面，@Image1 中的女子将手从胸前缓缓放下，仿佛在感受夜风般，双手轻轻交握于胸前。她仰望天空，神情意味深长、惹人怜爱。\n[2-4s / 镜头 2（半身景）]\n背景中烟花绚烂绽放，@Image2 中的女子突然望向镜头，右手轻掩唇边，摆出仿佛欲言又止的姿态，慵懒迷人，风情万种。\n[4-6s / 镜头 3（特写）]\n镜头推近女子的面部。发丝在夜风中轻轻飘动，眼眸里映出烟花的光芒。最后，她注视着镜头微微一笑，俏皮地眨了眨右眼，定格成一个惊艳的收尾姿势。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://cms-assets.youmind.com/media/1794469220640_cwb6nw_HWz4DYhaEAA-c3T.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1794469220640_cwb6nw_HWz4DYhaEAA-c3T.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "はる"
+    ],
+    "author": "はる",
+    "sourceUrl": "https://x.com/HaluAIArt/status/2120464049095782448",
+    "createdAt": "2026-11-11",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:7cac564865d74ce5",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "录音室二重唱",
+    "prompt": "视频从 @image1 所定义的画面开始：左侧是一位年轻男子，右侧是一位女子，两人并肩站在录音棚里，都戴着黑色头戴式耳机，手持银色复古麦克风贴近嘴边……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120405874514538497/img/U2BTY1GoxcK_8MUc.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120405874514538497/img/U2BTY1GoxcK_8MUc.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Maggie Juang ðŸ¦¢"
+    ],
+    "author": "Maggie Juang ðŸ¦¢",
+    "sourceUrl": "https://x.com/maggiejuang1/status/2120405889450422661",
+    "createdAt": "2026-11-11",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:e4244766dad7272d",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Q 版少女变身金色机甲天使战士",
+    "prompt": "黄金天使战士\n\n一位金发 Q 版少女，身披沾满污渍的米色兜帽，头戴兔耳，手提一盏古旧提灯，正在探索一座古老的神庙。金色的全息符文将地面照得通明。她身上的破旧衣物化作点点星光消散，取而代之的是逐块拼合而成的金色机械铠甲。巨大的机械天使之翼从她背后舒展开来，一柄金色能量长矛赫然出现在她手中。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120329878176407552/img/TsbogFKZAbJNeDHw.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120329878176407552/img/TsbogFKZAbJNeDHw.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2120329925702070425",
+    "createdAt": "2026-11-11",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:ef9576168a6981fb",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Q版男孩龙甲变身",
+    "prompt": "红龙战甲\n一个可爱的 Q 版小男孩，顶着一头凌乱的黑发，戴着破损的棕色狐狸耳兜帽，脚穿皮靴，背着木质背包，正穿行在烈火熊熊的村庄中。红色激光粒子开始环绕他飞舞。机械龙鳞从背包中涌出，在他身上层层拼合。他的装束随之幻化为一套黑红相间的龙之战甲。身后，一对巨大的机械双翼猛然展开，双手同时唤醒了烈焰流转的光刃火剑。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120187828344594433/img/3vN89BH6eh_aoGl-.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120187828344594433/img/3vN89BH6eh_aoGl-.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2120187935815565436",
+    "createdAt": "2026-11-10",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:1666959d7796b192",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "猫娘零食游戏视频提示词",
@@ -33886,6 +34119,69 @@
     ],
     "author": "Cha1972",
     "sourceUrl": "https://x.com/Cha1972j/status/2120176451861549449",
+    "createdAt": "2026-11-10",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:c9c663d78a74e620",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Q版赛博忍者变身视频提示词",
+    "prompt": "一个 Q 版小女孩，头戴脏兮兮的白色兔耳兜帽，身穿破旧的灰色探险服，手提一盏老旧的提灯，穿行在一座废弃的未来城市中。突然，一圈圈蓝色全息光环在她周身浮现。成百上千个微型机械部件从她的背包中涌出，迅速覆盖住她的双腿、双臂和胸膛。她褴褛的衣衫瞬间幻化成一套蓝银相间的华丽战斗铠甲。一柄流光溢彩的等离子武士刀在她手中凭空显现。最终画面：她傲然挺立，宛如一位战力爆表的赛博忍者。\n\n超写实 Pixar 风格 3D Q 版角色，萌系比例，超大灵动双眼，细腻布料纹理，照片级真实机械部件，电影感科幻变身，HDR，体积光，8K，戏剧性氛围，竖版 9:16。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2120085203473289217/img/ggZ7H_P0xCjSbilr.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2120085203473289217/img/ggZ7H_P0xCjSbilr.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2120086222349459727",
+    "createdAt": "2026-11-10",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:dfd1477db6ff889b",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "K-Pop 舞蹈服装视频提示词",
+    "prompt": "不知道她 cos 的是谁，但……真的好美 😊 为什么穿着 cosplay 服装跳舞？别问这种傻问题啦 😆\n\n🎥 视频提示词（Grok Imagine）\n整体设置：\n * 风格与一致性：人物需与 @Image1、@Image2 和 @Image3 中的女模特为同一人。严格保持面部特征、白色波波头、黑灰哥特萝莉裙及头饰的一致性。\n * BGM：节奏感强、轻快动感的嘻哈 K-POP 歌曲。\n * 整体动作：K-POP 舞蹈，手臂与胯部配合流畅。展现爆发力十足的动感、瞬间的静止与柔美姿态之间的反差。\n场景结构（总时长 15 秒 / 4 个场景）：\n * 场景 1（0:00 - 0:04）| 景别：中景 [@Image1 Base]\n   * 动作 1（0-2s）：跟随快节奏音乐，快速左右甩臂，跳出利落的舞步。\n   * 动作 2（2-4s）：动作骤停，手腕顺滑转动并将双手收至胸前，自然过渡到柔美的姿势。\n * 场景 2（0:04 - 0:08）| 景别：全身 [@Image2 Base]\n   * 动作 1（4-6s）：随节拍左右顶胯，舞蹈动感有力。裙摆随之飘动。\n   * 动作 2（6-8s）：动作瞬间定格，单手扶额，身体优雅扭转，尽显柔美。\n * 场景 3（0:08 - 0:12）| 景别：中景 [@Image3 Base]\n   * 动作 1（8-10s）：活力四射的嘻哈编舞，跟着节奏用力挥动手臂、摆动胯部。\n   * 动作 2（10-12s）：从短暂的定格姿势开始，双臂如流水般缓慢顺滑地放下。\n * 场景 4（0:12 - 0:15）| 景别：中景 [@Image3 Base]\n   * 最终定格（12-15s）：在 @Image3 的角度下，于音乐结尾处利落定格，比出剪刀手的同时俏皮地眨一下右眼，完美收尾。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://cms-assets.youmind.com/media/1794469190329_exbzo9_HWphioSakAAIm6R.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1794469190329_exbzo9_HWphioSakAAIm6R.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "ã�¯ã‚‹"
+    ],
+    "author": "ã�¯ã‚‹",
+    "sourceUrl": "https://x.com/HaluAIArt/status/2119995967185326364",
+    "createdAt": "2026-11-10",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:bef718541d56a197",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "机器人自主组装视频",
+    "prompt": "自组装技术\n\n数百台自主机器人协同作业，共同组装出一具巨型 Optimus 机体。金属部件在空中穿梭飞舞，凭借磁力精准吸附到位。\n\n免责声明：\n本视频为 AI 生成的虚构科幻概念作品，仅供娱乐之用。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2119974221870989312/img/gOSF_2wNTvuHQ3rZ.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2119974221870989312/img/gOSF_2wNTvuHQ3rZ.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Ai Mini Thoughts Creator"
+    ],
+    "author": "Ai Mini Thoughts Creator",
+    "sourceUrl": "https://x.com/Aiminithoughts/status/2119974330063114595",
     "createdAt": "2026-11-10",
     "imageMode": "",
     "imageModel": "grok-imagine"
@@ -35672,300 +35968,6 @@
     "author": "Lala",
     "sourceUrl": "https://x.com/keepgoingAnnie/status/2116265801279795385",
     "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:09185ecf2432cc43",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "线稿风格：龙变为蝴蝶与蜂鸟",
-    "prompt": "金属丝造型部分保持不变，把龙换成一只蝴蝶和一只蜂鸟",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116255961497456640/img/YRUalFp3eJOtmSjS.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116255961497456640/img/YRUalFp3eJOtmSjS.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Lindy Hawkinson"
-    ],
-    "author": "Lindy Hawkinson",
-    "sourceUrl": "https://x.com/HawkinsonLindy/status/2116256026123264267",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:7e4192284a4827b7",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 视频提示词：特斯拉街头追逐",
-    "prompt": "让所有这些车来一场公路飙车追逐战：两辆 Tesla Model Y 在前方领跑，警察在后面紧追不舍，而其他车辆则拼命闪避、试图让出车道。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116240408808202240/img/_b5-lWVXkaVUuj-m.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116240408808202240/img/_b5-lWVXkaVUuj-m.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Sohailly Isabel Otero"
-    ],
-    "author": "Sohailly Isabel Otero",
-    "sourceUrl": "https://x.com/hiworldsoso/status/2116240470640893967",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:5eeecaf036bead2e",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "暗黑小红帽视频",
-    "prompt": "照片级写实的暗黑童话风肖像，一位灵感源自小红帽的年轻女子，深棕色秀发搭配修饰脸型的柔和刘海，肌肤白皙，目光坚毅无畏地直视镜头，身披一件极长的深红色连帽斗篷，垂落双肩，裙摆般拖曳至地面。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116204089583513601/img/d5UTPK4Cs26iaqCu.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116204089583513601/img/d5UTPK4Cs26iaqCu.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Annette H Wensel"
-    ],
-    "author": "Annette H Wensel",
-    "sourceUrl": "https://x.com/AnnetteHollerWe/status/2116204122051592519",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:fed2c263b77af390",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "中世纪贵族女性电影级演讲",
-    "prompt": "一位拥有焦糖拿铁肤色的美丽棕皮肤女子，伫立在一座带有拱形穹顶的中世纪城堡中。她身着一袭红色天鹅绒长裙，裙上绣有珍珠与钻石。她的秀发呈栗棕色，点缀着金银花般的金色挑染。双唇是明艳动人的绯红色。眼眸为淡褐色，睫毛纤长。一抹温柔的微笑让她的五官更显精致。光线透过城堡的窗户洒落，勾勒出她发丝与衣着的轮廓。城堡静谧而唯美。巨大的蜡烛映亮了城堡的石墙。\n\n这位女士朝镜头走来，直视镜头并开口说话。\n\n她说：“永远为光明、自由与爱挺身而出。\n无论面对什么——我们都将携手共渡。”\n\n“阴天漫射光”，85 mm 镜头，\n“缓慢推轨靠近”，体积光，视差效果，辉光效果，交叉淡化，高分辨率输出，原生音频生成，物理模拟，慢动作，沉浸式光晕，--ar 16.9，超电影感 4k 风格影片",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116189730530324481/img/vTaENYnqSOQCB5IX.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116189730530324481/img/vTaENYnqSOQCB5IX.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Kim Maria"
-    ],
-    "author": "Kim Maria",
-    "sourceUrl": "https://x.com/KimMaria8ry/status/2116189762595766511",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:0824ce576484383c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "女性变身白色擎天柱视频提示词",
-    "prompt": "[生成目标]\n生成一段进阶变身视频，展现一名女性角色将自己变形为白色擎天柱（Optimus Prime）的过程。核心主体为该女性，她将启动并完成向白色擎天柱机器人形态的自我变形。\n\n[主体与关系]\n由一名女性独立完成整个自我变形过程。她以人类女性的形象开场，最终完全变身为白色擎天柱。画面中不出现其他任何角色。变形过程由她自主触发，且全程连贯不断。\n\n[事件脚本]\n开场：这名女子站在开阔的工业或金属质感场景中央，面朝前方，姿态自信，双臂微微抬起，能量开始在她周身汇聚。\n主要事件：耀眼的白蓝双色能量从她的核心向外迸发。她的身体以丝滑流畅的进阶序列完成重构——皮肤与衣物幻化为光洁的白色装甲板，并点缀着红蓝两色细节；四肢伸展重组，化作强劲的机械腿臂；头盔与面罩在头部成型，同时保留了微妙的女性轮廓特征；胸部驾驶舱与汽车人（Autobot）风格的细节逐渐显现；载具部件拼装组合，构成经典的擎天柱“卡车-机器人”混合结构，整体呈纯白色并泛着抛光金属光泽。能量粒子、发光接缝与全息投影层层叠加，加速推进整个变形过程，直至她彻底化身为双足直立的白色擎天柱形态。\n结尾：变形完成的白色擎天柱以同样的姿态巍然挺立，气势磅礴。装甲已完全锁定，蓝色目镜光芒闪烁，随时准备出击，身上不再残留任何人类特征。\n\n[保持一致性]\n确保“单一女性至机器人”的身份转换连贯统一，白色主色调贯穿始终，擎天柱的轮廓与细节精准还原，空间朝向保持稳定，且自我变形过程一气呵成、不被打断。\n\n免责声明：\n本视频是由 AI 生成的虚构科幻概念作品，仅供娱乐之用。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116152701612650497/img/SaQsQ7kOFepCUASS.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116152701612650497/img/SaQsQ7kOFepCUASS.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2116152840087650695",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:0ab92165424f0c26",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 动态提示词：赛博朋克二次元少女",
-    "prompt": "音乐节奏动感十足。画面中是一位粉色头发的二次元风格女性角色，采用中近景构图，她一边对着屏幕工作，一边随着节拍蹦跳起舞。她身穿融合了赛博朋克与蒸汽朋克元素的未来感服饰。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116139657570226176/img/wrxctVeVu0a7Tx4P.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116139657570226176/img/wrxctVeVu0a7Tx4P.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Lala"
-    ],
-    "author": "Lala",
-    "sourceUrl": "https://x.com/keepgoingAnnie/status/2116142171451543878",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:f301009201dc8d25",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "黄玫瑰花瓣水洼视频编辑",
-    "prompt": "将水坑改为一个小水坑，里面漂浮着黄色玫瑰花瓣，并移除所有其他黄色玫瑰花瓣",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116136407186259970/img/rmUCpn211Hrr2QE_.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116136407186259970/img/rmUCpn211Hrr2QE_.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Lindy Hawkinson"
-    ],
-    "author": "Lindy Hawkinson",
-    "sourceUrl": "https://x.com/HawkinsonLindy/status/2116136478892019806",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:fb63ec00a0403fa1",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "女士手提包变身金属盔甲套装",
-    "prompt": "[生成目标]\n生成一段进阶变身序列。核心主体是一名女子，她将手中的包丢落在地；包瞬间变形成一套全身金属战甲，并直接穿戴在她身上。\n\n[事件脚本]\n开场：女子站立并手持提包，随后刻意将其丢落在身前的地面上。\n核心事件：提包触地的瞬间，立刻开启极具视觉冲击力的变形过程。它不断展开、延展，以如液态金属般流畅的动态发生形变——甲片精准咬合锁定，能量纹路亮起光芒，各个部件向上攀升并环绕她的身体完成组装，最终化作一套完整贴身的金属战甲。在变形完成的刹那，她踏入其中，或被正在成型的战甲完全包裹。\n结尾：她身着流线型反光金属战甲傲然挺立。提包已不再作为独立物件存在，而是彻底化作了这套战甲。她的姿态充满力量感，蓄势待发。\n\n[保持一致性]\n全程保持女子的身份、面部特征、身材比例及整体外观连贯稳定。确保仅由这一个提包变形为一套金属战甲。维持清晰的空间关系：提包起初握在她手中，随后落地，最后延展包裹住她的全身。画面中不得出现多余的人物、提包或战甲。整个变形过程需无缝衔接、张力十足且视觉效果震撼，同时不违背因果逻辑。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116124348071477249/img/HAyNwB1nOrpc1OWk.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116124348071477249/img/HAyNwB1nOrpc1OWk.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2116124466593792234",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:d7b3db09da768f5a",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "忍者对决双人序列",
-    "prompt": "两人联手发起进攻，击败了忍者，随后又再次反目成仇。他们一边大笑一边互相打斗，最后却相拥在一起。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Michael Erikson"
-    ],
-    "author": "Michael Erikson",
-    "sourceUrl": "https://x.com/erikson_michael/status/2116019614442463517",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:5a0afe634ed8e7c0",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "男性变身终极形态",
-    "prompt": "[生成目标]\n生成一段连续进阶蜕变的视频。核心主体是一名起初平平无奇的男子，最终蜕变为气场全开的巅峰形态；主要事件是他层层递进的蜕变过程，最终以他自信地站在女子身旁收尾，兑现“若我功成名就，便娶她为妻”的誓言。\n\n[事件脚本]\n开场：一名普通男子独自伫立在简约的中性空间里，神情坚毅却毫不起眼。\n主要事件：他接连完成一次次进阶蜕变——起初，一股微光能量流遍全身；随后，衣着与体格升级为更强悍、更利落的形态；接着，周身气场愈发强大，气质也愈发精致。每一阶段都让他更上一层楼，直至彻底蜕变为气场强大的终极形态。\n结尾：完成全部蜕变后，他身姿挺拔、自信满满地站在女子身旁，两人羁绊尽显，“若我功成名就，便娶她为妻”的承诺终得圆满。\n\n[保持一致性]\n在每一次蜕变阶段中，始终保持该男子的核心特征连贯统一；将这名女子作为始终不变的承诺对象；并确保最终的携手画面与蜕变成果保持不变。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2116016843215241216",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:d6b6bb0d5f1b5b63",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 优雅连衣裙视频提示词",
-    "prompt": "视频全局设置\n* 时长：15 秒（3 秒 × 5 个镜头）\n* 角色一致性：完整保留 @Image1、@Image2、@Image3 中模特的五官、发型与穿搭（黑色荷叶边连衣裙、黑色头饰、黑色半扎发、蓝色眼睛）。\n* BGM：温暖的木吉他与柔和舒缓的原声钢琴合奏。\n镜头 1（0:00 - 0:03）：中景\n* 基础图片：@Image3\n* 动作 1（0:00-0:01.5）：微微歪头，双手轻搭胸前，温柔微笑。\n* 动作 2（0:01.5-0:03）：单手轻掩嘴角，露出可爱的惊讶表情。\n镜头 2（0:03 - 0:06）：全景（全身）\n* 基础图片：@Image1\n* 动作 1（0:03-0:04.5）：轻轻提起裙摆，优雅屈膝行礼（提裙礼）。\n* 动作 2（0:04.5-0:06）：身体微向斜侧扭转，单脚后撤，凸显造型感。\n镜头 3（0:06 - 0:09）：特写\n* 基础图片：@Image2\n* 动作 1（0:06-0:07.5）：直视镜头，做出将头发别到耳后的动作。\n* 动作 2（0:07.5-0:09）：单手轻托下巴，微微偏头，展现颈部线条与头饰。\n镜头 4（0:09 - 0:12）：中景转全景\n* 基础图片：@Image3 / @Image1\n* 动作 1（0:09-0:10.5）：从微侧身背对镜头的姿态，微笑着转身回眸。\n* 动作 2（0:10.5-0:12）：轻盈半转身，让裙摆随之飘动展开。\n镜头 5（0:12 - 0:15）：压轴绝美特写\n* 基础图片：@Image2\n* 动作 1（0:12-0:13.5）：脸庞缓缓靠近镜头，眼神深情回望。\n* 动作 2（0:13.5-0:15）：对着镜头绽放最灿烂的笑容并摆出最佳姿势，俏皮地单眼眨眼后定格。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://cms-assets.youmind.com/media/1793432017210_i1uq6z_HV2T1GYbAAEgnAZ.jpg",
-    "referenceImageUrls": [
-      "https://cms-assets.youmind.com/media/1793432017210_i1uq6z_HV2T1GYbAAEgnAZ.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "はる"
-    ],
-    "author": "はる",
-    "sourceUrl": "https://x.com/HaluAIArt/status/2116013473108996400",
-    "createdAt": "2026-10-30",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:f17903d93fdf07d8",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Tesla Optimus 变身战斗形态擎天柱视频",
-    "prompt": "[生成目标]\n生成一段纯科幻风格的次世代 Optimus 变形视频。核心主体为 Tesla Optimus，主要事件是它完成一场高科技蜕变——从流线型的人形形态，彻底进化为全副武装、随时可投入战斗的次世代 Optimus Prime 形态。\n\n[事件脚本]\n开场：Optimus 伫立在巨大的未来感机库中央，保持着完整的人形比例，哑光黑与银色装甲板反射出冷冽的青色与品红色全息光芒。头部呈现经典的平滑人形面甲。\n主要事件：变形连锁反应启动。胸甲以液压般的精准度向两侧裂开，露出幽蓝发光的能量核心与层层折叠的装甲模块。双肩向外扩张并锁定为 Prime 标志性的巨型肩甲，手臂装甲随之重组为厚重的臂铠。双腿拉长增粗，化作强劲的趾行式支撑结构；腰部装甲旋转咬合，构成经典的卡车车头式躯干。头部外壳剥落重塑，变为带有发光蓝色目镜的经典 Optimus 头盔。排气管自肩部升起，Autobot 徽章由纯粹的能量凝聚成型，整个身躯变得更高大、更重甲，压迫感呈指数级飙升。\n结尾：完成变身的次世代 Optimus 巍然矗立，身形 towering，蓄势待发。蓝色光学传感器光芒炽烈，能量纹路在每一块装甲板上脉动流转，脚下雾气蒸腾，残余的全息粒子盘旋飞舞。\n\n[视觉风格]\n超高保真电影级科幻美学。硬表面机械细节、金属反光、体积感蓝光、全息 UI 叠加层，以及纳米机器人与光线交织的粒子拖尾。采用青-品红冷色调，搭配深邃阴影与锐利的高光反射。写实材质与风格化能量特效完美融合。\n\n[镜头]\n以一个宽广的英雄式全身镜头开场。变形启动后，镜头顺时针缓慢环绕并稳步推进。中段采用动态低角度跟拍，捕捉四肢的扩张与装甲板的层叠位移。结尾镜头定格于极具张力的低角度英雄姿态，随着最后几块装甲锁定、能量涌动，画面微微上仰。\n\n[声音]\n低沉的液压声与伺服电机嗡鸣层层叠加，伴随不断攀升的电子能量涌动音效。每一次重大装甲位移，都精准卡点金属撞击声与磁力锁定的闷响。最终以一记浑厚的低频能量脉冲和 Autobot 标志性的激活共鸣音收尾。机库环境混响与远处的合成风声共同烘托出浓厚的科幻氛围。无对白，无字幕。\n\n[保持一致性]\n全程保持单一且连续的主体身份：仅有一个 Optimus。其轮廓与比例的演变必须清晰合理，呈现出从人形到次世代 Prime 形态的逻辑递进。整段视频中，金属材质、蓝色能量特征以及科幻机库环境须始终保持一致。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2115849688876503049",
-    "createdAt": "2026-10-29",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:a312462c4041bdbf",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "使用 Grok Imagine 实现绘画中的 3D 导航",
-    "prompt": "视频从所附画作的画面开始，将其构图、主体、色彩、光影与布局原封不动地保留为一个静止的三维空间。\n\n画中的人物、动物、物体、水流、枝叶、云朵、火焰或任何其他绘制元素均不得移动、产生动画或改变状态。整个场景保持完全静止，仿佛这幅画化作了一个凝固不动的立体微缩模型。\n\n镜头在这一静止场景中完成连续的电影级 3D 运镜：缓慢向前推进、轻柔环绕，并掠过主要主体与空间层次，展现出景深、视差与体积感，同时绝不改变或让画中任何内容产生动画。\n伴随镜头运动的仅有环境空间氛围；画中任何元素均不发出对白、旁白、音乐或音效。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Knight World"
-    ],
-    "author": "Knight World",
-    "sourceUrl": "https://x.com/KnightWorld/status/2115786168985870531",
-    "createdAt": "2026-10-29",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:c287a89786448969",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "新娘造型变身",
-    "prompt": "[生成目标]\n生成一段连贯的视频，展现一位女性作为新娘筹备婚礼、梳妆打扮的全过程。\n\n[事件脚本]\n视频开始时，她静静地坐在光线柔和的新娘化妆间里，身穿简约的内衣或浴袍，长发自然披散。她细致地化好新娘妆，随后将头发盘成优雅的发髻，或打理成柔美的波浪卷。接着，在他人帮助下穿上洁白的婚纱，并轻轻抚平裙摆的褶皱。她依次佩戴好首饰、头纱或花饰，然后起身走到全身镜前打量自己。视频结尾，她已装扮完毕，面带浅笑，眼中闪烁着对婚礼的期待与光彩，婚纱与配饰一应俱全，做好了出嫁的准备。\n\n[保持一致性]\n全程保持同一位女性的形象，确保五官特征、肤色和身材比例前后一致。维持白色婚纱主题、优雅的服饰风格以及私密的新娘化妆间场景。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2115769473902780416/img/APqpQFVnu3Lu8SqB.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2115769473902780416/img/APqpQFVnu3Lu8SqB.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2115769679423611129",
-    "createdAt": "2026-10-29",
     "imageMode": "",
     "imageModel": "grok-imagine"
   },
