@@ -252,27 +252,6 @@
     "imageModel": "seedance-2"
   },
   {
-    "id": "youmind-seedance-2-prompts:5420389fe097e2f5",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "神圣天使战士奇幻视频提示词",
-    "prompt": "创作一段令人惊叹的 15 秒电影级奇幻视频，主角是一位绝美的女性天使战士：她拥有一头银白长发，身披散发光芒的金色铠甲，背后是巨大而庄严的白色羽翼，手持一把传说中的金色神剑。\n\n场景 1：特写镜头展现她精致的面容与发光的双眼，她正在神秘的紫色奇幻世界中缓缓苏醒。\n\n场景 2：她手握威力强大的金色神剑，周身环绕着金色的魔法能量。\n\n场景 3：镜头平滑拉远，巨大的天使之翼完全展开，耀眼的金光点亮天际，魔法光粒在她身旁轻盈飘舞。\n\n场景 4：她持剑傲然挺立，尽显神圣威严的强大气场。\n\n超写实 3D 奇幻动画，震撼的电影级光影，羽毛细节纤毫毕现，动作自然流畅，史诗般的恢弘氛围，镜头过渡丝滑，4K 画质，9:16 竖屏比例。全程保持角色形象高度一致。",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "Ali"
-    ],
-    "author": "Ali",
-    "sourceUrl": "https://x.com/CodesWithAli/status/2122580427013824751",
-    "createdAt": "2026-11-17",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
     "id": "youmind-seedance-2-prompts:5a13f8c6989f767b",
     "sourceId": "youmind-seedance-2-prompts",
     "title": "韩式浪漫动作短片",
@@ -2222,6 +2201,27 @@
     "author": "单引号",
     "sourceUrl": "https://x.com/DengYH803/status/2114557242569867559",
     "createdAt": "2026-10-26",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:64a840c78fe13a17",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "拟人化猫咪跳舞视频",
+    "prompt": "**时长：** 8 秒\n**格式：** 竖版 9:16，电影级照片写实风格\n**参考素材：** 以上传的猫咪图片作为精确的首帧画面与角色参考。\n\n**角色一致性：** 必须是同一只橘白相间的虎斑猫，穿着同款粉色休闲纽扣衬衫和米色长裤。在整个视频中，需始终保持其原始的面部特征、眼型、耳朵、毛发花纹、身体比例、服装及尾巴不变。\n\n**音乐：** 酷炫且富有节奏感的现代流行舞曲纯音乐，搭配深沉律动的贝斯、清脆的打击乐和时尚的俱乐部节拍。音乐立即响起，舞蹈动作必须精准卡点。\n\n**舞蹈编排：**\n\n**0–2 秒：** 猫咪以放松自信的姿态站立开场。它流畅地完成一次转肩、细微的胸部 Isolation（局部控制），以及有控制的左右摆胯，全程与镜头保持眼神交流。\n\n**2–4 秒：** 猫咪展现干净利落的时尚步法，左右交替迈步，同时双臂在躯干前随节奏自然摆动。手腕动作自然，手肘放松，上半身律动收放自如。\n\n**4–6 秒：** 猫咪完成一段流畅的身体波浪（Body Wave）、自信的双踏步（Two-step）以及协调的手臂挥动。它的躯干与胯部独立运动，呈现出符合物理规律、拟人化的舞蹈风格。\n\n**6–8 秒：** 猫咪踩出两个干脆利落的卡点步伐，配合一次流畅的抖肩（Shoulder Pop），最后面向镜头定格在一个酷炫自信的收尾姿势上。\n\n**头部与颈部控制（关键要求）：** 猫咪的头部必须符合解剖学结构，保持稳定并与颈部自然相连。仅允许轻微、写实的头部倾斜以及小幅度的卡点动作。头部绝不能 360 度旋转、向后翻转、不自然地扭曲、脱离身体或独立于身体转动。每一帧中的眼睛、耳朵、口鼻部及面部结构都必须保持一致。\n\n**写实锁定：** 重心转移自然，双脚扎实落地，平衡感真实可信，舞蹈动作之间过渡流畅，毛发与布料物理效果逼真，阴影连贯一致，动作连续不断，身体结构稳定。采用一镜到底拍摄，全身机位平稳，无突兀的镜头运动。\n\n**负面约束：** 禁止卡通化动作、禁止幼稚的舞步、禁止夸张的面部表情、禁止橡胶般的肢体、禁止不自然的脊柱弯曲、禁止扭脖子、禁止转头、禁止出现多余肢体、禁止面部变形、禁止更换服装、禁止悬浮、禁止画面闪烁、禁止姿势突变、禁止动作僵硬失真。\n\n**最终效果：** 由同一只照片级写实的拟人化猫咪呈现一场时尚、自信、成熟风格的舞蹈表演，要求编舞流畅、头部动作自然、肢体动态真实可信。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "M. Asif"
+    ],
+    "author": "M. Asif",
+    "sourceUrl": "https://x.com/meAsifAi/status/2114406947558764575",
+    "createdAt": "2026-10-25",
     "imageMode": "",
     "imageModel": "seedance-2"
   }

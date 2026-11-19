@@ -63,6 +63,174 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:f8420bdbff6f080d",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 时装秀场景扩展",
+    "prompt": "以第一张图片为基础（平等时尚穿搭秀场景，包含 Charlize Theron、抱着婴儿 Donald Trump Jr 的 Michelle Obama、Donald Trump 和 Melania），请扩充人物阵容：准确添加第二张图片中的 Paris Hilton，让她站在 C... 旁边",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122951565917216769/img/_vFnfIx4TCJAzp55.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122951565917216769/img/_vFnfIx4TCJAzp55.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Puchamamax"
+    ],
+    "author": "Puchamamax",
+    "sourceUrl": "https://x.com/aaoomaxi/status/2122951597483589966",
+    "createdAt": "2026-11-18",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:5c829aa098abefb2",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "特斯拉 Optimus 机器人现身时代广场",
+    "prompt": "Tesla Optimus 机器人大军列队穿行时代广场，在城市街头阔步前进！\n纽约警力的全新解决方案。\n反恐机器人部队🇺🇸",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122930461525606400/img/IjNg6AnsBjdUuFoR.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122930461525606400/img/IjNg6AnsBjdUuFoR.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Sherry Cord"
+    ],
+    "author": "Sherry Cord",
+    "sourceUrl": "https://x.com/SherryBossMama/status/2122930521269526583",
+    "createdAt": "2026-11-18",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:57a6c82a90ffa497",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 提示词：《经济学人》封面动画",
+    "prompt": "让我们结合近期关于《The Economist》（经济学人）新封面的报道，让这张图“活”起来。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122874678393925632/img/nFP2ZyZHkAioAgb4.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122874678393925632/img/nFP2ZyZHkAioAgb4.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Gabriel Santini"
+    ],
+    "author": "Gabriel Santini",
+    "sourceUrl": "https://x.com/GCSantiniX/status/2122876989698875451",
+    "createdAt": "2026-11-18",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:7043ace1e5e09464",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "熊猫与北极熊的天体音乐",
+    "prompt": "让熊猫幼崽和北极熊幼崽演奏乐器，并加入天体螺旋元素。你也可以自定义专属方案",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122876434389827585/img/OoWVbVn958H2bfzq.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122876434389827585/img/OoWVbVn958H2bfzq.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Cathy has this"
+    ],
+    "author": "Cathy has this",
+    "sourceUrl": "https://x.com/lighthouse42f/status/2122876464718897609",
+    "createdAt": "2026-11-18",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:232c912d220a0d20",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "环绕地球的数据中心栖息地视频",
+    "prompt": "与环绕地球运行的 Data centers 相连的居住栖息地\n当 Data Centers 成为家园，一份工作的生命周期，守护 Data，",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122861868771577856/img/EJf1SfT9YzjhEzWx.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122861868771577856/img/EJf1SfT9YzjhEzWx.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Tammy LouiseVsughan"
+    ],
+    "author": "Tammy LouiseVsughan",
+    "sourceUrl": "https://x.com/TLouisevsughan/status/2122861994206441622",
+    "createdAt": "2026-11-18",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:31c5ac9418b4b20b",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 休闲裤塔楼窗景场景",
+    "prompt": "她穿着家居裤走向高塔的窗户，在窗边加一丛玫瑰。把地毯的颜色调亮一些，与玫瑰相呼应……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122833801365569536/img/i2W4W7Dc5aYjx_ox.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122833801365569536/img/i2W4W7Dc5aYjx_ox.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Mimi9060"
+    ],
+    "author": "Mimi9060",
+    "sourceUrl": "https://x.com/MelodyM662010/status/2122833828658180547",
+    "createdAt": "2026-11-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:fa51c8c9b6cb893f",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "赛博朋克小镇与未来城市视频提示词",
+    "prompt": "一个将日本下町街区与未来都市（巨型建筑）相融合的赛博朋克风格世界。\n\n交通基础设施被划分为两个层级。\n下町区域里，装着轮胎的老式有轨电车在地面道路上行驶。\n未来都市部分则采用管状连接网络，内部穿梭着无轮的个人汽车。\n在下町街区的某个角落，矗立着一座朱红色的鸟居，四周绿树成荫。\n\n视频采用一镜到底的长镜头拍摄，无任何剪辑。\n运镜视角如同飞鸟掠过（画面中不要出现鸟本身）。\n\n*注：在管道交通网络中行驶的个人汽车，每根管道内仅有一辆，相同……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122815120938295296/img/udqXNLnUA6Bty2n9.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122815120938295296/img/udqXNLnUA6Bty2n9.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "じろじろin下関"
+    ],
+    "author": "じろじろin下関",
+    "sourceUrl": "https://x.com/ziro1005/status/2122815472446185554",
+    "createdAt": "2026-11-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:471002b0169ac643",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "定格动画熊猫圣诞精灵",
+    "prompt": "一个细节丰富、高质量的定格动画风格场景，主角是一只毛毡质感的熊猫，打扮成圣诞精灵的模样。熊猫位于画面中央，身穿一件带白色绒毛镶边的绿色毛毡束腰外衣，头戴一顶黑色……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2122774303058063360/img/5myr2nsYECOkjdcX.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2122774303058063360/img/5myr2nsYECOkjdcX.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Cathy has this"
+    ],
+    "author": "Cathy has this",
+    "sourceUrl": "https://x.com/lighthouse42f/status/2122774319164252365",
+    "createdAt": "2026-11-17",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:528c068534bd18a5",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "精灵少女 Cosplay 巫女视频",
@@ -730,6 +898,27 @@
     ],
     "author": "Ai Mini Thoughts Creator",
     "sourceUrl": "https://x.com/Aiminithoughts/status/2121261462983192595",
+    "createdAt": "2026-11-13",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:0e56c7ad0ad9f93d",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "火星生日蛋糕视频",
+    "prompt": "生日快乐，@dvorahfr ！🎂🚀\n\n蛋糕是 Elon 带来的，Grok Imagine 则带我们飞向了火星。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2121257454625251328/img/aRfWU2v01Pq1KX-o.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2121257454625251328/img/aRfWU2v01Pq1KX-o.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "The SI Maximalist"
+    ],
+    "author": "The SI Maximalist",
+    "sourceUrl": "https://x.com/thesimaximalist/status/2121258069321789716",
     "createdAt": "2026-11-13",
     "imageMode": "",
     "imageModel": "grok-imagine"
@@ -1970,195 +2159,6 @@
     "author": "Ai Mini Thoughts Creator",
     "sourceUrl": "https://x.com/Aiminithoughts/status/2117869379568492932",
     "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:8bfc1e6a8dbd3c5c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "星尘飞龙",
-    "prompt": "添加一条淡绿色的小龙和一条闪闪发光的浅蓝色小龙，让它们缓缓盘旋飞舞，每一次振翅都洒落点点星尘",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Lindy Hawkinson"
-    ],
-    "author": "Lindy Hawkinson",
-    "sourceUrl": "https://x.com/HawkinsonLindy/status/2117853925177221209",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:9b86f02c7091992c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 未来忍者服饰提示词",
-    "prompt": "“一位来自未来的女忍者，背景是林立着粉色与淡紫色摩天大楼的城市。她梳着黑色丸子头，身穿以青色和黑色为主色调的忍者服。画面比例 9:16。请勿添加文字 🥷”",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg",
-    "referenceImageUrls": [
-      "https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "華月光"
-    ],
-    "author": "華月光",
-    "sourceUrl": "https://x.com/hanagekkou/status/2117844350847840763",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:b8de6c5f7affbc1a",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "赛博朋克风格背包变机甲视频提示词",
-    "prompt": "[生成目标]\n生成一段纯粹电影级、次世代的科幻赛博朋克变形序列：她的背包将她变身为一套全金属战斗装甲。核心主体是这名女性，主要事件是背包触发一场完整的高科技蜕变，最终她全身披挂上先进的金属战斗装甲。\n\n[事件脚本]\n开场：夜幕下，一名女子独自站在雨水浸透、霓虹闪烁的赛博朋克小巷中。她身后是高耸的全息广告牌与密集的垂直建筑群，散发着幽光。她身着时尚的现代装束，肩背一款线条流畅的高科技背包。青蓝、品红与深紫色的光影交织，映照在潮湿的路面与玻璃上，氛围感十足。\n\n主要事件：背包伴随一阵低频能量脉冲启动。纳米粒子流与液态金属触须从中喷涌而出，以连绵不断的流体形态迅速缠绕她的全身。材质顺着她的肌肤、四肢与躯干蔓延，层层构建出金属甲片、活动关节、发光的能量导管、强化护板，并在她头部凝聚成先进的战斗头盔。随着装甲锁定就位，等离子火花、全息界面碎片与体积光轨在她周身盘旋飞舞。她的姿态也随之从平民站姿切换为战斗戒备状态。\n\n结尾：她已完成彻底蜕变，身披一套由无缝高科技甲片构成的全覆盖式金属战斗装甲，青蓝色的能量纹路流转发光，头盔面罩亮起，原本的背包已完全融入装甲之中，不见踪影。在电影感的霓虹灯光下，雨水继续划过光洁如镜的金属表面。\n\n[视觉风格与氛围]\n纯粹的电影级次世代科幻赛博朋克美学。超精细的金属表面泛着湿润反光，体积光（上帝之光）穿透雨幕与全息雾气，高对比度的霓虹调色，变形宽银幕镜头光晕，以及浓郁的大气纵深感。整个变形过程充满力量感、行云流水且势不可挡。\n\n[镜头]\n以一个极具张力的中全景开场，交代小巷环境与女子。当纳米粒子启动时，平滑的跟踪环绕镜头绕她旋转，随后快速推近，捕捉液态金属在她身上流淌的细节。在最后几块甲片锁定、头盔闭合的瞬间，采用动态低角度仰拍推进，塑造英雄般的视觉冲击。结尾以缓慢而有力的拉远镜头收尾，展现全副武装的身影映衬在璀璨城市天际线前的剪影。\n\n[声音]\n背包启动时传来深沉的超低频轰鸣，交织着清脆的金属形变声与纳米粒子群的呼啸声、噼啪作响的能量释放声，以及沉重的液压甲片锁定撞击声。环境音包含赛博朋克风格的雨声、远处的车流声与全息投影的低鸣。结尾以一声浑厚有力的装甲充能音效和一段绵长的电影感渐强音浪收束。\n\n[保持一致性]\n始终以这名女子作为唯一主体。背包是变形的唯一来源，并最终完全融入成品装甲之中。装甲必须是完整的、金属材质的、全覆盖式的战斗风格，不得出现局部裸露或覆盖不全的情况。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2117832838594896196",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:20b78d5b10a9fb8c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "包袋变身擎天柱女性角色视频提示词",
-    "prompt": "[生成目标]\n生成一段进阶版女性变身视频：她将手提包丢在地上，手提包瞬间变身为 Optimus 形态的她自己。\n\n[事件脚本]\n开场时，她站立着手持手提包，随后刻意将其丢到地上。手提包触地的瞬间，立刻开启一场极具张力的高能变身：包体膨胀、展开，金属装甲板与机械关节随之显现，发光的能量纹路在变幻的形体上飞速游走，甲片逐一锁定就位，手提包最终彻底重塑为 Optimus 形态的她——身姿挺拔、气场强大、全副武装、蓄势待发。结尾处，她（以 Optimus 形态）自信地伫立在原本手提包所在的位置，变身圆满完成。\n\n[保持一致性]\n她与 Optimus 形态的她在整个过程中始终是同一个角色；手提包是本次变身的唯一来源，并完全转化为 Optimus 形态的她，不会残留任何多余的物品或角色。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2117796166192578893",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:cf54c3a19cf7839c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 提示词：摄像机推拉行走",
-    "prompt": "摄影机恢复推轨拍摄，两名女子从容地朝镜头方向走来。行走过程中，中国女子看向另一名女子，步伐流畅不卡顿，没有怪异动作，也不疾走。两人手中始终握着军刀，无变形，无不自然的动作",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Gentugo"
-    ],
-    "author": "Gentugo",
-    "sourceUrl": "https://x.com/GentugoMartukro/status/2117779510976290960",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:8a5fd91b6508e5b9",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "80 年代情景喜剧场景：超模的秘密",
-    "prompt": "80 年代情景喜剧中的一幕：一位少女苦苦哀求超模，想让她透露拥有完美肌肤和曼妙身材的秘诀。超模停顿片刻，随后掏出了一台小型气泵和一支喷枪。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Rusty Zimmer"
-    ],
-    "author": "Rusty Zimmer",
-    "sourceUrl": "https://x.com/Rust_E/status/2117727865550856421",
-    "createdAt": "2026-11-03",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:dfa50a2f3b5373ee",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "将图片整合到场景视频中",
-    "prompt": "将这张图片融入场景提示词中一起生成，并与之前的视频进行合成；同时制作一张富有创意和想象力的信息图片，再将其与之前的视频融合在一起。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Un Predictable Chaos FIXER"
-    ],
-    "author": "Un Predictable Chaos FIXER",
-    "sourceUrl": "https://x.com/Prophecy120/status/2117706298162852285",
-    "createdAt": "2026-11-03",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:da10cd488f9dd141",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "埃隆·马斯克单色水中悬浮视频提示词",
-    "prompt": "[生成目标]\n生成一段 Elon Musk 在水中持续漂浮的视频，水的颜色与周围漂浮的水完全一致，Elon Musk 在其中轻柔地漂浮悬浮。\n\n[事件脚本]\n开场：Elon Musk 完全浸没在单色水中，处于失重漂浮状态，身体放松轻盈，四肢微微舒展，呈现自然的漂浮姿态。\n主要事件：他缓慢而持续地漂移，随着细微的水流起伏，身体轻轻转动或位移，始终保持完全浸没和悬浮状态；同色的水流在他周身及上方流淌，水面始终平静无波。\n结尾：Elon Musk 在同色水中保持稳定漂浮与悬浮，依然完全浸没，动作平缓且连贯。\n\n[保持一致性]\n全程保持 Elon Musk 的身份、面部特征、发型和身材比例稳定不变。水的颜色始终保持均匀，并与他周围漂浮的水完全一致。画面中不出现其他人物、物体或颜色变化。动作保持缓慢、自然、连贯，没有突然的动作或水面波动。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2117671226097483934",
-    "createdAt": "2026-11-03",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:44ada5baf3d2356c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "科幻列车机器人变形",
-    "prompt": "[生成目标]\n生成一段次世代科幻视频：一列未来感十足的高速列车完成全机械变形，化身为一台高耸的双足战斗机甲。\n\n[事件脚本]\n开场：一列流线型的银黑子弹头列车在夜间疾驰于霓虹闪烁的赛博朋克巨型都市上空，沿着高架磁悬浮轨道飞驰。引擎低鸣，拖曳出幽蓝的能量尾迹，城市灯火化作流光飞速掠过。\n核心事件：列车启动完整变形程序。车头面板以液压般的精准度向两侧裂开，露出内部发光的反应堆核心。侧方车厢折叠重组：车轮收缩，化作复杂的机械腿展开并锁定，形成重装甲双足肢体。车体旋转 90 度，抬升为巨大的人形躯干，装甲板层层咬合。前端导流罩重塑为细节拉满的机械头部，面罩双眼亮起红橙色光芒。车顶与底盘模块组装成双臂，配备多关节机械手与能量武器挂架。所有部件在火花四溅、蒸汽喷涌中咬合锁定，液压活塞重重砸入最终位置。\n结尾：完成变形的巨型机甲巍然矗立于轨道之上，身形远超城市天际线，摆出蓄势待发的战斗姿态，胸口的核心光芒耀眼，随时准备出击。\n\n[视觉风格]\n超精细机械科幻变形，展现错综复杂的互锁装甲板、清晰可见的齿轮、活塞、线缆与能量导管。超写实金属质感，融合镀铬、哑光黑以及发光的霓虹蓝/红点缀。电影级赛博朋克氛围，搭配体积光、镜头光晕，以及蒸汽与火花带来的粒子特效。\n\n[镜头]\n动态多角度运镜：开场采用低机位跟拍，与疾驰的列车并肩前行；变形过程中切换为极具张力的环绕镜头；快速剪辑至变形部件特写（车轮化为双足、面板折叠成装甲）；最后镜头后拉，呈现英雄式低角度全景，展示巍峨屹立于霓虹都市之中的完整机甲。\n\n[音效]\n低沉轰鸣的列车引擎声逐渐过渡为厚重的液压嘶鸣、金属撞击、齿轮摩擦、能量充能的呼啸声，并在机甲完全激活时爆发出一声深沉浑厚的机械怒吼。背景融入赛博朋克城市的白噪音与远处的车流声。\n\n[保持一致性]\n确保整段画面为单列列车连续变形为一台完整机甲的过程。所有机械部件均须源自原列车结构。全程保持统一的科幻设计语言、发光的能量点缀以及赛博朋克夜景环境。\n\n免责声明：\n本视频为 AI 生成的虚构科幻概念内容，仅供娱乐。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2117622653720707335",
-    "createdAt": "2026-11-03",
     "imageMode": "",
     "imageModel": "grok-imagine"
   }
