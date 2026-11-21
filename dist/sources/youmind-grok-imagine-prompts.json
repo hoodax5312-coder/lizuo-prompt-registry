@@ -63,14 +63,56 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:ec8b4b43c999256c",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "生物力学缪斯大教堂",
+    "prompt": "宽幅电影级渲染画面：一座由生物机械肋骨、脊椎柱与高耸管风琴构筑的宏伟大教堂中央，一名舞者身着一袭肋状甲片拼接的立体剪裁黑色连体衣，单臂高举，身体优雅地向后弯成拱形。一道琥珀色光柱划破黑暗，精准落在她身上。黑曜石与枪铁灰的单色调，湿润光泽，氛围薄雾，暗黑超现实主义，喷绘质感，照片级真实 3D 渲染。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2123423555601743872/img/1B6IIBzQhRi6lI5Z.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "AI Aimee"
+    ],
+    "author": "AI Aimee",
+    "sourceUrl": "https://x.com/RockGrokAI/status/2123575803376259559",
+    "createdAt": "2026-11-20",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:b0b9ada30bbb29d1",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "BMW M50 Lucia 驾驶视频",
+    "prompt": "Lucia 驾驶着一辆 BMW M50 competition 穿梭街头，车内大声播放着 Anthony Santos 的音乐，引擎盖上还插着一面多米尼加国旗",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2123306455491022848/img/nenoTAnFbPU9D6P_.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "ViceCityClipsX"
+    ],
+    "author": "ViceCityClipsX",
+    "sourceUrl": "https://x.com/ViceCityClipsX/status/2123306479797330326",
+    "createdAt": "2026-11-19",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:42896da6b407111d",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "银翼女巫提示词",
     "prompt": "一位女魔法师，乌黑长发飘逸，银色双翼闪耀，身穿一件由 mediumpurple、mediumslateblue 和 slateblue 三色渐变而成的长裙。一只手中悬浮着一颗散发绿色光芒的圆形能量球。画面比例 9:16。请勿包含任何文字。🪽🟢",
     "description": "🎬 查看视频 →",
-    "coverUrl": "https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg",
+    "coverUrl": "https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg",
     "referenceImageUrls": [
-      "https://cms-assets.youmind.com/media/1795073931938_ifxvjy_HXd8Fr9bsAAGfP3.jpg"
+      "https://cms-assets.youmind.com/media/1795159952790_m9jmw4_HXd8Fr9bsAAGfP3.jpg"
     ],
     "tags": [
       "grok-imagine",
@@ -2116,48 +2158,6 @@
     ],
     "author": "Carlton Hinds",
     "sourceUrl": "https://x.com/methuselaschild/status/2118055239005913545",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:7b1bf0a59c976ced",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "激光破坏与水晶战衣变身",
-    "prompt": "[生成目标]\n生成一段进阶变身序列：女性角色将激光能量从手中释放至地面，摧毁周围的一切，同时她的裙装变为一套黑白水晶战衣。\n\n[事件脚本]\n开场：她以原本的形象与裙装伫立待命，单手高举。\n核心事件：她将强烈的激光束汇聚于掌心，径直轰向地面。激光触地瞬间爆发出巨大的毁灭冲击波，将环境中的一切夷为平地——建筑崩塌碎裂，残骸漫天飞舞，地表在刺眼的强光中龟裂、气化。与此同时，她的裙装开始蜕变结晶：布料硬化重塑，化作一套利落的黑白水晶战衣，棱角分明的晶面、泛着幽光的黑色脉络与高反光白色甲片层层覆盖全身，让她蜕变为力量感爆棚的全新形态。\n结尾：她身着成型后的黑白水晶战衣傲然挺立于废墟之中，残余的激光能量逐渐消散，毁灭已然落幕。\n\n[保持一致性]\n全程保持她的核心特征、面部五官、身材比例以及变身造成的破坏效果稳定不变。水晶战衣仅限黑、白两色。不出现其他任何角色。\n\n免责声明：本视频为 AI 生成的虚构科幻概念作品，仅供娱乐之用。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2118025535955591205",
-    "createdAt": "2026-11-04",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:0c426a487c083061",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 提示词：蜘蛛侠服装亮相 MSG",
-    "prompt": "让一个穿着蜘蛛侠服装的人拎着一盒中餐走上麦迪逊广场花园的舞台，来一场 Kill Tony 式的表演",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Jesse Coligan"
-    ],
-    "author": "Jesse Coligan",
-    "sourceUrl": "https://x.com/greenteasmokerX/status/2118021022171459947",
     "createdAt": "2026-11-04",
     "imageMode": "",
     "imageModel": "grok-imagine"
