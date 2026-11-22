@@ -63,6 +63,48 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:0deec54e7019845d",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "Grok Imagine 视频提示词：玻璃天文台与发光蝴蝶",
+    "prompt": "一座巨大的玻璃天文台矗立在北方的山巅，于暮色中静候北天。新雪初霁，数百只流光溢彩的蝴蝶翩跹而至，萦绕在穹顶四周……",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2123825252799250432/img/bsUrU5rA4nd5TGcx.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "Cathy has this"
+    ],
+    "author": "Cathy has this",
+    "sourceUrl": "https://x.com/lighthouse42f/status/2123825272348889247",
+    "createdAt": "2026-11-20",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
+    "id": "youmind-grok-imagine-prompts:b6fd04311ea8b978",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "液态黄金心脏视频提示词",
+    "prompt": "视频：在冷调而富有氛围感的聚光灯下，镜头持续进行微距环绕拍摄。纤细的液态反光金丝在黑玻璃上滑动，向中心汇聚。它们向上交织成一颗光滑、极具雕塑感的心形，质感如精致的黄金珠宝般打磨抛光，而非生物器官。心脏轻柔地搏动，每一次跳动都在其镜面表面荡起一圈光晕涟漪，同时一条纤细的金链向外流淌至玻璃之上。画面渐隐为黑屏。呈现出令人沉醉的液态金属工艺美学。音频：细微的金属滴流声、柔和的心跳脉动、液体翻折的声响与精准的钟表滴答声。极简氛围电子乐，点缀着钢片琴般的音符与深沉的律动，并逐渐过渡为滴答声。无人声。最后两秒声音渐弱消失。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2123411321806802944/img/wXhtRpb88snVeYkZ.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "AI Aimee"
+    ],
+    "author": "AI Aimee",
+    "sourceUrl": "https://x.com/RockGrokAI/status/2123789657842328011",
+    "createdAt": "2026-11-20",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:ec8b4b43c999256c",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "生物力学缪斯大教堂",
@@ -2117,48 +2159,6 @@
     "author": "はる",
     "sourceUrl": "https://x.com/HaluAIArt/status/2118184025399378348",
     "createdAt": "2026-11-05",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:4e9907d588116bc3",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "女子将木棍变成警车抓捕小偷",
-    "prompt": "[生成目标]\n生成一段连贯的进阶变形视频。核心主体是一名女子，她将一根木棍丢在地上，木棍随即变成一辆警车；她坐进车内驶离现场，并在下一条街道抓获了一名小偷。\n\n[事件脚本]\n开场：女子手持一根普通木棍站立，神情专注、蓄势待发。她将木棍丢在面前的地上。木棍立刻开始变形——不断拉伸、重塑并散发光芒，最终扩展成一辆全尺寸的警车，配有警灯、徽章标识和坚固的车身。她走上前，打开驾驶座车门，坐进车内，关上车门，启动引擎，沿街道驶离。\n\n主要事件：警车拐入下一条街道。一名小偷正抱着赃物在人行道或路面上向前狂奔。女子加速行驶，将车横在小偷前方截断去路，随后迅速下车，一把抓住并制服小偷，使其无法逃脱。\n\n结尾：小偷被女子牢牢控制，两人站在停好的警车旁；木棍变警车的变形过程彻底完成且状态稳定，没有发生任何回退还原。\n\n[保持一致性]\n全程保持女子的身份、服装和外貌一致。确保始终是同一根木棍，并完整变成一辆警车。保留因果顺序：丢下 → 变形 → 上车 → 驶离 → 在下一条街道抓获小偷。空间关系需清晰明确（木棍落地的位置、行驶路线、下一条街道的抓捕地点）。不包含任何对话或字幕。\n\n免责声明：本视频为 AI 生成的虚构科幻概念内容，仅供娱乐。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Ai Mini Thoughts Creator"
-    ],
-    "author": "Ai Mini Thoughts Creator",
-    "sourceUrl": "https://x.com/Aiminithoughts/status/2118157892272496679",
-    "createdAt": "2026-11-05",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:94bc329a8abeb1a5",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "牛仔鹰头外星人星球",
-    "prompt": "一位老牛仔的特写镜头，他正仰望夜空。镜头缓缓拉远，只见他骑在一匹马上，马长着一颗比例匀称的鹰头。随着镜头继续后拉，画面逐渐展现出他们身处一颗外星球尘土飞扬的山丘之巅，头顶是异星的璀璨星空。他调转坐骑，在镜头拉至全景的过程中缓缓策马远去。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Carlton Hinds"
-    ],
-    "author": "Carlton Hinds",
-    "sourceUrl": "https://x.com/methuselaschild/status/2118055239005913545",
-    "createdAt": "2026-11-04",
     "imageMode": "",
     "imageModel": "grok-imagine"
   }
