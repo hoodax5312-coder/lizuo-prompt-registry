@@ -6,6 +6,8 @@ LIZUO Prompt Registry collects public image-prompt sources, normalizes their rec
 
 This repository is independently maintained for LIZUO and is based on the MIT-licensed [yukkcat/image-prompts](https://github.com/yukkcat/image-prompts) registry. The upstream repository remains available as the reference implementation and update source.
 
+For the local and CI maintenance procedures, downstream URLs, and snapshot verification, use the [Chinese maintenance guide](README.zh-CN.md).
+
 ## Published data
 
 Each successful sync writes the following files:
