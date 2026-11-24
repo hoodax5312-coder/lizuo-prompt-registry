@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T13:10:19+00:00",
-  "registryHash": "d73f9d9c9445b789a6e9790277f831e4a966a4ceb7cd8f7ba0b3bff92cf39e47",
-  "total": 1856,
+  "generatedAt": "2026-11-24T13:56:00+00:00",
+  "registryHash": "021e01831bf41706f9cb95ef6753de35bb51eb6caf84e21505d27e53701e60ac",
+  "total": 1861,
   "promptsPath": "prompts.json",
   "sources": [
     {
@@ -28,9 +28,9 @@
       "name": "Freestylefly GPT Image 2",
       "homepage": "https://github.com/freestylefly/awesome-gpt-image-2",
       "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/cases.json",
-      "count": 541,
+      "count": 546,
       "path": "sources/freestylefly-gpt-image-2.json",
-      "sha256": "10c2dbd21864a00652d28e54bbbbdab19d3213d22db8e305bc642eaa77247a97"
+      "sha256": "304e0b658561e5a581f76b982e7bbbbadaa3f8f36f2d62156318082ee3d69b24"
     },
     {
       "id": "awesome-gpt-image",
@@ -57,7 +57,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/main/README_zh.md",
       "count": 129,
       "path": "sources/youmind-nano-banana-pro.json",
-      "sha256": "0fc9014af6e457ab552592881699f0bef1dedaa28bd5dbb643b94846f66c2e2c"
+      "sha256": "fcf8a4a6da75f0dcf99a5c10c3547f7802f0c975b0e445a023a2ac4967466091"
     },
     {
       "id": "zerolu-nanobanana-pro",
@@ -93,7 +93,7 @@
       "upstreamUrl": "https://raw.githubusercontent.com/YouMind-OpenLab/awesome-grok-imagine-prompts/main/README_zh.md",
       "count": 103,
       "path": "sources/youmind-grok-imagine-prompts.json",
-      "sha256": "2a6da3628f8d4360e0986a824309625f239dcb10c1149104c45009d0373148ba"
+      "sha256": "732deef69b77708b666c2435d449121ffcf098611a409b05b68874233712f419"
     },
     {
       "id": "youmind-midjourney-syntax",
