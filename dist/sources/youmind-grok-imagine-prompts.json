@@ -63,6 +63,27 @@
     "imageModel": "grok-imagine"
   },
   {
+    "id": "youmind-grok-imagine-prompts:e2de748b4343d0fb",
+    "sourceId": "youmind-grok-imagine-prompts",
+    "title": "奇幻骑士 Cosplay 视频提示词",
+    "prompt": "一段 15 秒的电影感视频，场景设在带有石栏杆的高层露台上，俯瞰蔚蓝天空与欧式街道。一位粉发美女头戴蝴蝶配饰，身穿红白相间、点缀金色装饰的奇幻风格服饰，搭配白色长靴，在惬意微风中摆出富有表现力且极具镜头感的姿势。柔和的自然光倾洒而下，让服装的长下摆、轻薄透纱的衣袖与秀发随风轻舞。\n\n[场景 1：0-6 秒（基于图片 1，中长景）]\n开场时微微侧身站在石栏杆前，带着忧郁的神情望向远方。第 3 秒，上半身流畅转动，一只手轻轻搭在胸前的宝石旁，转为面向镜头、眼神充满故事感的姿势。\n\n[场景 2：6-12 秒（基于图片 2，腰部以上～中景）]\n机位切换为正面构图。从指尖轻触腰间红色束带/装饰的优雅站姿开始，在第 9 秒过渡到动态姿势：单臂优雅抬起，轻轻拨弄耳畔的粉色长发与蝴蝶配饰，嘴角泛起温柔笑意。\n\n[场景 3：12-15 秒（最后 3 秒，胸部以上～特写）]\n镜头切至聚焦面部与肩部的特写。在余风拂动发丝间，微微侧头，指尖轻点下巴，摆出果敢的姿态；最后直视镜头，右眼俏皮地眨了一下，留下令人难忘的瞬间。\n\n[视频风格与 BGM]\n画质如真人电影般高清细腻，浅景深效果，运镜流畅自然。BGM 采用温柔舒缓的原声配乐，温暖的木吉他扫弦与宁静的原声钢琴旋律交织相融。",
+    "description": "🎬 查看视频 →",
+    "coverUrl": "https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg",
+    "referenceImageUrls": [
+      "https://cms-assets.youmind.com/media/1795505307118_hc8p8t_HXzLi84bcAAKvdl.jpg"
+    ],
+    "tags": [
+      "grok-imagine",
+      "所有提示词",
+      "はる"
+    ],
+    "author": "はる",
+    "sourceUrl": "https://x.com/HaluAIArt/status/2124812705286545673",
+    "createdAt": "2026-11-23",
+    "imageMode": "",
+    "imageModel": "grok-imagine"
+  },
+  {
     "id": "youmind-grok-imagine-prompts:b533274d3264952e",
     "sourceId": "youmind-grok-imagine-prompts",
     "title": "吊坠变身超级摩托车提示词",
@@ -2137,27 +2158,6 @@
     ],
     "author": "Ai Mini Thoughts Creator",
     "sourceUrl": "https://x.com/Aiminithoughts/status/2118283217383874730",
-    "createdAt": "2026-11-05",
-    "imageMode": "",
-    "imageModel": "grok-imagine"
-  },
-  {
-    "id": "youmind-grok-imagine-prompts:79368c9042853c9c",
-    "sourceId": "youmind-grok-imagine-prompts",
-    "title": "Grok Imagine 提示词：王子将女仆变身为公主",
-    "prompt": "一位年轻的王子向女仆伸出手，当女仆握住王子的手时，她便化身成了公主。",
-    "description": "🎬 查看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg"
-    ],
-    "tags": [
-      "grok-imagine",
-      "所有提示词",
-      "Awesome God New Life Ministries"
-    ],
-    "author": "Awesome God New Life Ministries",
-    "sourceUrl": "https://x.com/AwesomeGodNewL/status/2118227641027416471",
     "createdAt": "2026-11-05",
     "imageMode": "",
     "imageModel": "grok-imagine"
