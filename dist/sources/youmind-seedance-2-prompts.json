@@ -126,6 +126,111 @@
     "imageModel": "seedance-2"
   },
   {
+    "id": "youmind-seedance-2-prompts:7c899c7972d35497",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "微型武士兔战士场景",
+    "prompt": "一段电影质感的暗黑奇幻场景：一位身材矮小的拟人化白兔武士，独自伫立在满目疮痍的战场中央。他身披传统武士风格的铠甲与深蓝色战袍，手握一把 katana 武士刀。战场上散落着破碎的盾牌、被遗弃的兵器，燃烧的残骸与浓烟弥漫四周。地平线上，幽暗的山脉绵延起伏，头顶是风云变幻的暴风雨天空。尽管身处辽阔无垠的战场之中，这位小小的战士依然毫无惧色，目光坚毅地紧握手中利刃。镜头缓缓推近，细腻展现出他精致的铠甲、传神的双眸，以及映照着熊熊火光的刀刃。电影级广角镜头，极具张力的氛围，逼真的烟雾与火焰效果，精细的 3D 角色动画，暗黑奇幻电影美学，超写实 CGI，4K 画质。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "Draaven"
+    ],
+    "author": "Draaven",
+    "sourceUrl": "https://x.com/draavenai/status/2126313066413642091",
+    "createdAt": "2026-11-27",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:507543b251fb4495",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "优雅女性珍珠头饰电影感短片",
+    "prompt": "以 @Image 1 作为首帧画面与角色参考。严格保留黑色齐刘海短发、珍珠网纱头饰、蓝色吊带衫、红唇妆容、雀斑以及室内场景。\n15 秒艺术电影感短片，一镜到底。\n\n0–3s：面部特写。指尖轻触脸颊，珍珠头饰在暖光下泛着柔光。她平静地注视镜头。镜头极缓推进，背景虚化为柔和的光斑。\n3–7s：镜头沿面部轮廓缓慢环绕，展现珍珠网纱头饰的编织纹理与两侧垂落的珍珠流苏。细碎发丝随微风轻拂，光影在脸上流转。\n7–11s：镜头拉至中近景。她微微侧头，露出纤细的蓝色吊带与腕间玉镯。指间金戒折射微光，手臂线条柔美。\n11–15s：镜头缓缓推回面部特写。睫毛轻颤，嘴角微扬。画面在温暖的光晕中渐隐定格。\n\n运镜：缓推 + 环绕 + 拉远 + 回推。全程无剪辑。\n风格：电影质感、浅景深、胶片颗粒、室内暖光、梦幻氛围、24fps。\n声音：轻柔钢琴独奏，辅以翻书声与远处低语的环境音，无人声旁白。尾音渐弱消散。\n注意：成年女性主体，保持优雅的艺术格调，不含任何露骨或性暗示内容。\n画幅比例：9:16，15s，720p",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "ArtAi"
+    ],
+    "author": "ArtAi",
+    "sourceUrl": "https://x.com/tongqinai/status/2126284904606666792",
+    "createdAt": "2026-11-27",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:5d6a87d0d151f69b",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "巴士变身巨型机器人",
+    "prompt": "在雨中的城市街头，一辆普通公交车突然变身为巨型战斗机器人。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "Claire Ai"
+    ],
+    "author": "Claire Ai",
+    "sourceUrl": "https://x.com/imClaireAi/status/2126091360348651607",
+    "createdAt": "2026-11-26",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:de83f9e2e8be30da",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "微型谷仓式住宅揭幕",
+    "prompt": "探索一座令人惊叹的微型美式豪华谷仓别墅（barndominium），它拥有逼真的建筑构造、现代感十足的建筑设计、私人泳池与精致的庭院景观，最终更以震撼的电影级画面惊艳亮相。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "Olivia Rose"
+    ],
+    "author": "Olivia Rose",
+    "sourceUrl": "https://x.com/OliviaRose10un/status/2125973480688721964",
+    "createdAt": "2026-11-26",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:35b9d92300de462e",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "皮克斯风格蜜蜂冒险",
+    "prompt": "一段温馨治愈的 Pixar 风格 3D 动画场景，背景是一座阳光明媚的美丽花园。一只娇小可爱、毛茸茸的黄色小蜜蜂，长着灵动传神的棕色大眼睛、小巧的翅膀和布满条纹的萌趣身体，正朝着一朵硕大鲜艳的红玫瑰飞去。小蜜蜂发现花朵里藏着一个小小的生物，顿时露出又惊又奇的神情。两个角色都有着生动丰富的面部表情和惹人怜爱的情绪反应。小蜜蜂轻柔地绕着玫瑰飞舞，身后留下一道闪烁着金色光芒的花粉轨迹，宛如魔法一般。柔和的阳光、五彩斑斓的野花、郁郁葱葱的绿草、浅景深效果、电影级特写镜头、流畅的运镜、逼真的毛绒质感、迷人的角色动画、充满童话般的梦幻氛围、高品质 3D 动画、4K。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "Draaven"
+    ],
+    "author": "Draaven",
+    "sourceUrl": "https://x.com/draavenai/status/2125967360893018427",
+    "createdAt": "2026-11-26",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
     "id": "youmind-seedance-2-prompts:ec239f4387468189",
     "sourceId": "youmind-seedance-2-prompts",
     "title": "微型桥梁建造延时摄影",
@@ -152,9 +257,9 @@
     "title": "奢华护肤品商业视频提示词",
     "prompt": "创作一支超写实的奢华护肤广告，主角是一位美丽的东亚年轻女性，肌肤自然透亮，深色秀发优雅地盘成柔和的发髻。\n\n场景 1：面部特写镜头，展现她清透水润的肌肤与精致的五官。\n\n场景 2：她坐在明亮雅致的房间内，面前是一张极简风格的白色梳妆台，正轻柔地端详着自己的肌肤。\n\n场景 3：特写镜头，她将几滴透明面部精华液滴在掌心。\n\n场景 4：微距细节镜头，捕捉她的双手将护肤品轻轻按摩至肌肤吸收的过程。\n\n场景 5：她闭上双眼，轻柔地按摩双颊，尽显清新、透亮、水润的肌肤状态。\n\n场景 6：一袭飘逸的白色真丝长裙、轻盈的窗帘与柔和的自然阳光交相辉映，营造出优雅奢华的美妆氛围。\n\n场景 7：她面带浅笑，将一瓶透明包装的护肤精华液举向镜头。\n\n结尾场景：大理石台面上陈列着一只高级玻璃精华瓶，周围点缀着精致花朵，光影柔和流转。\n\n风格：奢华护肤广告、照片级写实、电影感美妆布光、纯净白色美学、柔和日光、自然肌肤纹理、4K 商业级画质、流畅运镜、优雅转场、高端美妆品牌大片质感。\n\n画面比例：9:16 竖屏。",
     "description": "🎬 观看视频 →",
-    "coverUrl": "https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg",
+    "coverUrl": "https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg",
     "referenceImageUrls": [
-      "https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg"
+      "https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg"
     ],
     "tags": [
       "seedance-2",
@@ -163,6 +268,27 @@
     ],
     "author": "Rubi",
     "sourceUrl": "https://x.com/AIwithRubii/status/2125814942603563083",
+    "createdAt": "2026-11-26",
+    "imageMode": "",
+    "imageModel": "seedance-2"
+  },
+  {
+    "id": "youmind-seedance-2-prompts:f842be704e054c0c",
+    "sourceId": "youmind-seedance-2-prompts",
+    "title": "夜总会火焰表演者场景",
+    "prompt": "一位美丽的女火舞表演者置身于豪华夜店之中，旋转着燃烧的火焰棒，划出一道道壮观的火圈。火星在空中飞舞，五彩斑斓的霓虹灯将现场映照得流光溢彩。电影级慢动作、逼真火焰、动态运镜、动感十足的夜店音乐，超写实 4K 画质。",
+    "description": "🎬 观看视频 →",
+    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg",
+    "referenceImageUrls": [
+      "https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg"
+    ],
+    "tags": [
+      "seedance-2",
+      "所有提示词",
+      "AIwithMinal"
+    ],
+    "author": "AIwithMinal",
+    "sourceUrl": "https://x.com/AIwithMinal/status/2125814785157853489",
     "createdAt": "2026-11-26",
     "imageMode": "",
     "imageModel": "seedance-2"
@@ -2096,132 +2222,6 @@
     "author": "Soran",
     "sourceUrl": "https://x.com/Soranlan/status/2117124345281810678",
     "createdAt": "2026-11-02",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:3bcbf6ce8fe7ef3c",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "女巫飞越城市夜空",
-    "prompt": "生成一段超写实的电影级奇幻视频：皎洁的满月高悬夜空，一位神秘的年轻女巫骑着魔法扫帚，穿梭飞行于幽暗的城市上空。画面需呈现翻涌的戏剧性云层、幽蓝的魔法烟雾以及神秘莫测的夜色氛围。女巫头戴黑色尖顶帽，身着时尚暗黑系服饰，长发随风飘逸。镜头捕捉她掠过摩天大楼之间、俯冲穿行于霓虹闪烁的繁华街道的画面。加入逼真的动态效果、璀璨的魔法光效、电影级运镜、极具张力的光影表现与惊艳的视觉细节。高端奇幻大片风格，4K 画质，照片级写实，动画流畅自然。",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "AIwithMinal"
-    ],
-    "author": "AIwithMinal",
-    "sourceUrl": "https://x.com/AIwithMinal/status/2117120914139619479",
-    "createdAt": "2026-11-02",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:9bda5f866bdf1a1f",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "Seedance 2.0 Mini：仙侠言情拒婚场景提示词",
-    "prompt": "Seedance 2.0 Mini | 《十年与余生》\n\n模型：Seedance 2.0 Mini\n时长：严格 15 秒\n画幅比例：16:9 横屏\n类型：纯正古风仙侠 / 情感反转 / 成熟人物关系剧\n结构：三个连续、清晰、叙事分明的电影级镜头\n\n一、提示词 | 整体风格与创作方向\n电影级写实真人质感，纯正中国古风仙侠美学。\n整体方向：\n成熟克制的情感反转，具备真实心理深度的关系戏剧。\n采用：\n高级古典人物调度\nArri Alexa 电影摄影质感\n清晰写实的皮肤纹理\n自然体积光\n细腻胶片颗粒感\n真实的丝绸动态\n\n二、核心剧情与情感反转\n两位修行者相伴修道十载，终于迎来正式结为道侣之日。\n所有人都以为这是一段完美感情的终点。\n但师妹却在仪式上突然拒绝结契。\n第一层悬念\n观众最初的预期：\n背叛\n秘密\n有人犯下不可饶恕的过错\n真正的反转\n两人都没有变坏，也没有辜负过去；他们只是无法走向同一个未来。\n十年的真心依然是真心。\n但余生不该成为过去的代价。\n情感与叙事原则\n故事必须通过以下方式自然完成：\n人物动作\n细微表情\n停顿\n对白\n严格避免：\n长篇大论的解释\n突如其来的煽情\n强行黑化角色\n说教式结尾\n\n三、人物身份与资产锁定\n角色 A | @Image1 | 剑仙师姐\n始终保持同一位剑仙师姐：\n25-30 岁东亚女性\n柔和鹅蛋脸\n明亮杏眼\n黑色长发半束\n白玉发簪固定\n身形高挑纤细\n同款白色刺绣丝绸汉服\n半透明叠层广袖\n银色腰带\n玉佩\n白布靴\n佩戴唯一的银色长剑\n本段落中的角色功能\n白衣师姐主要通过以下方式表达人物关系：\n观察\n眼神交流\n克制的反应\n关键限制：\n不要替师妹做决定\n不要抢占主要戏剧空间\n\n角色 B | @Image2 | 师妹\n始终保持同一位师妹：\n20-25 岁东亚女性\n圆润灵动的脸庞\n黑色编发\n同款青色古风汉服\n深色腰带\n木簪\n黑布鞋\n佩戴唯一的暗钢色长剑\n本段落中的角色定位\n师妹是本段剧情的情感主角。\n\n新增配角 | 男修\n成年男性\n身穿深蓝色古袍\n相貌端正\n气质沉稳\n与师妹同修十载\n师妹命中注定的道侣\n角色连贯性要求\n男修必须保持：\n独立身份\n稳定服装\n写实的人物表演\n绝不能与主角混淆。\n\n其他配角\n掌门长老\n主持结契仪式。\n宗门弟子\n少量弟子作为远景见证者。\n\n四、背景与环境 DNA\n所有上传的背景与场景参考图决定了真实的物理世界。\n正式构图前的环境规划\n先静默完成一轮环境规划。\n在参考图中综合分析：\n地形\n建筑布局\n空间尺度\n材质年代感\n植被生态\n水体\n云雾\n天气\n主光源方向\n色彩关系\n反光面\n空气纵深\n在保持以下要素一致的前提下：\n场景身份\n空间关系\n物理逻辑\n寻找合适的自然开阔区域，重新组织成具备以下特质的仪式场地：\n电影级尺度\n空间纵深\n独特构图\n\n五、仪式场景与核心道具\n仪式现场仅需：\n一张古朴石桌\n两块由红绳相连的玉质婚契信物\n玉质婚契信物\n两枚玉佩\n一根连接两枚玉佩的红丝绳\n保持真实的玉石材质\n保持真实的红绳物理结构\n其他关键道具\n象征权力的古朴掌门印\n师妹已打包好的小件行囊\n\n六、生动背景与叙事中立性\n背景始终保持生机。\n自然动态\n风自然吹拂衣袖与植被\n云朵缓慢移动\n山间雾气顺应地形流转\n若参考图中存在水体，需保持持续流动\n远景建筑维持正确透视\n倒影随镜头角度自然变化\n环境运动的速度与幅度应随景深产生差异。\n环境叙事原则\n所有背景动态均独立于剧情存在。\n环境绝不能：\n制造冲突\n触发反转\n替角色做出选择\n\n七、15 秒完整分镜结构\n0–5s | 第一镜：全景 | 当众拒婚\n镜头设计\n镜头缓缓扫过古老的仪式场地。\n通过以下层次建立清晰的空间关系：\n前景石桌\n中景人物\n远景宏伟建筑、山脉或参考图中的其他核心地标\n初始人物站位\n掌门长老\n立于仪式石桌后方。\n男修\n身穿深蓝古袍，立于石桌一侧。\n手中握着一枚玉质婚契信物。\n青衣师妹\n立于石桌另一侧。\n白衣剑仙师姐\n站在师妹斜后方数步之外，静静旁观。\n核心道具状态\n一根红丝绳连接着两枚玉佩。\n仪式开始\n长老庄重宣布：\n[长老] “十年婚契，今日成全。”\n师妹低头看向红丝绳。\n她没有伸手去接属于自己的那枚玉佩。\n而是缓缓抬头，望向眼前的男子。\n第一层反转\n[师妹] “我不结了。”\n原本庄重的仪式骤然安静。\n男修的反应\n镜头捕捉男修在那一瞬间真实的错愕。\n表演与节奏要求\n没有夸张的惊呼\n没有人群突然围拢\n通过人物的停顿与空间的寂静营造悬念。\n\n5–10s | 第二镜：中近景 | 真正的分歧\n连贯性要求\n保持完全一致的：\n场景\n人物\n服装\n玉佩位置\n镜头设计\n镜头切换至双方四分之三侧面的双人中景。\n男修的反应\n男修并未动怒。\n也没有突然质问对方是否变了心。\n他认真地看着师妹，仿佛隐约早已知晓答案。\n轻声问道：\n[男修] “你还是要下山？”\n师妹的回答\n师妹看着他，同样平静：\n[师妹] “你还是要守山？”\n情感与眼神\n镜头用微妙的眼神交汇，揭示两人长久以来不同的选择。\n道具视觉对比\n男修身侧\n放着象征权力的古朴掌门印。\n师妹脚边\n是已经打包好的小件行囊。\n视觉关系\n这两件道具形成清晰的视觉对比：\n一人决定留下。\n一人准备远行。\n谁都没有错。\n只是再也无法走到同一个地方。\n师姐与环境状态\n白衣师姐始终不曾介入。\n背景继续保持独立的自然动态：\n风\n水\n云雾\n植被\n布料\n倒影\n\n10–15s | 第三镜：特写 | 十年与余生\n长老的最后追问\n长老在石桌旁问出最后一句：\n[长老] “那这十年呢？”\n师妹特写\n镜头切至师妹特写。\n她没有立刻回答。\n眼底泛起极淡的水光，却没有落泪。\n声音平稳，带着真正的不舍。\n[师妹] “珍重。”\n情感停顿\n留足半拍的空白。\n随后说出最后一句台词：\n[师妹] “不能用余生去还过去。”\n真正的情感高潮：解开红绳\n镜头迅速且自然地移向男修的双手。\n他低头看着连接两枚玉佩的红丝绳。\n短暂迟疑后，他没有愤怒地扯断绳子。\n而是用手指缓缓解开了绳结。\n动作硬性要求\n该动作必须真实、清晰、完整。\n玉佩分离\n男修轻轻将师妹的那枚玉佩放回桌上。\n自己留下了另一枚。\n两枚玉佩完好无损。\n只是不再相连。\n最终人物反应\n师妹看着他。\n男子抬眼，向她极轻地点了一下头。\n这个点头表达了：\n理解\n遗憾\n最终电影级构图\n最后画面定格在桌上的两枚玉佩上：\n完好，却已分离。\n浅景深的后方：\n两人保持着恰当的距离\n师姐站在师妹身后\n师姐的眼神平静而通透\n结尾限制\n不出现：\n拥抱\n突然和好\n反派\n胜负定论\n最终情感落点\n十年并未虚度，只是不必再同行了。\n\n八、Seedance 2.0 Mini 执行要求\n基础规格\n模型：Seedance 2.0 Mini\n总时长严格为：15 秒\n画幅比例：16:9 横屏\n三个连续、清晰、叙事分明的电影级镜头\n三项叙事功能",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "Soran"
-    ],
-    "author": "Soran",
-    "sourceUrl": "https://x.com/Soranlan/status/2117112170395914599",
-    "createdAt": "2026-11-02",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:478e0dbb15843336",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "Seedance 2.0 Fast 清朝夜雨",
-    "prompt": "清代宫廷夜雨 × 雨打荷叶荷花 × 锦鲤蛙鸣 × 闪电远雷 × 梨园戏子吊嗓 × 沉浸式 ASMR\n\n8 秒，9:16 竖屏画幅，写实电影级画面。\n\n夏夜，细雨洒落在清代宫廷的水榭回廊上。廊边池塘里长着大片荷叶，叶旁一朵淡粉色荷花半开半合，花瓣被雨水打湿。檐下挂着一盏暖黄色的宫灯，灯光倒映在浅浅的石槽与池水之中。\n\n近处的荷叶微微倾斜，叶面上积着雨水。一只小青蛙蹲在池边的石头上，浅水中偶尔隐约可见游动的锦鲤，身影被雨滴和灯影遮掩了大半。\n\n深色的木柱与远处的回廊隐没在雨夜里。长廊尽头是灯光昏暗的梨园，窗纸上透出模糊的人影，偶尔缓缓挪动。清冷的幽蓝夜色与温暖的宫灯光晕自然交融。\n\n镜头贴近荷叶与水面，以极低的角度极其缓慢地向前推进。近处的荷叶、花朵以及檐下滴落的水珠清晰可见；画面上方露出半盏宫灯，远处的梨园窗影朦胧。画面层次分明，保留着静谧幽暗的留白空间。\n\n0-2s：细雨绵绵不绝地打在荷叶上，发出密集而轻柔的沙沙声。荷叶轻轻颤动，雨滴在叶面上汇聚。檐下的水滴断断续续落入石槽，传来清脆的滴答声。池边的小青蛙偶尔叫上一两声。\n\n2-4s：远处的梨园传来戏子吊嗓的声音，轻柔婉转的无词吟唱穿透层层雨幕。窗纸上的模糊人影缓缓抬起水袖。一条锦鲤在荷叶下慢悠悠地游过，身影被水波与宫灯的倒影遮去了一半。\n\n4-6s：远处天际倏地闪过一道光，冷白色的闪电照亮了荷叶、花朵与如丝的雨线，随后又归于温暖幽暗的夜色。短暂停顿后，远方传来低沉绵长的闷雷声，吟唱声也随之暂歇片刻，变得更加轻柔。\n\n6-8s：雷声渐渐远去。倾斜荷叶上积攒的雨水顺着叶缘滑落池中，发出轻柔连绵的水声，涟漪荡开了宫灯的倒影。远处的吟唱声若隐若现，池边的青蛙又叫了一声。雨声一直持续到结尾。\n\n[声音设计]\n\n贯穿全片的核心音效是密集的雨打近处荷叶的沙沙声，以及檐水落入石槽的断续滴答声。荷叶积水流入池塘的声音清晰而柔和。\n\n蛙鸣来自池边；戏曲吟唱来自远处的梨园；雷声则源自更远的天际。各种声音错落有致，远近层次分明，还原出真实雨夜的空间感。\n\n先见闪电，后闻雷声。雨滴落下、叶片颤动、水流滑落与水波荡漾均与声音精准同步。雷声低沉轻柔，适合静心聆听。\n\n戏曲吟唱轻柔悠远，以无词哼唱的形式呈现。没有乐器伴奏，没有背景音乐，也没有对白。\n\n荷叶、花朵、青蛙、锦鲤以及远处人影的动态都舒缓自然。锦鲤始终在水下游动，窗影朦胧模糊，雨水、倒影与灯光真实可信。\n\n左下角固定签名：先是一个深蓝色实心圆点，后面跟着白色手写体“DeepBlue”。签名小巧清晰，在整个视频中位置与样式保持固定，不遮挡主体画面，9:16",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "DeepBlue深藍"
-    ],
-    "author": "DeepBlue深藍",
-    "sourceUrl": "https://x.com/DeepBlueX0/status/2116920472541536761",
-    "createdAt": "2026-11-01",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:1a9cabf2fd89ea41",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "软木塞水磨石地板翻新视频",
-    "prompt": "竖屏视频，场景是一间空荡的白色房间，有一扇明亮的窗户和一扇敞开的门。一名身穿蓝色工装裤和深色 T 恤的男子正用耙子整理地板上堆积如山的葡萄酒软木塞，将它们均匀摊开铺平，直至覆盖整个房间。接着，一名身穿红色工装裤的女子从大桶中倒出浓稠的白色环氧树脂，光亮的液体漫过软木塞，逐渐淹没整片地面，直到所有软木塞完全被浸没。随后，几名穿着荧光黄安全背心的工人来回推动沉重的地面抛光机，对固化后的表面进行打磨，渐渐显露出令人惊艳的水磨石纹理——软木碎块悬浮在光滑洁白的树脂之中，被打磨得如镜面般光亮。最后，两名黑衣男子搬进一张木质床架并完成组装，依次铺上床垫、白色枕头和一条米色盖毯。视频以一个全景镜头收尾，展示装修完成的卧室，泛着光泽的软木水磨石地板映照着自然天光。治愈系装修延时摄影风格，转场流畅，自然采光，材质逼真，充满令人极度舒适的施工氛围感。",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "Ruslan Ai"
-    ],
-    "author": "Ruslan Ai",
-    "sourceUrl": "https://x.com/Ruslanchain/status/2116909289004556620",
-    "createdAt": "2026-11-01",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:d61fa947300ce6f0",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "DIY 雨伞混凝土洗手盆制作视频",
-    "prompt": "一段写实风格的 DIY 手工视频，拍摄于带顶棚的露台，背景是水泥墙和木门。一名身穿灰色 T 恤、头戴黑色鸭舌帽的男子站在一张质朴的木桌旁，桌上倒扣着一把撑开的黄色雨伞，像模具一样摆放着。他用抹刀从黑桶里舀出湿润的灰色水泥填进伞面，接着将一个蓝色塑料碗压入水泥中央，并用手将表面抹平。随后，他把光滑的鹅卵石沿碗边围成一圈，逐一按进水泥中。待混凝土凝固后，他取出蓝碗，剥掉黄色伞布，一个边缘嵌满鹅卵石的八角形水泥洗手盆便呈现在眼前。他用无绳电钻在中心钻出排水孔，用抹布将盆体擦拭干净，再用刷子把整个洗手盆刷成白色，最后用喷漆将鹅卵石喷上亮蓝色。结尾画面展示了这款成品设计师款洗手盆被安装在现代浴室中，搭配镀铬水龙头，男子正在流水下洗手。流畅的手持运镜，自然日光，极具满足感的改造过程，教程风格。",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "Linh Ai"
-    ],
-    "author": "Linh Ai",
-    "sourceUrl": "https://x.com/Rajrana12476547/status/2116908365364256821",
-    "createdAt": "2026-11-01",
-    "imageMode": "",
-    "imageModel": "seedance-2"
-  },
-  {
-    "id": "youmind-seedance-2-prompts:4a96062cf793d18e",
-    "sourceId": "youmind-seedance-2-prompts",
-    "title": "大理石水磨石卧室地板视频",
-    "prompt": "竖屏视频，照片级写实风格，明亮空旷的房间，白色墙壁配一扇大窗户。一名身穿蓝色牛仔背带裤的男子用耙子将混凝土地面上堆积如山的数千颗彩色玻璃弹珠均匀铺开，铺满整个房间。一名身穿红色背带裤的女子从大桶中将浓稠的白色自流平环氧树脂倒在弹珠上，光泽的液体缓缓流淌并覆盖住弹珠，她再用刮板将其抹得平整顺滑。一名身穿黄色安全背心的工人使用地面抛光机打磨表面，呈现出令人惊艳的光亮地坪，彩色的圆形弹珠如同打磨过的石子般镶嵌其中。两名工人组装好木质床架，放上白色床垫，并铺上白色床品、米色枕头和一条搭毯。最后一个全景镜头展现出一间温馨现代的卧室，独特的水磨石弹珠地坪在自然光下熠熠生辉。运镜流畅，治愈系装修改造过程，ASMR 氛围，真实光影，细节丰富。",
-    "description": "🎬 观看视频 →",
-    "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg",
-    "referenceImageUrls": [
-      "https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg"
-    ],
-    "tags": [
-      "seedance-2",
-      "所有提示词",
-      "Ruslan Ai"
-    ],
-    "author": "Ruslan Ai",
-    "sourceUrl": "https://x.com/Ruslanchain/status/2116880438530572368",
-    "createdAt": "2026-11-01",
     "imageMode": "",
     "imageModel": "seedance-2"
   }
